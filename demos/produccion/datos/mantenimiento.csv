@@ -1,0 +1,96 @@
+﻿fecha;linea;equipo;tipo;duracion_min;costo;estado
+2026-07-17;Envasado;Llenadora;Preventivo;62;9000;Completada
+2026-07-18;Empaque;Encajonadora;Preventivo;45;21500;Completada
+2026-07-19;Cuajado;Agitador;Preventivo;62;9000;Completada
+2026-07-20;Envasado;Selladora;Preventivo;75;20000;Completada
+2026-07-20;Envasado;Selladora;Correctivo;109;118000;Completada
+2026-07-20;Cuajado;Bomba de transferencia;Preventivo;52;9500;Completada
+2026-07-20;Empaque;Encajonadora;Correctivo;106;90000;Completada
+2026-07-22;Empaque;Termoselladora;Preventivo;43;22500;Completada
+2026-07-23;Envasado;Etiquetadora;Correctivo;147;119000;Completada
+2026-07-26;Cuajado;Cuba de cuajado;Preventivo;81;18500;Completada
+2026-07-26;Cuajado;Bomba de transferencia;Correctivo;103;43000;Completada
+2026-07-28;Envasado;Selladora;Correctivo;68;42000;Completada
+2026-07-28;Empaque;Cinta transportadora;Preventivo;58;19500;Completada
+2026-07-29;Envasado;Etiquetadora;Preventivo;33;17500;Completada
+2026-07-31;Envasado;Llenadora;Preventivo;55;22000;Completada
+2026-08-01;Empaque;Encajonadora;Preventivo;69;22500;Completada
+2026-08-02;Cuajado;Agitador;Preventivo;76;19000;Completada
+2026-08-03;Envasado;Selladora;Preventivo;40;20500;Completada
+2026-08-03;Cuajado;Bomba de transferencia;Preventivo;40;9000;Completada
+2026-08-05;Empaque;Termoselladora;Preventivo;89;19500;Completada
+2026-08-08;Cuajado;Cuba de cuajado;Correctivo;151;27000;Completada
+2026-08-08;Empaque;Termoselladora;Correctivo;157;79000;Completada
+2026-08-09;Cuajado;Cuba de cuajado;Preventivo;39;16500;Completada
+2026-08-09;Cuajado;Bomba de transferencia;Correctivo;154;69000;Completada
+2026-08-11;Empaque;Cinta transportadora;Preventivo;88;10500;Completada
+2026-08-11;Empaque;Cinta transportadora;Correctivo;47;42000;Completada
+2026-08-12;Envasado;Etiquetadora;Preventivo;42;21000;Completada
+2026-08-12;Cuajado;Agitador;Correctivo;177;83000;Completada
+2026-08-14;Envasado;Llenadora;Preventivo;74;22000;Completada
+2026-08-15;Empaque;Encajonadora;Preventivo;79;23500;Completada
+2026-08-16;Cuajado;Agitador;Preventivo;68;13500;Completada
+2026-08-17;Envasado;Selladora;Preventivo;59;20500;Completada
+2026-08-17;Cuajado;Bomba de transferencia;Preventivo;67;23500;Completada
+2026-08-19;Empaque;Termoselladora;Preventivo;30;19000;Completada
+2026-08-23;Cuajado;Cuba de cuajado;Preventivo;39;19000;Completada
+2026-08-25;Empaque;Cinta transportadora;Preventivo;45;20500;Completada
+2026-08-26;Envasado;Etiquetadora;Preventivo;55;15500;Completada
+2026-08-28;Envasado;Llenadora;Preventivo;45;8000;Completada
+2026-08-29;Empaque;Encajonadora;Preventivo;78;14000;Completada
+2026-08-30;Cuajado;Agitador;Preventivo;31;19500;Completada
+2026-08-31;Envasado;Selladora;Preventivo;57;22500;Completada
+2026-08-31;Cuajado;Bomba de transferencia;Preventivo;47;20500;Completada
+2026-09-01;Envasado;Llenadora;Correctivo;62;32000;Completada
+2026-09-02;Empaque;Termoselladora;Preventivo;41;16000;Completada
+2026-09-06;Cuajado;Cuba de cuajado;Preventivo;48;17500;Completada
+2026-09-06;Cuajado;Bomba de transferencia;Correctivo;70;103000;Completada
+2026-09-06;Empaque;Termoselladora;Correctivo;72;43000;Completada
+2026-09-08;Empaque;Cinta transportadora;Preventivo;68;13500;Completada
+2026-09-09;Envasado;Etiquetadora;Preventivo;44;22500;Completada
+2026-09-10;Empaque;Encajonadora;Correctivo;97;109000;Completada
+2026-09-11;Envasado;Llenadora;Preventivo;90;12500;Completada
+2026-09-12;Empaque;Encajonadora;Preventivo;71;14500;Completada
+2026-09-13;Cuajado;Agitador;Preventivo;61;23000;Completada
+2026-09-14;Envasado;Selladora;Preventivo;69;16500;Completada
+2026-09-14;Cuajado;Bomba de transferencia;Preventivo;40;9000;Completada
+2026-09-15;Empaque;Encajonadora;Correctivo;87;20000;Completada
+2026-09-16;Empaque;Termoselladora;Preventivo;68;8500;Completada
+2026-09-19;Empaque;Termoselladora;Correctivo;162;51000;Completada
+2026-09-19;Empaque;Cinta transportadora;Correctivo;95;30000;Completada
+2026-09-20;Cuajado;Cuba de cuajado;Preventivo;70;8000;Completada
+2026-09-21;Envasado;Etiquetadora;Correctivo;175;83000;Completada
+2026-09-22;Empaque;Cinta transportadora;Preventivo;52;19500;Completada
+2026-09-22;Empaque;Cinta transportadora;Correctivo;153;62000;Completada
+2026-09-22;Empaque;Encajonadora;Correctivo;137;41000;Completada
+2026-09-23;Envasado;Etiquetadora;Preventivo;86;8500;Completada
+2026-09-25;Envasado;Llenadora;Preventivo;36;17500;Completada
+2026-09-26;Empaque;Encajonadora;Preventivo;46;13500;Completada
+2026-09-27;Envasado;Llenadora;Correctivo;130;82000;Completada
+2026-09-27;Cuajado;Agitador;Preventivo;40;22000;Completada
+2026-09-28;Envasado;Selladora;Preventivo;72;13500;Completada
+2026-09-28;Cuajado;Bomba de transferencia;Preventivo;36;15000;Completada
+2026-09-28;Empaque;Cinta transportadora;Correctivo;26;100000;Completada
+2026-09-30;Empaque;Termoselladora;Preventivo;78;20000;Completada
+2026-10-01;Cuajado;Agitador;Correctivo;48;54000;Completada
+2026-10-03;Envasado;Etiquetadora;Correctivo;145;75000;Completada
+2026-10-04;Envasado;Selladora;Correctivo;114;17000;Completada
+2026-10-04;Cuajado;Cuba de cuajado;Preventivo;86;10000;Completada
+2026-10-06;Empaque;Cinta transportadora;Preventivo;66;12000;Completada
+2026-10-07;Envasado;Etiquetadora;Preventivo;72;10000;Completada
+2026-10-08;Envasado;Etiquetadora;Correctivo;68;34000;Completada
+2026-10-09;Envasado;Llenadora;Preventivo;42;22500;Completada
+2026-10-10;Cuajado;Cuba de cuajado;Correctivo;68;61000;Completada
+2026-10-10;Empaque;Encajonadora;Preventivo;57;20000;Completada
+2026-10-11;Cuajado;Agitador;Preventivo;81;8500;Completada
+2026-10-12;Envasado;Selladora;Preventivo;72;20000;Completada
+2026-10-12;Cuajado;Bomba de transferencia;Preventivo;89;19000;Completada
+2026-10-15;Empaque;Cinta transportadora;Preventivo;60;12000;Programada
+2026-10-16;Envasado;Etiquetadora;Preventivo;60;12000;Programada
+2026-10-18;Empaque;Encajonadora;Preventivo;60;12000;Programada
+2026-10-19;Cuajado;Agitador;Preventivo;60;12000;Programada
+2026-10-20;Envasado;Llenadora;Preventivo;60;12000;Programada
+2026-10-23;Cuajado;Bomba de transferencia;Preventivo;60;12000;Programada
+2026-10-24;Envasado;Selladora;Preventivo;60;12000;Programada
+2026-10-25;Cuajado;Cuba de cuajado;Preventivo;60;12000;Programada
+2026-10-25;Empaque;Termoselladora;Preventivo;60;12000;Programada

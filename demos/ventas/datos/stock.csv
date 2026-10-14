@@ -1,0 +1,25 @@
+﻿producto;categoria;stock;plazo_entrega_dias;costo_unitario
+Gaseosa cola 2,25 L;Bebidas;4121;10;1548
+Agua mineral 1,5 L;Bebidas;382;10;806
+Jugo en polvo;Bebidas;3059;7;279
+Cerveza lata 473 ml;Bebidas;160;10;1275
+Aceite girasol 900 ml;Almacén;2067;7;2147
+Arroz largo fino 1 kg;Almacén;177;14;1115
+Fideos tallarín 500 g;Almacén;165;14;801
+Yerba mate 1 kg;Almacén;1887;7;3329
+Azúcar 1 kg;Almacén;3569;7;1006
+Harina 000 1 kg;Almacén;217;14;700
+Galletitas surtidas;Almacén;2043;14;1101
+Café molido 250 g;Almacén;215;14;3081
+Detergente 750 ml;Limpieza;2223;14;1610
+Lavandina 1 L;Limpieza;1208;7;554
+Jabón en polvo 3 kg;Limpieza;135;14;8610
+Papel higiénico x4;Limpieza;661;5;3382
+Suavizante 900 ml;Limpieza;1775;14;1954
+Leche entera 1 L;Lácteos;903;7;1058
+Yogur bebible 1 L;Lácteos;863;7;1388
+Queso cremoso kg;Lácteos;135;14;5042
+Manteca 200 g;Lácteos;1613;14;2315
+Dulce de leche 400 g;Lácteos;787;5;1802
+Crema de leche 350 ml;Lácteos;351;7;2486
+Queso rallado 150 g;Lácteos;1064;5;1592

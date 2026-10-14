@@ -1,0 +1,49 @@
+﻿fecha_pedido;proveedor;producto;cantidad;fecha_prometida;fecha_recibida;estado
+2026-07-25;Distribuidora Andina;Papel higiénico x4;650;2026-08-03;2026-08-03;Recibida
+2026-07-27;Mayorista del Sur;Gaseosa cola 2,25 L;750;2026-08-03;2026-08-03;Recibida
+2026-07-30;Almacén Central Mayorista;Queso cremoso kg;100;2026-08-08;2026-08-07;Recibida
+2026-07-30;Lácteos Unidos;Papel higiénico x4;300;2026-08-09;2026-08-09;Recibida
+2026-07-31;Distribuidora Andina;Jabón en polvo 3 kg;550;2026-08-10;2026-08-10;Recibida
+2026-08-01;Mayorista del Sur;Yerba mate 1 kg;150;2026-08-08;2026-08-07;Recibida
+2026-08-05;Almacén Central Mayorista;Galletitas surtidas;650;2026-08-11;2026-08-10;Recibida
+2026-08-05;Distribuidora Andina;Galletitas surtidas;450;2026-08-15;2026-08-15;Recibida
+2026-08-07;Almacén Central Mayorista;Jugo en polvo;150;2026-08-17;2026-08-16;Recibida
+2026-08-07;Mayorista del Sur;Queso cremoso kg;750;2026-08-12;2026-08-12;Recibida
+2026-08-08;Distribuidora Andina;Jugo en polvo;600;2026-08-18;2026-08-18;Recibida
+2026-08-09;Distribuidora Andina;Galletitas surtidas;300;2026-08-17;2026-08-16;Recibida
+2026-08-10;Distribuidora Andina;Lavandina 1 L;650;2026-08-16;2026-08-16;Recibida
+2026-08-11;Limpieza Total SA;Café molido 250 g;100;2026-08-18;2026-08-17;Recibida
+2026-08-14;Mayorista del Sur;Café molido 250 g;400;2026-08-23;2026-08-22;Recibida
+2026-08-15;Limpieza Total SA;Cerveza lata 473 ml;500;2026-08-21;2026-08-20;Recibida
+2026-08-17;Almacén Central Mayorista;Detergente 750 ml;450;2026-08-23;2026-08-23;Recibida
+2026-08-18;Almacén Central Mayorista;Suavizante 900 ml;550;2026-08-28;2026-08-28;Recibida
+2026-08-18;Distribuidora Andina;Gaseosa cola 2,25 L;450;2026-08-23;2026-08-22;Recibida
+2026-08-30;Almacén Central Mayorista;Arroz largo fino 1 kg;700;2026-09-09;2026-09-08;Recibida
+2026-09-04;Almacén Central Mayorista;Leche entera 1 L;350;2026-09-09;2026-09-09;Recibida
+2026-09-07;Almacén Central Mayorista;Queso cremoso kg;400;2026-09-12;2026-09-12;Recibida
+2026-09-09;Mayorista del Sur;Detergente 750 ml;450;2026-09-15;2026-09-19;Recibida
+2026-09-12;Lácteos Unidos;Yerba mate 1 kg;750;2026-09-22;2026-09-21;Recibida
+2026-09-12;Mayorista del Sur;Queso cremoso kg;300;2026-09-18;2026-09-17;Recibida
+2026-09-14;Distribuidora Andina;Aceite girasol 900 ml;300;2026-09-23;2026-09-22;Recibida
+2026-09-16;Limpieza Total SA;Yogur bebible 1 L;550;2026-09-22;2026-09-23;Recibida
+2026-09-20;Distribuidora Andina;Café molido 250 g;700;2026-09-26;2026-09-26;Recibida
+2026-09-21;Distribuidora Andina;Café molido 250 g;400;2026-09-28;2026-09-27;Recibida
+2026-09-24;Almacén Central Mayorista;Queso cremoso kg;550;2026-09-29;2026-09-28;Recibida
+2026-09-25;Mayorista del Sur;Arroz largo fino 1 kg;400;2026-10-01;2026-09-30;Recibida
+2026-09-27;Distribuidora Andina;Detergente 750 ml;200;2026-10-07;2026-10-06;Recibida
+2026-09-27;Limpieza Total SA;Papel higiénico x4;200;2026-10-03;;Pendiente
+2026-09-27;Limpieza Total SA;Queso rallado 150 g;250;2026-10-03;2026-10-07;Recibida
+2026-09-27;Mayorista del Sur;Arroz largo fino 1 kg;200;2026-10-04;;Pendiente
+2026-09-28;Lácteos Unidos;Queso rallado 150 g;450;2026-10-04;2026-10-04;Recibida
+2026-09-29;Distribuidora Andina;Detergente 750 ml;750;2026-10-07;2026-10-06;Recibida
+2026-09-29;Limpieza Total SA;Suavizante 900 ml;400;2026-10-07;;Pendiente
+2026-09-29;Lácteos Unidos;Crema de leche 350 ml;250;2026-10-06;;Pendiente
+2026-09-29;Lácteos Unidos;Galletitas surtidas;300;2026-10-07;2026-10-06;Recibida
+2026-09-29;Mayorista del Sur;Crema de leche 350 ml;450;2026-10-04;2026-10-04;Recibida
+2026-10-03;Limpieza Total SA;Queso rallado 150 g;300;2026-10-13;2026-10-14;Recibida
+2026-10-05;Mayorista del Sur;Galletitas surtidas;650;2026-10-13;2026-10-13;Recibida
+2026-10-07;Mayorista del Sur;Gaseosa cola 2,25 L;150;2026-10-17;;Pendiente
+2026-10-08;Limpieza Total SA;Galletitas surtidas;250;2026-10-17;;Pendiente
+2026-10-08;Limpieza Total SA;Harina 000 1 kg;600;2026-10-17;;Pendiente
+2026-10-10;Limpieza Total SA;Lavandina 1 L;250;2026-10-15;;Pendiente
+2026-10-10;Mayorista del Sur;Suavizante 900 ml;600;2026-10-15;;Pendiente

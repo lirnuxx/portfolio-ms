@@ -1,0 +1,18 @@
+PANEL DE PRODUCCION Y OEE (demo con datos ficticios)
+
+USO
+  Doble clic en Abrir_Produccion.bat
+  -> inicia un mini-servidor local (PowerShell, viene con Windows) y abre el panel en el navegador.
+  -> no necesita instalar nada, ni permisos de administrador, ni internet.
+  -> queda una ventana minimizada; se cierra sola tras 30 minutos sin uso.
+
+DATOS (carpeta datos\, archivos CSV)
+  produccion.csv, paradas.csv, plan.csv, mantenimiento.csv
+  Para usar datos propios: abrir cada CSV, reemplazar las filas de ejemplo respetando los nombres
+  de columna, guardar como CSV y recargar la pagina (F5). Se aceptan coma o punto y coma.
+  Fechas: 2026-10-13 o 13/10/2026. Decimales: punto o coma.
+
+Si Windows muestra un aviso de seguridad al descargar el zip: clic derecho sobre el .zip ->
+Propiedades -> marcar "Desbloquear" -> Aceptar, y recien ahi extraer.
+
+Desarrollado por Mateo Scovenna.

@@ -1,0 +1,994 @@
+﻿fecha;cliente;zona;importe
+2026-07-16;Kiosco Norte;Sur;63200.0
+2026-07-16;Mini mercado Del Parque;Norte;106900.0
+2026-07-16;Kiosco Los Pinos;Norte;47700.0
+2026-07-16;Kiosco Del Parque;Sur;292500.0
+2026-07-16;Despensa Don Pedro;Norte;162000.0
+2026-07-16;Autoservicio Central;Centro;260200.0
+2026-07-16;Almacén Central;Oeste;116500.0
+2026-07-16;Kiosco Familiar;Oeste;126600.0
+2026-07-16;Mini mercado Los Pinos;Centro;132000.0
+2026-07-16;Autoservicio Familiar;Norte;50700.0
+2026-07-16;Kiosco Del Parque;Sur;81300.0
+2026-07-16;Autoservicio Familiar;Norte;79800.0
+2026-07-16;Autoservicio Los Pinos;Centro;43600.0
+2026-07-16;Kiosco Norte;Sur;44800.0
+2026-07-16;Autoservicio Central;Centro;35100.0
+2026-07-17;Autoservicio Central;Centro;158100.0
+2026-07-17;Mini mercado Norte;Sur;134300.0
+2026-07-17;Autoservicio Central;Centro;115000.0
+2026-07-17;Kiosco Mi Barrio;Oeste;203100.0
+2026-07-17;Autoservicio Central;Centro;217900.0
+2026-07-17;Autoservicio Central;Centro;117100.0
+2026-07-17;Autoservicio Del Parque;Sur;47500.0
+2026-07-17;Autoservicio Central;Centro;81300.0
+2026-07-17;Supermercado La Esquina;Centro;108400.0
+2026-07-17;Kiosco Mi Barrio;Oeste;296800.0
+2026-07-17;Almacén Don Pedro;Oeste;46700.0
+2026-07-17;Autoservicio Los Pinos;Centro;54900.0
+2026-07-18;Kiosco Del Parque;Sur;77400.0
+2026-07-18;Autoservicio Central;Centro;119000.0
+2026-07-18;Autoservicio Central;Centro;86800.0
+2026-07-18;Almacén Central;Oeste;70800.0
+2026-07-18;Supermercado La Esquina;Centro;63000.0
+2026-07-18;Kiosco San Martín;Norte;128100.0
+2026-07-18;Kiosco Mi Barrio;Oeste;102400.0
+2026-07-18;Kiosco Mi Barrio;Oeste;126700.0
+2026-07-18;Autoservicio Familiar;Norte;58800.0
+2026-07-18;Mini mercado Sur;Norte;212700.0
+2026-07-18;Mini mercado Sur;Norte;52300.0
+2026-07-19;Autoservicio Mi Barrio;Centro;130700.0
+2026-07-19;Kiosco El Sol;Oeste;24400.0
+2026-07-19;Autoservicio Familiar;Norte;147800.0
+2026-07-19;Mini mercado Del Parque;Norte;167800.0
+2026-07-19;Kiosco Los Pinos;Norte;150000.0
+2026-07-19;Supermercado La Esquina;Centro;74800.0
+2026-07-19;Almacén Los Pinos;Oeste;116600.0
+2026-07-19;Kiosco Mi Barrio;Oeste;165400.0
+2026-07-19;Autoservicio Los Pinos;Centro;62700.0
+2026-07-19;Despensa San Martín;Oeste;72900.0
+2026-07-19;Kiosco Norte;Sur;63100.0
+2026-07-19;Autoservicio Mi Barrio;Centro;188100.0
+2026-07-19;Autoservicio Familiar;Norte;186600.0
+2026-07-19;Mini mercado Norte;Sur;42900.0
+2026-07-20;Supermercado La Esquina;Centro;154500.0
+2026-07-20;Autoservicio El Sol;Sur;31500.0
+2026-07-20;Kiosco Los Pinos;Norte;38700.0
+2026-07-20;Almacén Don Pedro;Oeste;29300.0
+2026-07-20;Almacén Familiar;Norte;86800.0
+2026-07-20;Kiosco Mi Barrio;Oeste;154800.0
+2026-07-20;Mini mercado Norte;Sur;191800.0
+2026-07-20;Despensa Don Pedro;Norte;61500.0
+2026-07-20;Kiosco Familiar;Oeste;63900.0
+2026-07-21;Autoservicio Del Parque;Sur;83700.0
+2026-07-21;Autoservicio Central;Centro;155900.0
+2026-07-21;Almacén Central;Oeste;33100.0
+2026-07-21;Kiosco Mi Barrio;Oeste;217900.0
+2026-07-21;Autoservicio Familiar;Norte;129200.0
+2026-07-21;Autoservicio Central;Centro;124300.0
+2026-07-21;Autoservicio Familiar;Norte;95900.0
+2026-07-21;Almacén Central;Oeste;97200.0
+2026-07-21;Autoservicio Familiar;Norte;69400.0
+2026-07-22;Kiosco Mi Barrio;Oeste;280400.0
+2026-07-22;Kiosco El Sol;Oeste;24000.0
+2026-07-22;Despensa Don Pedro;Norte;75600.0
+2026-07-22;Mini mercado Norte;Sur;74400.0
+2026-07-22;Kiosco Los Pinos;Norte;73000.0
+2026-07-22;Mini mercado Norte;Sur;71800.0
+2026-07-22;Almacén Los Pinos;Oeste;132900.0
+2026-07-22;Autoservicio Familiar;Norte;105700.0
+2026-07-22;Supermercado Sur;Sur;83400.0
+2026-07-22;Supermercado La Esquina;Centro;44800.0
+2026-07-22;Almacén Sur;Sur;45700.0
+2026-07-22;Kiosco El Sol;Oeste;28400.0
+2026-07-22;Kiosco Mi Barrio;Oeste;66000.0
+2026-07-22;Autoservicio Central;Centro;209800.0
+2026-07-22;Kiosco El Sol;Oeste;97700.0
+2026-07-23;Kiosco Mi Barrio;Oeste;105900.0
+2026-07-23;Mini mercado Norte;Sur;91400.0
+2026-07-23;Despensa Don Pedro;Norte;60600.0
+2026-07-23;Kiosco Los Pinos;Norte;111500.0
+2026-07-23;Kiosco Mi Barrio;Oeste;280900.0
+2026-07-23;Kiosco Del Parque;Sur;77600.0
+2026-07-23;Autoservicio Central;Centro;97700.0
+2026-07-23;Kiosco Los Pinos;Norte;70700.0
+2026-07-23;Autoservicio Los Pinos;Centro;81900.0
+2026-07-23;Kiosco Mi Barrio;Oeste;231000.0
+2026-07-23;Autoservicio Central;Centro;183700.0
+2026-07-23;Supermercado La Esquina;Centro;91400.0
+2026-07-23;Almacén Los Pinos;Oeste;111800.0
+2026-07-24;Kiosco Mi Barrio;Oeste;357000.0
+2026-07-24;Autoservicio Familiar;Norte;112100.0
+2026-07-24;Almacén Don Pedro;Oeste;53200.0
+2026-07-24;Kiosco Mi Barrio;Oeste;159500.0
+2026-07-24;Kiosco Familiar;Oeste;140800.0
+2026-07-24;Despensa Mi Barrio;Centro;27500.0
+2026-07-24;Autoservicio Los Pinos;Centro;84000.0
+2026-07-24;Autoservicio El Sol;Sur;128300.0
+2026-07-25;Kiosco Mi Barrio;Oeste;231800.0
+2026-07-25;Despensa San Martín;Oeste;68500.0
+2026-07-25;Autoservicio Los Pinos;Centro;37000.0
+2026-07-25;Kiosco Familiar;Oeste;130700.0
+2026-07-25;Mini mercado Del Parque;Norte;212400.0
+2026-07-25;Despensa La Estrella;Centro;56100.0
+2026-07-25;Mini mercado Los Pinos;Centro;105100.0
+2026-07-25;Kiosco Norte;Sur;42200.0
+2026-07-25;Supermercado Sur;Sur;78600.0
+2026-07-25;Kiosco San Martín;Norte;94200.0
+2026-07-26;Kiosco El Sol;Oeste;73400.0
+2026-07-26;Despensa San Martín;Oeste;81200.0
+2026-07-26;Autoservicio Familiar;Norte;40400.0
+2026-07-26;Despensa Don Pedro;Norte;33700.0
+2026-07-26;Autoservicio La Estrella;Norte;54000.0
+2026-07-26;Autoservicio El Sol;Sur;46800.0
+2026-07-26;Despensa Don Pedro;Norte;52700.0
+2026-07-26;Autoservicio Central;Centro;53000.0
+2026-07-26;Kiosco Los Pinos;Norte;66700.0
+2026-07-26;Kiosco Del Parque;Sur;113400.0
+2026-07-27;Kiosco Mi Barrio;Oeste;159200.0
+2026-07-27;Despensa La Estrella;Centro;70500.0
+2026-07-27;Kiosco Mi Barrio;Oeste;70700.0
+2026-07-27;Despensa La Estrella;Centro;186800.0
+2026-07-27;Autoservicio Mi Barrio;Centro;92900.0
+2026-07-27;Almacén Sur;Sur;141600.0
+2026-07-27;Autoservicio Familiar;Norte;183900.0
+2026-07-27;Almacén Sur;Sur;82900.0
+2026-07-27;Kiosco Los Pinos;Norte;124500.0
+2026-07-27;Autoservicio Central;Centro;85300.0
+2026-07-27;Autoservicio La Estrella;Norte;70300.0
+2026-07-28;Mini mercado Del Parque;Norte;172200.0
+2026-07-28;Kiosco Mi Barrio;Oeste;77100.0
+2026-07-28;Mini mercado Norte;Sur;150900.0
+2026-07-28;Mini mercado Del Parque;Norte;187400.0
+2026-07-28;Kiosco Mi Barrio;Oeste;68200.0
+2026-07-28;Autoservicio La Estrella;Norte;29400.0
+2026-07-28;Kiosco Familiar;Oeste;65900.0
+2026-07-28;Autoservicio Familiar;Norte;77300.0
+2026-07-28;Mini mercado Del Parque;Norte;94800.0
+2026-07-28;Kiosco Mi Barrio;Oeste;111800.0
+2026-07-29;Kiosco Mi Barrio;Oeste;70300.0
+2026-07-29;Kiosco Familiar;Oeste;92000.0
+2026-07-29;Despensa Don Pedro;Norte;121600.0
+2026-07-29;Kiosco Los Pinos;Norte;68900.0
+2026-07-29;Kiosco Mi Barrio;Oeste;77000.0
+2026-07-29;Mini mercado Del Parque;Norte;105900.0
+2026-07-29;Autoservicio Del Parque;Sur;136400.0
+2026-07-29;Despensa San Martín;Oeste;73300.0
+2026-07-29;Almacén Familiar;Norte;123100.0
+2026-07-29;Autoservicio Familiar;Norte;230000.0
+2026-07-30;Autoservicio Familiar;Norte;136900.0
+2026-07-30;Autoservicio Central;Centro;88200.0
+2026-07-30;Mini mercado Del Parque;Norte;47100.0
+2026-07-30;Kiosco Del Parque;Sur;47000.0
+2026-07-30;Mini mercado Del Parque;Norte;97700.0
+2026-07-30;Autoservicio La Estrella;Norte;104300.0
+2026-07-30;Autoservicio Los Pinos;Centro;98800.0
+2026-07-30;Kiosco El Sol;Oeste;95800.0
+2026-07-30;Almacén Sur;Sur;87300.0
+2026-07-30;Autoservicio Central;Centro;160600.0
+2026-07-31;Despensa San Martín;Oeste;90200.0
+2026-07-31;Kiosco Mi Barrio;Oeste;260700.0
+2026-07-31;Mini mercado Del Parque;Norte;109400.0
+2026-07-31;Autoservicio Central;Centro;59800.0
+2026-07-31;Autoservicio Central;Centro;109600.0
+2026-07-31;Autoservicio Central;Centro;122700.0
+2026-07-31;Kiosco Mi Barrio;Oeste;39800.0
+2026-07-31;Almacén Los Pinos;Oeste;134100.0
+2026-07-31;Mini mercado Del Parque;Norte;99000.0
+2026-07-31;Despensa La Estrella;Centro;164300.0
+2026-07-31;Autoservicio Central;Centro;51900.0
+2026-07-31;Kiosco Los Pinos;Norte;42000.0
+2026-07-31;Autoservicio El Sol;Sur;139000.0
+2026-08-01;Supermercado Sur;Sur;137300.0
+2026-08-01;Mini mercado Los Pinos;Centro;105000.0
+2026-08-01;Almacén Familiar;Norte;86500.0
+2026-08-01;Kiosco El Sol;Oeste;42500.0
+2026-08-01;Kiosco Familiar;Oeste;138300.0
+2026-08-01;Supermercado La Esquina;Centro;90500.0
+2026-08-01;Kiosco San Martín;Norte;43200.0
+2026-08-01;Despensa San Martín;Oeste;123700.0
+2026-08-01;Kiosco Del Parque;Sur;100500.0
+2026-08-01;Supermercado La Esquina;Centro;22000.0
+2026-08-01;Kiosco Del Parque;Sur;57900.0
+2026-08-01;Autoservicio San Martín;Centro;145500.0
+2026-08-01;Autoservicio La Estrella;Norte;67400.0
+2026-08-02;Autoservicio La Estrella;Norte;57600.0
+2026-08-02;Almacén Los Pinos;Oeste;122200.0
+2026-08-02;Kiosco Del Parque;Sur;46100.0
+2026-08-02;Autoservicio Central;Centro;71800.0
+2026-08-02;Supermercado Sur;Sur;78100.0
+2026-08-02;Autoservicio Del Parque;Sur;25600.0
+2026-08-02;Mini mercado Del Parque;Norte;50700.0
+2026-08-02;Supermercado La Esquina;Centro;94500.0
+2026-08-02;Despensa Mi Barrio;Centro;139800.0
+2026-08-02;Autoservicio Central;Centro;173900.0
+2026-08-02;Kiosco Familiar;Oeste;73000.0
+2026-08-02;Despensa San Martín;Oeste;146100.0
+2026-08-03;Kiosco Mi Barrio;Oeste;98400.0
+2026-08-03;Supermercado La Esquina;Centro;105800.0
+2026-08-03;Autoservicio Del Parque;Sur;63800.0
+2026-08-03;Autoservicio Los Pinos;Centro;47900.0
+2026-08-03;Mini mercado Sur;Norte;63200.0
+2026-08-03;Autoservicio Familiar;Norte;58500.0
+2026-08-03;Despensa Mi Barrio;Centro;58000.0
+2026-08-03;Almacén Don Pedro;Oeste;27900.0
+2026-08-04;Autoservicio Central;Centro;72900.0
+2026-08-04;Autoservicio El Sol;Sur;56400.0
+2026-08-04;Almacén Sur;Sur;40000.0
+2026-08-04;Almacén Familiar;Norte;68800.0
+2026-08-04;Kiosco Mi Barrio;Oeste;89500.0
+2026-08-04;Mini mercado Norte;Sur;63300.0
+2026-08-04;Mini mercado Del Parque;Norte;30300.0
+2026-08-04;Kiosco Mi Barrio;Oeste;161700.0
+2026-08-04;Autoservicio Los Pinos;Centro;110200.0
+2026-08-04;Kiosco Del Parque;Sur;77900.0
+2026-08-05;Mini mercado Norte;Sur;58800.0
+2026-08-05;Mini mercado Del Parque;Norte;67500.0
+2026-08-05;Kiosco El Sol;Oeste;78900.0
+2026-08-05;Autoservicio Familiar;Norte;23100.0
+2026-08-05;Mini mercado Del Parque;Norte;41800.0
+2026-08-05;Kiosco Familiar;Oeste;125500.0
+2026-08-05;Autoservicio La Estrella;Norte;87300.0
+2026-08-05;Mini mercado Del Parque;Norte;65300.0
+2026-08-05;Autoservicio Del Parque;Sur;49900.0
+2026-08-06;Kiosco El Sol;Oeste;137400.0
+2026-08-06;Kiosco Mi Barrio;Oeste;193500.0
+2026-08-06;Kiosco San Martín;Norte;127000.0
+2026-08-06;Kiosco San Martín;Norte;75800.0
+2026-08-06;Kiosco Mi Barrio;Oeste;365200.0
+2026-08-06;Autoservicio Central;Centro;175500.0
+2026-08-06;Autoservicio Los Pinos;Centro;144700.0
+2026-08-06;Despensa Mi Barrio;Centro;29500.0
+2026-08-06;Autoservicio Central;Centro;94600.0
+2026-08-06;Supermercado La Esquina;Centro;67100.0
+2026-08-06;Mini mercado Del Parque;Norte;80800.0
+2026-08-06;Mini mercado Del Parque;Norte;43100.0
+2026-08-06;Despensa Don Pedro;Norte;92400.0
+2026-08-06;Autoservicio El Sol;Sur;48200.0
+2026-08-07;Kiosco Familiar;Oeste;50400.0
+2026-08-07;Autoservicio Familiar;Norte;60800.0
+2026-08-07;Autoservicio El Sol;Sur;87200.0
+2026-08-07;Despensa Mi Barrio;Centro;75300.0
+2026-08-07;Almacén Sur;Sur;58400.0
+2026-08-07;Autoservicio Familiar;Norte;82600.0
+2026-08-07;Despensa San Martín;Oeste;30900.0
+2026-08-07;Mini mercado Los Pinos;Centro;44000.0
+2026-08-07;Autoservicio Familiar;Norte;194900.0
+2026-08-07;Kiosco Mi Barrio;Oeste;137800.0
+2026-08-07;Kiosco Mi Barrio;Oeste;351500.0
+2026-08-07;Kiosco Familiar;Oeste;40300.0
+2026-08-07;Kiosco El Sol;Oeste;125400.0
+2026-08-07;Supermercado Sur;Sur;91500.0
+2026-08-08;Supermercado La Esquina;Centro;155800.0
+2026-08-08;Kiosco Mi Barrio;Oeste;145700.0
+2026-08-08;Almacén Los Pinos;Oeste;100700.0
+2026-08-08;Despensa La Estrella;Centro;65400.0
+2026-08-08;Despensa La Estrella;Centro;83600.0
+2026-08-08;Autoservicio Del Parque;Sur;30700.0
+2026-08-08;Almacén Familiar;Norte;87800.0
+2026-08-08;Autoservicio Los Pinos;Centro;103000.0
+2026-08-08;Kiosco Los Pinos;Norte;51300.0
+2026-08-08;Autoservicio Central;Centro;104200.0
+2026-08-08;Autoservicio La Estrella;Norte;73900.0
+2026-08-08;Autoservicio Los Pinos;Centro;60300.0
+2026-08-08;Autoservicio Los Pinos;Centro;148000.0
+2026-08-09;Supermercado Sur;Sur;60300.0
+2026-08-09;Kiosco Mi Barrio;Oeste;108100.0
+2026-08-09;Supermercado La Esquina;Centro;70200.0
+2026-08-09;Kiosco Mi Barrio;Oeste;100100.0
+2026-08-09;Autoservicio Central;Centro;99700.0
+2026-08-09;Despensa Mi Barrio;Centro;103000.0
+2026-08-09;Almacén Don Pedro;Oeste;36400.0
+2026-08-09;Supermercado Sur;Sur;57800.0
+2026-08-09;Autoservicio Central;Centro;178300.0
+2026-08-10;Autoservicio Familiar;Norte;37200.0
+2026-08-10;Autoservicio Central;Centro;271800.0
+2026-08-10;Supermercado La Esquina;Centro;31500.0
+2026-08-10;Autoservicio Del Parque;Sur;90900.0
+2026-08-10;Almacén Central;Oeste;179800.0
+2026-08-10;Autoservicio Familiar;Norte;162400.0
+2026-08-10;Mini mercado Norte;Sur;69100.0
+2026-08-10;Despensa La Estrella;Centro;130600.0
+2026-08-10;Almacén Don Pedro;Oeste;44300.0
+2026-08-10;Mini mercado Del Parque;Norte;52300.0
+2026-08-10;Kiosco Mi Barrio;Oeste;124700.0
+2026-08-10;Autoservicio Mi Barrio;Centro;80900.0
+2026-08-10;Almacén Central;Oeste;68700.0
+2026-08-10;Kiosco Del Parque;Sur;107200.0
+2026-08-11;Kiosco El Sol;Oeste;81500.0
+2026-08-11;Mini mercado Norte;Sur;55900.0
+2026-08-11;Almacén Los Pinos;Oeste;54200.0
+2026-08-11;Despensa San Martín;Oeste;113900.0
+2026-08-11;Autoservicio Central;Centro;153500.0
+2026-08-11;Autoservicio Los Pinos;Centro;61000.0
+2026-08-11;Autoservicio Los Pinos;Centro;57200.0
+2026-08-11;Kiosco Familiar;Oeste;115600.0
+2026-08-11;Despensa Mi Barrio;Centro;42400.0
+2026-08-11;Despensa La Estrella;Centro;52800.0
+2026-08-11;Autoservicio Mi Barrio;Centro;31500.0
+2026-08-11;Mini mercado Del Parque;Norte;243700.0
+2026-08-12;Kiosco Del Parque;Sur;120900.0
+2026-08-12;Autoservicio Central;Centro;129100.0
+2026-08-12;Almacén Familiar;Norte;61800.0
+2026-08-12;Kiosco Mi Barrio;Oeste;138600.0
+2026-08-12;Autoservicio Los Pinos;Centro;108700.0
+2026-08-12;Autoservicio La Estrella;Norte;138700.0
+2026-08-12;Kiosco Norte;Sur;74300.0
+2026-08-12;Mini mercado Del Parque;Norte;50800.0
+2026-08-13;Autoservicio Familiar;Norte;143900.0
+2026-08-13;Autoservicio Los Pinos;Centro;126100.0
+2026-08-13;Autoservicio Central;Centro;155100.0
+2026-08-13;Autoservicio Central;Centro;122100.0
+2026-08-13;Kiosco Norte;Sur;122800.0
+2026-08-13;Autoservicio Familiar;Norte;108200.0
+2026-08-13;Supermercado La Esquina;Centro;118500.0
+2026-08-13;Kiosco Familiar;Oeste;47200.0
+2026-08-13;Autoservicio El Sol;Sur;70700.0
+2026-08-14;Autoservicio Familiar;Norte;98600.0
+2026-08-14;Supermercado La Esquina;Centro;146600.0
+2026-08-14;Autoservicio San Martín;Centro;162500.0
+2026-08-14;Kiosco Mi Barrio;Oeste;157700.0
+2026-08-14;Autoservicio Los Pinos;Centro;36100.0
+2026-08-14;Autoservicio Del Parque;Sur;81600.0
+2026-08-14;Mini mercado Los Pinos;Centro;50400.0
+2026-08-14;Kiosco Del Parque;Sur;78600.0
+2026-08-14;Supermercado La Esquina;Centro;105400.0
+2026-08-14;Kiosco Del Parque;Sur;97700.0
+2026-08-15;Mini mercado Los Pinos;Centro;42800.0
+2026-08-15;Autoservicio Familiar;Norte;21700.0
+2026-08-15;Mini mercado Norte;Sur;92600.0
+2026-08-15;Supermercado Sur;Sur;47900.0
+2026-08-15;Kiosco El Sol;Oeste;69800.0
+2026-08-15;Mini mercado Del Parque;Norte;65900.0
+2026-08-15;Autoservicio Familiar;Norte;103100.0
+2026-08-15;Kiosco Mi Barrio;Oeste;97300.0
+2026-08-16;Kiosco Mi Barrio;Oeste;92100.0
+2026-08-16;Almacén Los Pinos;Oeste;57600.0
+2026-08-16;Kiosco Del Parque;Sur;102200.0
+2026-08-16;Supermercado La Esquina;Centro;57000.0
+2026-08-16;Kiosco Familiar;Oeste;111900.0
+2026-08-16;Autoservicio Del Parque;Sur;141300.0
+2026-08-16;Autoservicio San Martín;Centro;49700.0
+2026-08-16;Kiosco Mi Barrio;Oeste;162100.0
+2026-08-16;Autoservicio Central;Centro;51800.0
+2026-08-16;Autoservicio El Sol;Sur;87900.0
+2026-08-17;Kiosco Familiar;Oeste;66400.0
+2026-08-17;Kiosco Mi Barrio;Oeste;135400.0
+2026-08-17;Almacén Sur;Sur;66500.0
+2026-08-17;Kiosco Mi Barrio;Oeste;224400.0
+2026-08-17;Kiosco Familiar;Oeste;157100.0
+2026-08-17;Mini mercado Los Pinos;Centro;118900.0
+2026-08-17;Despensa La Estrella;Centro;73800.0
+2026-08-17;Kiosco Del Parque;Sur;48500.0
+2026-08-17;Kiosco Mi Barrio;Oeste;214600.0
+2026-08-17;Autoservicio Familiar;Norte;52300.0
+2026-08-18;Autoservicio Familiar;Norte;77400.0
+2026-08-18;Mini mercado Norte;Sur;106100.0
+2026-08-18;Autoservicio La Estrella;Norte;183400.0
+2026-08-18;Autoservicio Familiar;Norte;95900.0
+2026-08-18;Mini mercado Del Parque;Norte;85500.0
+2026-08-18;Autoservicio Central;Centro;105400.0
+2026-08-18;Kiosco Mi Barrio;Oeste;211100.0
+2026-08-18;Autoservicio Familiar;Norte;177500.0
+2026-08-18;Autoservicio Familiar;Norte;94100.0
+2026-08-18;Mini mercado Norte;Sur;57500.0
+2026-08-18;Kiosco Mi Barrio;Oeste;146200.0
+2026-08-19;Despensa San Martín;Oeste;61800.0
+2026-08-19;Almacén Sur;Sur;110600.0
+2026-08-19;Almacén Familiar;Norte;73000.0
+2026-08-19;Autoservicio Los Pinos;Centro;55100.0
+2026-08-19;Autoservicio Central;Centro;92600.0
+2026-08-19;Kiosco El Sol;Oeste;60600.0
+2026-08-19;Kiosco Norte;Sur;27400.0
+2026-08-19;Autoservicio San Martín;Centro;37500.0
+2026-08-19;Autoservicio Familiar;Norte;111800.0
+2026-08-19;Kiosco Del Parque;Sur;41300.0
+2026-08-19;Kiosco San Martín;Norte;52000.0
+2026-08-19;Autoservicio La Estrella;Norte;71300.0
+2026-08-20;Autoservicio Central;Centro;48300.0
+2026-08-20;Mini mercado Del Parque;Norte;92400.0
+2026-08-20;Autoservicio Central;Centro;81600.0
+2026-08-20;Kiosco San Martín;Norte;81300.0
+2026-08-20;Mini mercado Sur;Norte;73800.0
+2026-08-20;Kiosco San Martín;Norte;106400.0
+2026-08-20;Kiosco Mi Barrio;Oeste;57400.0
+2026-08-20;Mini mercado Del Parque;Norte;274100.0
+2026-08-20;Almacén Sur;Sur;82900.0
+2026-08-21;Kiosco Mi Barrio;Oeste;76000.0
+2026-08-21;Supermercado La Esquina;Centro;102500.0
+2026-08-21;Kiosco Mi Barrio;Oeste;84500.0
+2026-08-21;Kiosco Mi Barrio;Oeste;163900.0
+2026-08-21;Autoservicio Central;Centro;135800.0
+2026-08-21;Kiosco Mi Barrio;Oeste;93500.0
+2026-08-21;Almacén Los Pinos;Oeste;80300.0
+2026-08-21;Almacén Don Pedro;Oeste;67500.0
+2026-08-21;Mini mercado Del Parque;Norte;99900.0
+2026-08-21;Mini mercado Del Parque;Norte;145000.0
+2026-08-21;Almacén Familiar;Norte;74200.0
+2026-08-21;Almacén Los Pinos;Oeste;53000.0
+2026-08-21;Almacén Don Pedro;Oeste;28900.0
+2026-08-21;Autoservicio Central;Centro;93000.0
+2026-08-21;Mini mercado Sur;Norte;65100.0
+2026-08-22;Mini mercado Los Pinos;Centro;61400.0
+2026-08-22;Mini mercado Del Parque;Norte;49600.0
+2026-08-22;Kiosco San Martín;Norte;103600.0
+2026-08-22;Kiosco Mi Barrio;Oeste;124900.0
+2026-08-22;Kiosco Familiar;Oeste;49600.0
+2026-08-22;Despensa Don Pedro;Norte;120400.0
+2026-08-22;Almacén Central;Oeste;75000.0
+2026-08-22;Kiosco San Martín;Norte;174400.0
+2026-08-22;Almacén Los Pinos;Oeste;125300.0
+2026-08-22;Supermercado La Esquina;Centro;244100.0
+2026-08-22;Mini mercado Sur;Norte;40200.0
+2026-08-23;Kiosco Mi Barrio;Oeste;103500.0
+2026-08-23;Mini mercado Del Parque;Norte;119100.0
+2026-08-23;Supermercado La Esquina;Centro;136600.0
+2026-08-23;Autoservicio Los Pinos;Centro;55500.0
+2026-08-23;Mini mercado Del Parque;Norte;69100.0
+2026-08-23;Autoservicio Central;Centro;62100.0
+2026-08-23;Almacén Sur;Sur;55600.0
+2026-08-23;Autoservicio Central;Centro;93300.0
+2026-08-23;Supermercado La Esquina;Centro;116600.0
+2026-08-23;Kiosco Mi Barrio;Oeste;116700.0
+2026-08-23;Kiosco Norte;Sur;142600.0
+2026-08-23;Almacén Don Pedro;Oeste;97900.0
+2026-08-23;Almacén Don Pedro;Oeste;142000.0
+2026-08-23;Supermercado Sur;Sur;89100.0
+2026-08-24;Kiosco Los Pinos;Norte;85300.0
+2026-08-24;Kiosco Norte;Sur;106000.0
+2026-08-24;Autoservicio Los Pinos;Centro;105800.0
+2026-08-24;Kiosco El Sol;Oeste;103400.0
+2026-08-24;Despensa Don Pedro;Norte;45300.0
+2026-08-24;Almacén Familiar;Norte;48700.0
+2026-08-24;Almacén Central;Oeste;83100.0
+2026-08-24;Kiosco Norte;Sur;50400.0
+2026-08-24;Kiosco El Sol;Oeste;130400.0
+2026-08-24;Autoservicio Mi Barrio;Centro;102500.0
+2026-08-24;Autoservicio La Estrella;Norte;63100.0
+2026-08-24;Supermercado Sur;Sur;35300.0
+2026-08-24;Autoservicio La Estrella;Norte;53800.0
+2026-08-24;Autoservicio San Martín;Centro;89100.0
+2026-08-24;Autoservicio Familiar;Norte;272600.0
+2026-08-25;Autoservicio Central;Centro;121100.0
+2026-08-25;Autoservicio Familiar;Norte;78800.0
+2026-08-25;Autoservicio Familiar;Norte;62400.0
+2026-08-25;Kiosco Mi Barrio;Oeste;202100.0
+2026-08-25;Autoservicio Central;Centro;127700.0
+2026-08-25;Kiosco Los Pinos;Norte;53200.0
+2026-08-25;Almacén Los Pinos;Oeste;99600.0
+2026-08-25;Kiosco Familiar;Oeste;79400.0
+2026-08-25;Almacén Los Pinos;Oeste;38800.0
+2026-08-26;Kiosco Familiar;Oeste;56800.0
+2026-08-26;Autoservicio La Estrella;Norte;62500.0
+2026-08-26;Kiosco Mi Barrio;Oeste;334900.0
+2026-08-26;Kiosco San Martín;Norte;84000.0
+2026-08-26;Autoservicio Mi Barrio;Centro;72500.0
+2026-08-26;Despensa Mi Barrio;Centro;106400.0
+2026-08-26;Almacén Central;Oeste;89400.0
+2026-08-26;Kiosco Mi Barrio;Oeste;35800.0
+2026-08-26;Despensa Mi Barrio;Centro;54600.0
+2026-08-26;Autoservicio San Martín;Centro;96700.0
+2026-08-26;Kiosco Del Parque;Sur;102700.0
+2026-08-27;Autoservicio Familiar;Norte;116500.0
+2026-08-27;Kiosco Del Parque;Sur;137400.0
+2026-08-27;Despensa San Martín;Oeste;86200.0
+2026-08-27;Mini mercado Del Parque;Norte;193900.0
+2026-08-27;Kiosco Mi Barrio;Oeste;277800.0
+2026-08-27;Almacén Los Pinos;Oeste;54700.0
+2026-08-27;Supermercado La Esquina;Centro;149300.0
+2026-08-27;Supermercado La Esquina;Centro;61000.0
+2026-08-27;Autoservicio Del Parque;Sur;111200.0
+2026-08-28;Kiosco San Martín;Norte;51300.0
+2026-08-28;Mini mercado Del Parque;Norte;175600.0
+2026-08-28;Kiosco El Sol;Oeste;22400.0
+2026-08-28;Autoservicio La Estrella;Norte;120500.0
+2026-08-28;Autoservicio Mi Barrio;Centro;38400.0
+2026-08-28;Kiosco San Martín;Norte;96900.0
+2026-08-28;Despensa Mi Barrio;Centro;143400.0
+2026-08-28;Mini mercado Sur;Norte;63000.0
+2026-08-28;Autoservicio Los Pinos;Centro;64000.0
+2026-08-28;Despensa Mi Barrio;Centro;81800.0
+2026-08-29;Mini mercado Norte;Sur;89800.0
+2026-08-29;Despensa San Martín;Oeste;78200.0
+2026-08-29;Kiosco Familiar;Oeste;79200.0
+2026-08-29;Kiosco Familiar;Oeste;48100.0
+2026-08-29;Kiosco Mi Barrio;Oeste;173200.0
+2026-08-29;Supermercado Sur;Sur;43100.0
+2026-08-29;Despensa La Estrella;Centro;62400.0
+2026-08-29;Kiosco Familiar;Oeste;77900.0
+2026-08-29;Autoservicio Los Pinos;Centro;130400.0
+2026-08-29;Autoservicio Familiar;Norte;100600.0
+2026-08-29;Autoservicio El Sol;Sur;53700.0
+2026-08-29;Autoservicio La Estrella;Norte;103100.0
+2026-08-30;Autoservicio Central;Centro;73900.0
+2026-08-30;Autoservicio Del Parque;Sur;44300.0
+2026-08-30;Autoservicio Central;Centro;51700.0
+2026-08-30;Mini mercado Del Parque;Norte;69300.0
+2026-08-30;Kiosco Del Parque;Sur;87300.0
+2026-08-30;Kiosco Mi Barrio;Oeste;79600.0
+2026-08-30;Kiosco Mi Barrio;Oeste;78500.0
+2026-08-30;Almacén Central;Oeste;33200.0
+2026-08-30;Mini mercado Del Parque;Norte;115400.0
+2026-08-30;Mini mercado Del Parque;Norte;66200.0
+2026-08-31;Autoservicio Los Pinos;Centro;119400.0
+2026-08-31;Despensa Don Pedro;Norte;98400.0
+2026-08-31;Autoservicio San Martín;Centro;139500.0
+2026-08-31;Kiosco Los Pinos;Norte;107400.0
+2026-08-31;Autoservicio Central;Centro;254000.0
+2026-08-31;Kiosco Familiar;Oeste;41300.0
+2026-08-31;Autoservicio San Martín;Centro;38300.0
+2026-08-31;Autoservicio El Sol;Sur;45000.0
+2026-08-31;Supermercado La Esquina;Centro;37700.0
+2026-08-31;Mini mercado Del Parque;Norte;56300.0
+2026-08-31;Almacén Sur;Sur;42900.0
+2026-09-01;Kiosco El Sol;Oeste;52100.0
+2026-09-01;Mini mercado Sur;Norte;147000.0
+2026-09-01;Kiosco El Sol;Oeste;82600.0
+2026-09-01;Autoservicio Familiar;Norte;170000.0
+2026-09-01;Almacén Don Pedro;Oeste;84300.0
+2026-09-01;Kiosco Mi Barrio;Oeste;131200.0
+2026-09-01;Almacén Don Pedro;Oeste;100900.0
+2026-09-01;Kiosco Familiar;Oeste;98200.0
+2026-09-02;Autoservicio Los Pinos;Centro;176000.0
+2026-09-02;Kiosco Familiar;Oeste;91200.0
+2026-09-02;Autoservicio Familiar;Norte;167800.0
+2026-09-02;Almacén Los Pinos;Oeste;141900.0
+2026-09-02;Kiosco Mi Barrio;Oeste;182900.0
+2026-09-02;Kiosco Familiar;Oeste;73100.0
+2026-09-02;Supermercado La Esquina;Centro;92400.0
+2026-09-02;Mini mercado Sur;Norte;47100.0
+2026-09-02;Autoservicio El Sol;Sur;79000.0
+2026-09-02;Mini mercado Del Parque;Norte;192400.0
+2026-09-02;Autoservicio Central;Centro;132300.0
+2026-09-02;Despensa Don Pedro;Norte;82300.0
+2026-09-02;Almacén Sur;Sur;65600.0
+2026-09-02;Kiosco Mi Barrio;Oeste;480700.0
+2026-09-02;Supermercado La Esquina;Centro;184400.0
+2026-09-03;Almacén Familiar;Norte;57800.0
+2026-09-03;Autoservicio Central;Centro;47100.0
+2026-09-03;Almacén Los Pinos;Oeste;121500.0
+2026-09-03;Despensa Mi Barrio;Centro;144600.0
+2026-09-03;Mini mercado Del Parque;Norte;63500.0
+2026-09-03;Supermercado Sur;Sur;120600.0
+2026-09-03;Almacén Familiar;Norte;66300.0
+2026-09-03;Almacén Central;Oeste;139500.0
+2026-09-03;Mini mercado Del Parque;Norte;93200.0
+2026-09-03;Kiosco Mi Barrio;Oeste;129800.0
+2026-09-03;Autoservicio Central;Centro;73600.0
+2026-09-04;Almacén Central;Oeste;157200.0
+2026-09-04;Autoservicio Mi Barrio;Centro;103400.0
+2026-09-04;Kiosco Familiar;Oeste;66400.0
+2026-09-04;Kiosco Familiar;Oeste;78600.0
+2026-09-04;Supermercado La Esquina;Centro;100600.0
+2026-09-04;Kiosco Mi Barrio;Oeste;293800.0
+2026-09-04;Supermercado La Esquina;Centro;42200.0
+2026-09-04;Autoservicio Central;Centro;62400.0
+2026-09-04;Almacén Don Pedro;Oeste;70300.0
+2026-09-04;Despensa San Martín;Oeste;76700.0
+2026-09-04;Kiosco Del Parque;Sur;91300.0
+2026-09-05;Almacén Sur;Sur;117900.0
+2026-09-05;Despensa Don Pedro;Norte;88400.0
+2026-09-05;Autoservicio Central;Centro;96400.0
+2026-09-05;Despensa San Martín;Oeste;87700.0
+2026-09-05;Kiosco Familiar;Oeste;49700.0
+2026-09-05;Mini mercado Norte;Sur;39100.0
+2026-09-05;Autoservicio Los Pinos;Centro;36000.0
+2026-09-05;Mini mercado Los Pinos;Centro;63500.0
+2026-09-05;Kiosco Los Pinos;Norte;112300.0
+2026-09-05;Supermercado La Esquina;Centro;59600.0
+2026-09-05;Kiosco Los Pinos;Norte;64000.0
+2026-09-05;Mini mercado Los Pinos;Centro;104600.0
+2026-09-05;Supermercado La Esquina;Centro;57700.0
+2026-09-05;Mini mercado Norte;Sur;53000.0
+2026-09-05;Kiosco Familiar;Oeste;93400.0
+2026-09-06;Almacén Los Pinos;Oeste;103500.0
+2026-09-06;Kiosco Familiar;Oeste;65600.0
+2026-09-06;Autoservicio Central;Centro;54300.0
+2026-09-06;Autoservicio Familiar;Norte;52000.0
+2026-09-06;Autoservicio Los Pinos;Centro;104300.0
+2026-09-06;Autoservicio San Martín;Centro;132500.0
+2026-09-06;Autoservicio Central;Centro;101500.0
+2026-09-06;Supermercado La Esquina;Centro;134300.0
+2026-09-07;Mini mercado Del Parque;Norte;53700.0
+2026-09-07;Mini mercado Del Parque;Norte;138900.0
+2026-09-07;Despensa San Martín;Oeste;50300.0
+2026-09-07;Almacén Los Pinos;Oeste;70700.0
+2026-09-07;Autoservicio Familiar;Norte;77900.0
+2026-09-07;Autoservicio Central;Centro;125300.0
+2026-09-07;Despensa Don Pedro;Norte;33900.0
+2026-09-07;Kiosco San Martín;Norte;63700.0
+2026-09-07;Kiosco Mi Barrio;Oeste;49900.0
+2026-09-07;Autoservicio La Estrella;Norte;91000.0
+2026-09-07;Despensa Mi Barrio;Centro;100100.0
+2026-09-07;Autoservicio La Estrella;Norte;115400.0
+2026-09-08;Autoservicio Del Parque;Sur;32100.0
+2026-09-08;Autoservicio Familiar;Norte;87300.0
+2026-09-08;Autoservicio Mi Barrio;Centro;67600.0
+2026-09-08;Autoservicio Central;Centro;84800.0
+2026-09-08;Autoservicio Del Parque;Sur;63500.0
+2026-09-08;Kiosco Mi Barrio;Oeste;165800.0
+2026-09-08;Kiosco Los Pinos;Norte;45500.0
+2026-09-08;Supermercado La Esquina;Centro;106800.0
+2026-09-09;Autoservicio Central;Centro;120800.0
+2026-09-09;Autoservicio La Estrella;Norte;111100.0
+2026-09-09;Despensa San Martín;Oeste;111600.0
+2026-09-09;Kiosco El Sol;Oeste;173100.0
+2026-09-09;Almacén Los Pinos;Oeste;98100.0
+2026-09-09;Almacén Central;Oeste;60700.0
+2026-09-09;Kiosco Del Parque;Sur;93800.0
+2026-09-09;Autoservicio Central;Centro;154100.0
+2026-09-09;Kiosco Norte;Sur;80400.0
+2026-09-09;Supermercado La Esquina;Centro;93200.0
+2026-09-09;Kiosco Mi Barrio;Oeste;131100.0
+2026-09-09;Kiosco Del Parque;Sur;142400.0
+2026-09-09;Despensa La Estrella;Centro;70200.0
+2026-09-09;Autoservicio San Martín;Centro;69200.0
+2026-09-10;Autoservicio Familiar;Norte;38400.0
+2026-09-10;Despensa La Estrella;Centro;88400.0
+2026-09-10;Supermercado La Esquina;Centro;38900.0
+2026-09-10;Kiosco Mi Barrio;Oeste;153700.0
+2026-09-10;Autoservicio Familiar;Norte;49000.0
+2026-09-10;Autoservicio Central;Centro;165200.0
+2026-09-10;Almacén Los Pinos;Oeste;92300.0
+2026-09-10;Autoservicio Familiar;Norte;205100.0
+2026-09-10;Despensa Don Pedro;Norte;115300.0
+2026-09-10;Autoservicio Central;Centro;241800.0
+2026-09-10;Kiosco Mi Barrio;Oeste;84800.0
+2026-09-10;Autoservicio Familiar;Norte;40000.0
+2026-09-10;Kiosco Los Pinos;Norte;51200.0
+2026-09-10;Autoservicio Familiar;Norte;166100.0
+2026-09-11;Supermercado La Esquina;Centro;84800.0
+2026-09-11;Almacén Los Pinos;Oeste;50800.0
+2026-09-11;Despensa San Martín;Oeste;108700.0
+2026-09-11;Despensa Don Pedro;Norte;28900.0
+2026-09-11;Kiosco El Sol;Oeste;96400.0
+2026-09-11;Supermercado Sur;Sur;77100.0
+2026-09-11;Autoservicio Central;Centro;140800.0
+2026-09-11;Autoservicio La Estrella;Norte;56800.0
+2026-09-11;Mini mercado Norte;Sur;67000.0
+2026-09-11;Supermercado Sur;Sur;96500.0
+2026-09-12;Mini mercado Del Parque;Norte;114400.0
+2026-09-12;Mini mercado Del Parque;Norte;67200.0
+2026-09-12;Despensa Don Pedro;Norte;177000.0
+2026-09-12;Kiosco Familiar;Oeste;76600.0
+2026-09-12;Kiosco Mi Barrio;Oeste;220300.0
+2026-09-12;Mini mercado Norte;Sur;87100.0
+2026-09-12;Almacén Los Pinos;Oeste;76700.0
+2026-09-12;Despensa Mi Barrio;Centro;49700.0
+2026-09-12;Kiosco Del Parque;Sur;67800.0
+2026-09-12;Almacén Central;Oeste;134300.0
+2026-09-12;Mini mercado Sur;Norte;150800.0
+2026-09-13;Almacén Familiar;Norte;48600.0
+2026-09-13;Autoservicio Familiar;Norte;74900.0
+2026-09-13;Mini mercado Norte;Sur;50100.0
+2026-09-13;Kiosco Mi Barrio;Oeste;54400.0
+2026-09-13;Mini mercado Sur;Norte;91000.0
+2026-09-13;Mini mercado Del Parque;Norte;52300.0
+2026-09-13;Autoservicio Familiar;Norte;69800.0
+2026-09-13;Supermercado Sur;Sur;48800.0
+2026-09-13;Kiosco El Sol;Oeste;103000.0
+2026-09-13;Despensa Mi Barrio;Centro;70600.0
+2026-09-13;Despensa La Estrella;Centro;57200.0
+2026-09-13;Autoservicio La Estrella;Norte;61800.0
+2026-09-14;Autoservicio Familiar;Norte;97200.0
+2026-09-14;Autoservicio Central;Centro;85700.0
+2026-09-14;Kiosco Del Parque;Sur;61800.0
+2026-09-14;Kiosco Mi Barrio;Oeste;94000.0
+2026-09-14;Kiosco Familiar;Oeste;109400.0
+2026-09-14;Mini mercado Sur;Norte;96700.0
+2026-09-14;Autoservicio Los Pinos;Centro;91000.0
+2026-09-14;Autoservicio Familiar;Norte;80500.0
+2026-09-14;Kiosco San Martín;Norte;105800.0
+2026-09-14;Autoservicio Central;Centro;122800.0
+2026-09-14;Mini mercado Del Parque;Norte;51600.0
+2026-09-14;Kiosco San Martín;Norte;41200.0
+2026-09-14;Autoservicio La Estrella;Norte;78900.0
+2026-09-14;Despensa San Martín;Oeste;56400.0
+2026-09-15;Despensa Don Pedro;Norte;98700.0
+2026-09-15;Autoservicio Familiar;Norte;77000.0
+2026-09-15;Kiosco Mi Barrio;Oeste;190200.0
+2026-09-15;Supermercado Sur;Sur;157700.0
+2026-09-15;Autoservicio Central;Centro;111800.0
+2026-09-15;Autoservicio La Estrella;Norte;63800.0
+2026-09-15;Autoservicio La Estrella;Norte;50800.0
+2026-09-15;Kiosco San Martín;Norte;83000.0
+2026-09-15;Supermercado Sur;Sur;107800.0
+2026-09-15;Autoservicio Familiar;Norte;56300.0
+2026-09-15;Kiosco Del Parque;Sur;172100.0
+2026-09-16;Kiosco Del Parque;Sur;271700.0
+2026-09-16;Autoservicio Los Pinos;Centro;113900.0
+2026-09-16;Autoservicio Central;Centro;53500.0
+2026-09-16;Autoservicio Central;Centro;152000.0
+2026-09-16;Despensa Don Pedro;Norte;104200.0
+2026-09-16;Kiosco Familiar;Oeste;47400.0
+2026-09-16;Almacén Don Pedro;Oeste;49700.0
+2026-09-16;Kiosco Familiar;Oeste;528500.0
+2026-09-16;Almacén Los Pinos;Oeste;55200.0
+2026-09-16;Kiosco Los Pinos;Norte;93600.0
+2026-09-17;Despensa Mi Barrio;Centro;62200.0
+2026-09-17;Kiosco Mi Barrio;Oeste;108800.0
+2026-09-17;Autoservicio La Estrella;Norte;97600.0
+2026-09-17;Kiosco Mi Barrio;Oeste;62700.0
+2026-09-17;Autoservicio Familiar;Norte;106600.0
+2026-09-17;Autoservicio Los Pinos;Centro;47300.0
+2026-09-17;Despensa Mi Barrio;Centro;56900.0
+2026-09-18;Kiosco Mi Barrio;Oeste;68600.0
+2026-09-18;Kiosco Mi Barrio;Oeste;95500.0
+2026-09-18;Almacén Los Pinos;Oeste;45600.0
+2026-09-18;Kiosco Del Parque;Sur;135100.0
+2026-09-18;Mini mercado Los Pinos;Centro;76600.0
+2026-09-18;Autoservicio Central;Centro;114200.0
+2026-09-18;Autoservicio Familiar;Norte;203800.0
+2026-09-18;Kiosco Mi Barrio;Oeste;57800.0
+2026-09-18;Kiosco Familiar;Oeste;52200.0
+2026-09-18;Autoservicio Central;Centro;93800.0
+2026-09-18;Kiosco Mi Barrio;Oeste;238300.0
+2026-09-18;Kiosco Familiar;Oeste;77300.0
+2026-09-18;Kiosco El Sol;Oeste;65200.0
+2026-09-18;Autoservicio Familiar;Norte;150400.0
+2026-09-19;Despensa La Estrella;Centro;103700.0
+2026-09-19;Mini mercado Norte;Sur;53700.0
+2026-09-19;Kiosco Del Parque;Sur;190700.0
+2026-09-19;Autoservicio Central;Centro;82500.0
+2026-09-19;Almacén Familiar;Norte;104800.0
+2026-09-19;Almacén Don Pedro;Oeste;58500.0
+2026-09-19;Kiosco Mi Barrio;Oeste;135900.0
+2026-09-19;Mini mercado Sur;Norte;109600.0
+2026-09-19;Kiosco San Martín;Norte;90800.0
+2026-09-19;Kiosco Mi Barrio;Oeste;113500.0
+2026-09-20;Despensa La Estrella;Centro;54300.0
+2026-09-20;Autoservicio Central;Centro;118200.0
+2026-09-20;Kiosco Norte;Sur;138600.0
+2026-09-20;Kiosco Mi Barrio;Oeste;240200.0
+2026-09-20;Despensa La Estrella;Centro;79100.0
+2026-09-20;Autoservicio Los Pinos;Centro;81200.0
+2026-09-20;Almacén Los Pinos;Oeste;102700.0
+2026-09-20;Supermercado Sur;Sur;119300.0
+2026-09-20;Kiosco San Martín;Norte;73000.0
+2026-09-20;Almacén Central;Oeste;118200.0
+2026-09-20;Autoservicio La Estrella;Norte;91700.0
+2026-09-20;Kiosco Norte;Sur;49300.0
+2026-09-20;Kiosco San Martín;Norte;177500.0
+2026-09-21;Almacén Central;Oeste;99200.0
+2026-09-21;Despensa San Martín;Oeste;62800.0
+2026-09-21;Supermercado La Esquina;Centro;119100.0
+2026-09-21;Almacén Central;Oeste;94500.0
+2026-09-21;Kiosco Mi Barrio;Oeste;119600.0
+2026-09-21;Despensa San Martín;Oeste;105200.0
+2026-09-21;Autoservicio Central;Centro;54200.0
+2026-09-21;Autoservicio Central;Centro;65300.0
+2026-09-21;Kiosco San Martín;Norte;62800.0
+2026-09-21;Mini mercado Los Pinos;Centro;78900.0
+2026-09-21;Kiosco El Sol;Oeste;44800.0
+2026-09-21;Kiosco San Martín;Norte;153200.0
+2026-09-22;Kiosco Familiar;Oeste;49200.0
+2026-09-22;Almacén Central;Oeste;111600.0
+2026-09-22;Kiosco Mi Barrio;Oeste;112200.0
+2026-09-22;Autoservicio La Estrella;Norte;116600.0
+2026-09-22;Kiosco Familiar;Oeste;89600.0
+2026-09-22;Kiosco El Sol;Oeste;110000.0
+2026-09-22;Mini mercado Del Parque;Norte;467100.0
+2026-09-22;Mini mercado Los Pinos;Centro;63900.0
+2026-09-22;Autoservicio Central;Centro;171300.0
+2026-09-22;Autoservicio Central;Centro;164900.0
+2026-09-22;Despensa La Estrella;Centro;37900.0
+2026-09-22;Autoservicio Familiar;Norte;300900.0
+2026-09-23;Autoservicio Central;Centro;142600.0
+2026-09-23;Despensa Don Pedro;Norte;57000.0
+2026-09-23;Autoservicio Familiar;Norte;193000.0
+2026-09-23;Almacén Los Pinos;Oeste;108500.0
+2026-09-23;Autoservicio Familiar;Norte;48800.0
+2026-09-23;Kiosco El Sol;Oeste;82300.0
+2026-09-23;Despensa Don Pedro;Norte;85700.0
+2026-09-23;Despensa San Martín;Oeste;77000.0
+2026-09-23;Kiosco El Sol;Oeste;32200.0
+2026-09-23;Supermercado Sur;Sur;96400.0
+2026-09-23;Almacén Los Pinos;Oeste;80400.0
+2026-09-23;Despensa Mi Barrio;Centro;47600.0
+2026-09-23;Autoservicio Central;Centro;175300.0
+2026-09-23;Mini mercado Del Parque;Norte;95400.0
+2026-09-24;Almacén Don Pedro;Oeste;52100.0
+2026-09-24;Kiosco Mi Barrio;Oeste;226300.0
+2026-09-24;Supermercado La Esquina;Centro;242000.0
+2026-09-24;Kiosco Mi Barrio;Oeste;225700.0
+2026-09-24;Mini mercado Norte;Sur;49100.0
+2026-09-24;Autoservicio Los Pinos;Centro;85400.0
+2026-09-24;Mini mercado Del Parque;Norte;160600.0
+2026-09-24;Mini mercado Sur;Norte;225400.0
+2026-09-24;Autoservicio La Estrella;Norte;80800.0
+2026-09-25;Kiosco San Martín;Norte;72600.0
+2026-09-25;Mini mercado Norte;Sur;86900.0
+2026-09-25;Despensa Mi Barrio;Centro;66700.0
+2026-09-25;Autoservicio Los Pinos;Centro;77100.0
+2026-09-25;Kiosco Familiar;Oeste;172400.0
+2026-09-25;Kiosco San Martín;Norte;61200.0
+2026-09-25;Kiosco Los Pinos;Norte;59800.0
+2026-09-25;Kiosco Los Pinos;Norte;37200.0
+2026-09-25;Kiosco Mi Barrio;Oeste;100500.0
+2026-09-25;Autoservicio Central;Centro;94100.0
+2026-09-25;Despensa Mi Barrio;Centro;48900.0
+2026-09-25;Supermercado La Esquina;Centro;40300.0
+2026-09-25;Almacén Central;Oeste;83100.0
+2026-09-25;Kiosco Mi Barrio;Oeste;53800.0
+2026-09-26;Despensa La Estrella;Centro;84600.0
+2026-09-26;Kiosco Mi Barrio;Oeste;53400.0
+2026-09-26;Mini mercado Del Parque;Norte;39400.0
+2026-09-26;Kiosco Mi Barrio;Oeste;190600.0
+2026-09-26;Kiosco El Sol;Oeste;51600.0
+2026-09-26;Mini mercado Los Pinos;Centro;44900.0
+2026-09-26;Almacén Los Pinos;Oeste;38800.0
+2026-09-26;Mini mercado Los Pinos;Centro;116800.0
+2026-09-26;Autoservicio Los Pinos;Centro;76500.0
+2026-09-26;Mini mercado Del Parque;Norte;159800.0
+2026-09-26;Autoservicio La Estrella;Norte;105400.0
+2026-09-27;Kiosco Los Pinos;Norte;97100.0
+2026-09-27;Supermercado Sur;Sur;31200.0
+2026-09-27;Kiosco Los Pinos;Norte;50900.0
+2026-09-27;Kiosco San Martín;Norte;112700.0
+2026-09-27;Kiosco Los Pinos;Norte;60000.0
+2026-09-27;Despensa La Estrella;Centro;51100.0
+2026-09-27;Despensa Don Pedro;Norte;60800.0
+2026-09-27;Supermercado La Esquina;Centro;147300.0
+2026-09-27;Kiosco Mi Barrio;Oeste;139700.0
+2026-09-27;Kiosco Del Parque;Sur;58400.0
+2026-09-27;Autoservicio Central;Centro;146300.0
+2026-09-27;Despensa Don Pedro;Norte;46300.0
+2026-09-28;Mini mercado Los Pinos;Centro;68100.0
+2026-09-28;Kiosco Mi Barrio;Oeste;290800.0
+2026-09-28;Mini mercado Del Parque;Norte;134600.0
+2026-09-28;Kiosco El Sol;Oeste;125000.0
+2026-09-28;Autoservicio La Estrella;Norte;84800.0
+2026-09-28;Despensa San Martín;Oeste;54600.0
+2026-09-28;Despensa Don Pedro;Norte;59800.0
+2026-09-28;Kiosco Familiar;Oeste;62500.0
+2026-09-28;Almacén Don Pedro;Oeste;84800.0
+2026-09-28;Mini mercado Sur;Norte;133600.0
+2026-09-28;Kiosco Mi Barrio;Oeste;132900.0
+2026-09-29;Kiosco Norte;Sur;80200.0
+2026-09-29;Autoservicio Central;Centro;54800.0
+2026-09-29;Kiosco Norte;Sur;66300.0
+2026-09-29;Autoservicio La Estrella;Norte;108900.0
+2026-09-29;Kiosco Mi Barrio;Oeste;335900.0
+2026-09-29;Kiosco Norte;Sur;57900.0
+2026-09-29;Despensa Mi Barrio;Centro;69200.0
+2026-09-29;Mini mercado Norte;Sur;90300.0
+2026-09-30;Kiosco San Martín;Norte;59300.0
+2026-09-30;Kiosco Familiar;Oeste;80800.0
+2026-09-30;Supermercado La Esquina;Centro;187200.0
+2026-09-30;Autoservicio La Estrella;Norte;93300.0
+2026-09-30;Kiosco Los Pinos;Norte;104600.0
+2026-09-30;Supermercado Sur;Sur;103000.0
+2026-09-30;Almacén Los Pinos;Oeste;34700.0
+2026-09-30;Autoservicio La Estrella;Norte;100700.0
+2026-09-30;Autoservicio Familiar;Norte;37300.0
+2026-09-30;Kiosco San Martín;Norte;76200.0
+2026-09-30;Kiosco Del Parque;Sur;71600.0
+2026-10-01;Autoservicio Central;Centro;159200.0
+2026-10-01;Autoservicio La Estrella;Norte;128400.0
+2026-10-01;Kiosco El Sol;Oeste;81500.0
+2026-10-01;Autoservicio Central;Centro;65600.0
+2026-10-01;Supermercado La Esquina;Centro;49100.0
+2026-10-01;Mini mercado Del Parque;Norte;77100.0
+2026-10-01;Kiosco Los Pinos;Norte;122700.0
+2026-10-01;Kiosco Del Parque;Sur;97100.0
+2026-10-01;Kiosco Mi Barrio;Oeste;112200.0
+2026-10-01;Autoservicio Familiar;Norte;140000.0
+2026-10-01;Autoservicio Central;Centro;114900.0
+2026-10-01;Kiosco Mi Barrio;Oeste;236200.0
+2026-10-01;Autoservicio Familiar;Norte;47200.0
+2026-10-01;Mini mercado Del Parque;Norte;68100.0
+2026-10-02;Almacén Los Pinos;Oeste;223700.0
+2026-10-02;Mini mercado Del Parque;Norte;363500.0
+2026-10-02;Autoservicio Central;Centro;103700.0
+2026-10-02;Mini mercado Norte;Sur;81400.0
+2026-10-02;Autoservicio Central;Centro;124000.0
+2026-10-02;Autoservicio Central;Centro;132900.0
+2026-10-02;Mini mercado Norte;Sur;56600.0
+2026-10-02;Kiosco Mi Barrio;Oeste;66300.0
+2026-10-02;Autoservicio Familiar;Norte;110300.0
+2026-10-02;Mini mercado Del Parque;Norte;152500.0
+2026-10-02;Autoservicio Los Pinos;Centro;58300.0
+2026-10-02;Autoservicio Los Pinos;Centro;152700.0
+2026-10-03;Autoservicio Central;Centro;54700.0
+2026-10-03;Supermercado La Esquina;Centro;111300.0
+2026-10-03;Kiosco San Martín;Norte;55900.0
+2026-10-03;Kiosco Mi Barrio;Oeste;117100.0
+2026-10-03;Kiosco El Sol;Oeste;85600.0
+2026-10-03;Autoservicio Los Pinos;Centro;88000.0
+2026-10-03;Kiosco Del Parque;Sur;21600.0
+2026-10-03;Autoservicio Central;Centro;201400.0
+2026-10-03;Kiosco Mi Barrio;Oeste;240500.0
+2026-10-03;Kiosco Familiar;Oeste;69300.0
+2026-10-03;Autoservicio Familiar;Norte;195600.0
+2026-10-03;Autoservicio Central;Centro;82300.0
+2026-10-03;Despensa San Martín;Oeste;61200.0
+2026-10-04;Despensa Mi Barrio;Centro;74800.0
+2026-10-04;Kiosco San Martín;Norte;149500.0
+2026-10-04;Supermercado La Esquina;Centro;51200.0
+2026-10-04;Mini mercado Los Pinos;Centro;49800.0
+2026-10-04;Mini mercado Norte;Sur;66500.0
+2026-10-04;Supermercado La Esquina;Centro;39700.0
+2026-10-04;Autoservicio Los Pinos;Centro;33800.0
+2026-10-04;Kiosco Norte;Sur;21600.0
+2026-10-05;Mini mercado Del Parque;Norte;88900.0
+2026-10-05;Mini mercado Los Pinos;Centro;53200.0
+2026-10-05;Kiosco Familiar;Oeste;43700.0
+2026-10-05;Mini mercado Los Pinos;Centro;91800.0
+2026-10-05;Supermercado La Esquina;Centro;38900.0
+2026-10-05;Kiosco Mi Barrio;Oeste;73500.0
+2026-10-05;Almacén Los Pinos;Oeste;43900.0
+2026-10-05;Kiosco Los Pinos;Norte;28400.0
+2026-10-06;Kiosco Mi Barrio;Oeste;210200.0
+2026-10-06;Despensa Mi Barrio;Centro;39100.0
+2026-10-06;Kiosco El Sol;Oeste;69300.0
+2026-10-06;Almacén Central;Oeste;109500.0
+2026-10-06;Kiosco Familiar;Oeste;68700.0
+2026-10-06;Kiosco Mi Barrio;Oeste;125600.0
+2026-10-06;Despensa Don Pedro;Norte;37900.0
+2026-10-06;Despensa Don Pedro;Norte;129700.0
+2026-10-07;Kiosco El Sol;Oeste;104800.0
+2026-10-07;Kiosco Mi Barrio;Oeste;131500.0
+2026-10-07;Kiosco El Sol;Oeste;141100.0
+2026-10-07;Almacén Don Pedro;Oeste;81700.0
+2026-10-07;Mini mercado Los Pinos;Centro;124700.0
+2026-10-07;Despensa La Estrella;Centro;77900.0
+2026-10-07;Kiosco Del Parque;Sur;82000.0
+2026-10-07;Kiosco Mi Barrio;Oeste;235700.0
+2026-10-07;Mini mercado Del Parque;Norte;154000.0
+2026-10-08;Supermercado Sur;Sur;60300.0
+2026-10-08;Autoservicio Central;Centro;119800.0
+2026-10-08;Kiosco Mi Barrio;Oeste;173000.0
+2026-10-08;Kiosco Los Pinos;Norte;74300.0
+2026-10-08;Kiosco Familiar;Oeste;182200.0
+2026-10-08;Almacén Familiar;Norte;30300.0
+2026-10-08;Kiosco Mi Barrio;Oeste;212700.0
+2026-10-08;Autoservicio Familiar;Norte;194700.0
+2026-10-08;Autoservicio Central;Centro;135600.0
+2026-10-09;Mini mercado Del Parque;Norte;128100.0
+2026-10-09;Kiosco San Martín;Norte;34400.0
+2026-10-09;Kiosco Mi Barrio;Oeste;153300.0
+2026-10-09;Supermercado La Esquina;Centro;91500.0
+2026-10-09;Kiosco Mi Barrio;Oeste;150200.0
+2026-10-09;Despensa Mi Barrio;Centro;131100.0
+2026-10-09;Mini mercado Los Pinos;Centro;53600.0
+2026-10-09;Almacén Central;Oeste;240700.0
+2026-10-09;Autoservicio Los Pinos;Centro;29300.0
+2026-10-10;Despensa Don Pedro;Norte;68900.0
+2026-10-10;Kiosco Mi Barrio;Oeste;110400.0
+2026-10-10;Kiosco Los Pinos;Norte;90300.0
+2026-10-10;Kiosco El Sol;Oeste;120800.0
+2026-10-10;Autoservicio Central;Centro;219300.0
+2026-10-10;Almacén Central;Oeste;134900.0
+2026-10-10;Kiosco Los Pinos;Norte;49500.0
+2026-10-10;Mini mercado Del Parque;Norte;51900.0
+2026-10-10;Despensa Don Pedro;Norte;166800.0
+2026-10-10;Kiosco Familiar;Oeste;110800.0
+2026-10-11;Almacén Los Pinos;Oeste;27900.0
+2026-10-11;Kiosco Del Parque;Sur;142900.0
+2026-10-11;Kiosco Mi Barrio;Oeste;97700.0
+2026-10-11;Autoservicio Familiar;Norte;61500.0
+2026-10-11;Autoservicio Central;Centro;169800.0
+2026-10-11;Autoservicio Central;Centro;55800.0
+2026-10-11;Despensa Mi Barrio;Centro;54200.0
+2026-10-11;Autoservicio Familiar;Norte;63000.0
+2026-10-11;Mini mercado Del Parque;Norte;164800.0
+2026-10-11;Kiosco Norte;Sur;33000.0
+2026-10-11;Almacén Central;Oeste;56000.0
+2026-10-12;Kiosco Familiar;Oeste;61400.0
+2026-10-12;Kiosco Del Parque;Sur;54300.0
+2026-10-12;Mini mercado Norte;Sur;30400.0
+2026-10-12;Autoservicio La Estrella;Norte;134500.0
+2026-10-12;Despensa San Martín;Oeste;59000.0
+2026-10-12;Autoservicio Familiar;Norte;136900.0
+2026-10-12;Mini mercado Del Parque;Norte;67900.0
+2026-10-12;Autoservicio Familiar;Norte;181300.0
+2026-10-13;Almacén Don Pedro;Oeste;74500.0
+2026-10-13;Autoservicio Central;Centro;70700.0
+2026-10-13;Despensa Mi Barrio;Centro;33300.0
+2026-10-13;Autoservicio Familiar;Norte;187700.0
+2026-10-13;Kiosco San Martín;Norte;144200.0
+2026-10-13;Kiosco San Martín;Norte;111300.0
+2026-10-13;Kiosco El Sol;Oeste;62000.0
+2026-10-13;Kiosco Mi Barrio;Oeste;46400.0
+2026-10-13;Kiosco Familiar;Oeste;85000.0
+2026-10-13;Despensa La Estrella;Centro;107000.0

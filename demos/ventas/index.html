@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Panel de ventas y stock</title>
+  <link rel="stylesheet" href="comun.css"><link rel="stylesheet" href="fx.css">
+</head>
+<body data-demo="ventas">
+  <div class="wrap">
+    <div class="top">
+      <a href="../../index.html#demos">&larr; Volver al portfolio</a>
+      <span>
+        <span id="origen"></span> 
+        <button id="tema" type="button" style="margin-left: 8px;">Tema</button>
+      </span>
+    </div>
+
+    <header>
+      <div>
+        <h1>Panel de ventas y stock</h1>
+        <div class="sub">Qué se vende, qué conviene reponer y cuánto pedir</div>
+      </div>
+      <div class="ctrl">
+        <select id="cat" aria-label="Categoría"></select>
+        <select id="per" aria-label="Período">
+          <option value="7">Últimos 7 días</option>
+          <option value="15">Últimos 15 días</option>
+          <option value="30" selected>Últimos 30 días</option>
+          <option value="60">Últimos 60 días</option>
+        </select>
+        <label for="cob">Cobertura objetivo (días)</label>
+        <input id="cob" type="number" min="1" max="180" value="30">
+        <label class="btn" title="Cargar ventas.csv y stock.csv">
+          Cargar CSV
+          <input id="arch" type="file" accept=".csv" multiple hidden>
+        </label>
+      </div>
+    </header>
+
+    <div id="aviso"></div>
+
+    <nav class="tabs">
+      <button type="button" data-t="panel" class="on">Panel de ventas</button>
+      <button type="button" data-t="rent">Rentabilidad</button>
+      <button type="button" data-t="clientes">Clientes</button>
+      <button type="button" data-t="compras">Compras</button>
+    </nav>
+
+    <!-- TAB: Panel -->
+    <div id="tab-panel" class="tab on">
+      <div class="kpis" id="kpis"></div>
+      <div class="grid">
+        <div class="card">
+          <h2>Ventas por semana</h2>
+          <p>Últimas 12 semanas de la categoría elegida.</p>
+          <svg id="sem" viewBox="0 0 640 250" role="img" aria-label="Ventas por semana"></svg>
+        </div>
+        <div class="card">
+          <h2>Clasificación ABC</h2>
+          <p id="abct"></p>
+          <svg id="abc" viewBox="0 0 400 250" role="img" aria-label="Clasificación ABC"></svg>
+        </div>
+      </div>
+      <div class="card">
+        <div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:12px">
+          <div>
+            <h2>Stock y reposición</h2>
+            <p style="margin:0;color:var(--mute);font-size:13px">Ordenado por días de cobertura. Se repone si el stock alcanza para menos que el plazo de entrega del producto.</p>
+          </div>
+          <button id="exp" class="p">Exportar pedido sugerido</button>
+        </div>
+        <div class="tw" style="max-height:460px;overflow:auto">
+          <table>
+            <thead>
+              <tr>
+                <th>Producto</th>
+                <th>Categoría</th>
+                <th>Stock</th>
+                <th>Venta diaria</th>
+                <th>Cobertura</th>
+                <th>Plazo entrega</th>
+                <th>Estado</th>
+                <th>Pedido sugerido</th>
+              </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB: Rentabilidad -->
+    <div id="tab-rent" class="tab">
+      <div class="kpis" id="k_rent"></div>
+      <div class="grid">
+        <div class="card">
+          <h2>Margen por categoría</h2>
+          <p>Margen bruto sobre las ventas del período.</p>
+          <svg id="g_rcat" role="img" aria-label="Margen por categoría"></svg>
+        </div>
+        <div class="card">
+          <h2>Productos que más margen dejan</h2>
+          <svg id="g_rtop" class="chart-h" role="img" aria-label="Productos con más margen"></svg>
+        </div>
+      </div>
+      <div class="card">
+        <h2>Rentabilidad por producto</h2>
+        <p>Se marca para revisar el precio a los productos con margen menor al 25 %.</p>
+        <div class="tw" style="max-height:440px;overflow:auto">
+          <table>
+            <thead>
+              <tr>
+                <th>Producto</th>
+                <th>Ventas</th>
+                <th>Costo</th>
+                <th>Margen</th>
+                <th>Margen %</th>
+                <th>Estado</th>
+              </tr>
+            </thead>
+            <tbody id="t_rent"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB: Clientes -->
+    <div id="tab-clientes" class="tab">
+      <div class="kpis" id="k_cli"></div>
+      <div class="grid">
+        <div class="card">
+          <h2>Mayores clientes</h2>
+          <p>Facturación del período.</p>
+          <svg id="g_ctop" class="chart-h" role="img" aria-label="Mayores clientes"></svg>
+        </div>
+        <div class="card">
+          <h2>Facturación por zona</h2>
+          <p>Dónde está concentrada la venta.</p>
+          <svg id="g_czon" role="img" aria-label="Facturación por zona"></svg>
+        </div>
+      </div>
+      <div class="card">
+        <h2>Clientes para reactivar</h2>
+        <p>No compran hace más de 30 días. Conviene contactarlos.</p>
+        <div class="tw">
+          <table>
+            <thead>
+              <tr>
+                <th>Cliente</th>
+                <th>Zona</th>
+                <th>Última compra</th>
+                <th>Sin comprar</th>
+                <th>Facturado en total</th>
+              </tr>
+            </thead>
+            <tbody id="t_cre"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="card">
+        <h2>Ranking de clientes</h2>
+        <div class="tw" style="max-height:380px;overflow:auto">
+          <table>
+            <thead>
+              <tr>
+                <th>Cliente</th>
+                <th>Zona</th>
+                <th>Última compra</th>
+                <th>Compras</th>
+                <th>Facturado</th>
+              </tr>
+            </thead>
+            <tbody id="t_cli"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB: Compras -->
+    <div id="tab-compras" class="tab">
+      <div class="kpis" id="k_oc"></div>
+      <div class="grid">
+        <div class="card">
+          <h2>Entregas a tiempo por proveedor</h2>
+          <p>Pedidos recibidos en la fecha prometida o antes.</p>
+          <svg id="g_oc" class="chart-h" role="img" aria-label="Entregas a tiempo por proveedor"></svg>
+        </div>
+        <div class="card">
+          <h2>Pedidos pendientes</h2>
+          <div class="tw">
+            <table class="s">
+              <thead>
+                <tr>
+                  <th>Proveedor</th>
+                  <th>Producto</th>
+                  <th>Cant.</th>
+                  <th>Prometido</th>
+                  <th>Estado</th>
+                </tr>
+              </thead>
+              <tbody id="t_oc"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>Desarrollado por Mateo Scovenna · Los datos se leen de la carpeta <b>datos</b> de este sistema.</footer>
+  </div>
+
+  <script src="comun.js"></script><script src="fx.js"></script>
+  <script>
+    let VR=[],SR=[],V=[],ST={},D1=null,PED=[];
+    async function init(){
+      try{
+        VR=await leer("datos/ventas.csv");
+        try{SR=await leer("datos/stock.csv")}catch(e){SR=[]};
+        FR=await leer("datos/facturas.csv").catch(()=>[]);
+        OCR=await leer("datos/ordenes_compra.csv").catch(()=>[]);
+        $("origen").textContent="Datos: carpeta datos";
+      }catch(e){
+        $("aviso").innerHTML='<div class="msg">No se pudieron leer los archivos de la carpeta <b>datos</b>. Abrí el sistema con <b>Abrir_Ventas.bat</b>, o cargá tus archivos con el botón <b>Cargar CSV</b>.</div>'
+      }
+      prep(true);
+    }
+
+    function prep(reset){
+      V=VR.map(r=>{const f=fecha(r.fecha);return f?{f,p:r.producto,c:r.categoria||"Sin categoría",u:num(r.unidades),pr:num(r.precio_unitario)}:null}).filter(Boolean);
+      D1=V.reduce((a,x)=>!a||x.f>a?x.f:a,null);
+      V.forEach(x=>x.di=Math.round((D1-x.f)/DIA));
+      ST={};
+      SR.forEach(s=>ST[(s.producto||"").toLowerCase()]={st:num(s.stock),pl:num(s.plazo_entrega_dias)||7,c:s.categoria,co:num(s.costo_unitario)});
+      if(reset){
+        const cs=[...new Set(V.map(x=>x.c))].sort();
+        $("cat").innerHTML='<option value="all">Todas las categorías</option>'+cs.map(c=>`<option>${esc(c)}</option>`).join("");
+      }
+      render();
+    }
+
+    function renderPanel(){
+      const N=+$("per").value,cv=$("cat").value,ob=+$("cob").value||30;
+      if(!V.length){
+        $("kpis").innerHTML='<div class="card vacio" style="grid-column:1/-1">No hay ventas para mostrar.</div>';
+        ["sem","abc"].forEach(i=>$(i).innerHTML="");
+        $("rows").innerHTML="";
+        return;
+      }
+      const I=V.filter(x=>cv==="all"||x.c===cv),dias=Math.max(...V.map(x=>x.di))+1,cur=I.filter(x=>x.di<N),prv=I.filter(x=>x.di>=N&&x.di<2*N),sv=a=>a.reduce((s,x)=>s+x.u*x.pr,0),Vt=sv(cur),Vp=sv(prv),U=cur.reduce((s,x)=>s+x.u,0),ok=dias>=2*N&&Vp>0,dl=ok?(Vt/Vp-1)*100:0;
+      const M={};cur.forEach(x=>{const m=M[x.p]||(M[x.p]={p:x.p,c:x.c,u:0,v:0});m.u+=x.u;m.v+=x.u*x.pr});
+      const R=Object.values(M).map(m=>{const s=ST[m.p.toLowerCase()],vd=m.u/N,st=s?s.st:null,pl=s?s.pl:7,cob=s&&vd>0?st/vd:(s?Infinity:null);return{...m,vd,st,pl,cob,ped:s?Math.max(0,Math.ceil(vd*ob-st)):0,tiene:!!s}});
+      const rep=R.filter(r=>r.tiene&&r.cob<r.pl).length,dtxt=ok?`<b style="color:var(--${dl>=0?"ok":"bad"})">${dl>=0?"+":""}${fmt(dl,1)} %</b> vs período anterior`:"sin período anterior para comparar";
+      
+      $("kpis").innerHTML=`
+        <div class="k"><strong>$ ${fmt(Vt)}</strong><span>Ventas del período · ${dtxt}</span></div>
+        <div class="k"><strong>${fmt(U)}</strong><span>Unidades vendidas</span></div>
+        <div class="k"><strong>$ ${fmt(Vt/N)}</strong><span>Venta promedio por día</span></div>
+        <div class="k ${rep?"bad":""}"><strong>${SR.length?rep:"-"}</strong><span>${SR.length?"Productos a reponer ya":"Cargá stock.csv para ver reposición"}</span></div>
+      `;
+
+      const n=12,ws=Array(n).fill(0);I.forEach(x=>{const w=Math.floor(x.di/7);if(w<n)ws[n-1-w]+=x.u*x.pr});
+      const W=640,H=250,L=56,Rr=8,T=12,B=26,bw=(W-L-Rr)/n,mx=Math.max(...ws)||1,Y=v=>T+(1-v/mx)*(H-T-B);let s="";
+      
+      [0,.5,1].forEach(f=>{s+=`<line x1="${L}" x2="${W-Rr}" y1="${Y(mx*f)}" y2="${Y(mx*f)}" stroke="var(--line)" stroke-dasharray="3 3"/><text x="${L-6}" y="${Y(mx*f)+4}" text-anchor="end">${fmt(mx*f/1e6,1)} M</text>`});
+      
+      ws.forEach((v,i)=>{
+        const x=L+i*bw;
+        const h=H-B-Y(v);
+        const delay=(i*0.03).toFixed(2);
+        s+=`<rect class="bar-v" x="${x+5}" y="${Y(v)}" width="${bw-10}" height="${h}" rx="3" fill="${i==n-1?"var(--acc)":"var(--mute)"}" opacity="${i==n-1?1:.4}" style="transform-origin: ${x+5}px ${H-B}px; animation-delay: ${delay}s"><title>Semana ${i+1}: $ ${fmt(v)}</title></rect><text x="${x+bw/2}" y="${H-8}" text-anchor="middle">S${i+1}</text>`;
+      });
+      $("sem").innerHTML=s;
+
+      const O=[...R].filter(r=>r.v>0).sort((a,b)=>b.v-a.v),tv=O.reduce((a,r)=>a+r.v,0)||1;let ac=0;const cl=O.map(r=>{const c=ac/tv<.8?"A":ac/tv<.95?"B":"C";ac+=r.v;return c}),nA=cl.filter(x=>x=="A").length;
+      $("abct").textContent=O.length?`${nA} de ${O.length} productos (${fmt(nA/O.length*100)} %) generan alrededor del 80 % de las ventas. Esos no pueden faltar.`:"";
+      
+      const aw=390/Math.max(1,O.length),mv=(O[0]||{v:1}).v,col={A:"var(--acc)",B:"var(--warn)",C:"var(--mute)"};let q="";
+      O.forEach((r,i)=>{
+        const h=r.v/mv*190;
+        const xPos=5+i*aw;
+        const delay=(i*0.02).toFixed(2);
+        q+=`<rect class="bar-v" x="${xPos}" y="${210-h}" width="${Math.max(1,aw-3)}" height="${h}" rx="2" fill="${col[cl[i]]}" style="transform-origin: ${xPos}px 210px; animation-delay: ${delay}s"><title>${esc(r.p)}: $ ${fmt(r.v)} (${cl[i]})</title></rect>`;
+      });
+      q+=[["A","var(--acc)"],["B","var(--warn)"],["C","var(--mute)"]].map((z,i)=>`<rect x="${5+i*70}" y="232" width="10" height="10" rx="2" fill="${z[1]}"/><text x="${19+i*70}" y="241">Clase ${z[0]}</text>`).join("");
+      $("abc").innerHTML=q;
+
+      const T2=[...R].sort((a,b)=>(a.cob==null?1e9:a.cob)-(b.cob==null?1e9:b.cob));PED=T2.filter(r=>r.ped>0);
+      $("rows").innerHTML=T2.map(r=>{const e=!r.tiene?["Sin stock cargado",""]:r.cob<r.pl?["Reponer","bad"]:r.cob<r.pl*2?["Atención","warn"]:["OK","ok"];return`<tr><td><b>${esc(r.p)}</b></td><td>${esc(r.c)}</td><td>${r.tiene?fmt(r.st):"-"}</td><td>${fmt(r.vd,1)}</td><td>${!r.tiene?"-":isFinite(r.cob)?fmt(r.cob,1)+" días":"Sin ventas"}</td><td>${r.tiene?r.pl+" días":"-"}</td><td><span class="tag ${e[1]}">${e[0]}</span></td><td><b>${r.ped?fmt(r.ped)+" u.":"-"}</b></td></tr>`}).join("");
+    }
+
+    $("arch").onchange=async e=>{
+      for(const f of e.target.files){
+        const r=await leerArchivo(f);
+        if(!r.length)continue;
+        if("stock" in r[0])SR=r;
+        else if("importe" in r[0])FR=r;
+        else if("fecha_prometida" in r[0])OCR=r;
+        else VR=r;
+      }
+      $("origen").textContent="Datos: archivos cargados a mano";
+      $("aviso").innerHTML="";
+      prep(true);
+      e.target.value="";
+    };
+
+    ["cat","per"].forEach(i=>$(i).onchange=render);$("cob").oninput=deb(render);
+    $("exp").onclick=()=>PED.length?bajar("pedido_sugerido.csv",["producto","categoria","stock","venta_diaria","cobertura_dias","pedido_sugerido_unidades"],PED.map(r=>[r.p,r.c,r.st,fmt(r.vd,1),isFinite(r.cob)?fmt(r.cob,1):"",r.ped])):alert("No hay productos para pedir con la cobertura elegida.");
+
+    let TAB="panel",FR=[],OCR=[];
+    function render(){renderPanel();renderTab();}
+    function renderTab(){const f=window["r_"+TAB];f&&f();}
+    tabs(t=>{TAB=t;renderTab();});
+
+    function r_rent(){
+      const N=+$("per").value,cv=$("cat").value,I=V.filter(x=>x.di<N&&(cv==="all"||x.c===cv)),M={};
+      I.forEach(x=>{const s=ST[x.p.toLowerCase()];if(!s||!s.co)return;const m=M[x.p]||(M[x.p]={p:x.p,c:x.c,v:0,k:0});m.v+=x.u*x.pr;m.k+=x.u*s.co});
+      const R=Object.values(M).map(m=>({...m,mg:m.v-m.k,pc:m.v?(m.v-m.k)/m.v:0}));
+      if(!R.length){kp("k_rent",[]);$("g_rcat").innerHTML=$("g_rtop").innerHTML="";tabla("t_rent",6,[],"Cargá stock.csv con la columna costo_unitario.");return}
+      const V1=R.reduce((s,r)=>s+r.v,0),M1=R.reduce((s,r)=>s+r.mg,0),best=[...R].sort((a,b)=>b.mg-a.mg)[0],rev=R.filter(r=>r.pc<.25).length;
+      kp("k_rent",[["$ "+fmt(M1),"Margen bruto del período"],[fmt(M1/V1*100,1)+" %","Margen sobre ventas",M1/V1>=.3?"":"warn"],[best.p,"Producto que más margen deja"],[rev,"Productos con margen menor al 25 %",rev?"warn":""]]);
+      const cs={};R.forEach(r=>{const c=cs[r.c]||(cs[r.c]={v:0,m:0});c.v+=r.v;c.m+=r.mg});
+      barV("g_rcat",Object.entries(cs).map(([n,c])=>({n,v:c.m/c.v*100})),{f:v=>fmt(v)+" %",H:230,every:1});
+      barH("g_rtop",[...R].sort((a,b)=>b.mg-a.mg).slice(0,8).map(r=>({n:r.p,v:r.mg})),{f:v=>"$ "+fmt(v/1e3)+" k",L:160});
+      tabla("t_rent",6,[...R].sort((a,b)=>a.pc-b.pc).map(r=>[esc(r.p),"$ "+fmt(r.v),"$ "+fmt(r.k),"$ "+fmt(r.mg),fmt(r.pc*100,1)+" %",`<span class="tag ${r.pc<.25?"warn":"ok"}">${r.pc<.25?"Revisar precio":"OK"}</span>`]))
+    }
+
+    function r_clientes(){
+      const F=FR.map(r=>{const d=fecha(r.fecha);return d?{f:d,cl:r.cliente,z:r.zona||"Sin zona",im:num(r.importe)}:null}).filter(Boolean);
+      if(!F.length){kp("k_cli",[]);$("g_ctop").innerHTML=$("g_czon").innerHTML="";tabla("t_cre",5,[],"Cargá datos\\facturas.csv.");tabla("t_cli",5,[],"");return}
+      const N=+$("per").value,fin=F.reduce((a,x)=>x.f>a?x.f:a,F[0].f),di=x=>Math.round((fin-x.f)/DIA),cur=F.filter(x=>di(x)<N),C={};
+      F.forEach(x=>{const c=C[x.cl]||(C[x.cl]={n:x.cl,z:x.z,ult:x.f,tot:0});if(x.f>c.ult)c.ult=x.f;c.tot+=x.im});
+      const fac=cur.reduce((s,x)=>s+x.im,0),cm={};cur.forEach(x=>cm[x.cl]=(cm[x.cl]||0)+x.im);const top=Object.entries(cm).sort((a,b)=>b[1]-a[1]),t5=top.slice(0,5).reduce((s,x)=>s+x[1],0),
+      inact=Object.values(C).filter(c=>Math.round((fin-c.ult)/DIA)>30).sort((a,b)=>b.tot-a.tot);
+      kp("k_cli",[[top.length,"Clientes que compraron en el período"],["$ "+fmt(cur.length?fac/cur.length:0),"Ticket promedio"],[fmt(fac?t5/fac*100:0)+" %","Ventas en los 5 mayores clientes",fac&&t5/fac>.5?"warn":""],[inact.length,"Clientes sin comprar hace más de 30 días",inact.length?"warn":""]]);
+      barH("g_ctop",top.slice(0,8).map(([n,v])=>({n,v})),{f:v=>"$ "+fmt(v/1e3)+" k",L:150});
+      const zs={};cur.forEach(x=>zs[x.z]=(zs[x.z]||0)+x.im);barV("g_czon",Object.entries(zs).sort((a,b)=>b[1]-a[1]).map(([n,v])=>({n,v})),{f:v=>"$ "+fmt(v/1e6,1)+" M",H:230,every:1});
+      tabla("t_cre",5,inact.map(c=>[esc(c.n),esc(c.z),fd(c.ult),Math.round((fin-c.ult)/DIA)+" días","$ "+fmt(c.tot)]),"Todos los clientes compraron en los últimos 30 días.");
+      tabla("t_cli",5,top.map(([n,v])=>{const c=C[n];return[esc(n),esc(c.z),fd(c.ult),fmt(cur.filter(x=>x.cl===n).length),"$ "+fmt(v)]}))
+    }
+
+    function r_compras(){
+      const O=OCR.map(r=>{const p=fecha(r.fecha_pedido),pr=fecha(r.fecha_prometida),rc=r.fecha_recibida?fecha(r.fecha_recibida):null;return p&&pr?{p,pr,rc,pv:r.proveedor,pd:r.producto,q:num(r.cantidad)}:null}).filter(Boolean);
+      if(!O.length){kp("k_oc",[]);$("g_oc").innerHTML="";tabla("t_oc",5,[],"Cargá datos\\ordenes_compra.csv.");return}
+      const hd=V.length?D1:new Date(),rec=O.filter(x=>x.rc),pen=O.filter(x=>!x.rc),atr=pen.filter(x=>x.pr<hd),ok=rec.filter(x=>x.rc<=x.pr).length,dem=rec.filter(x=>x.rc>x.pr).map(x=>(x.rc-x.pr)/DIA),pv={};
+      rec.forEach(x=>{const o=pv[x.pv]||(pv[x.pv]={t:0,ok:0});o.t++;if(x.rc<=x.pr)o.ok++});
+      kp("k_oc",[[pen.length,"Pedidos pendientes"],[atr.length,"Pedidos atrasados",atr.length?"bad":""],[rec.length?fmt(ok/rec.length*100)+" %":"-","Entregas a tiempo",rec.length&&ok/rec.length<.8?"warn":""],[dem.length?fmt(dem.reduce((a,b)=>a+b,0)/dem.length,1)+" días":"-","Demora promedio de las entregas tardías"]]);
+      barH("g_oc",Object.entries(pv).map(([n,o])=>({n,v:o.ok/o.t*100,c:o.ok/o.t>=.9?"var(--acc)":o.ok/o.t>=.75?"var(--warn)":"var(--bad)"})).sort((a,b)=>b.v-a.v),{f:v=>fmt(v)+" %",L:170});
+      tabla("t_oc",5,[...pen].sort((a,b)=>a.pr-b.pr).map(x=>{const d=Math.round((hd-x.pr)/DIA);return[esc(x.pv),esc(x.pd),fmt(x.q),fd(x.pr),d>0?`<span class="tag bad">${d} días de atraso</span>`:`<span class="tag ok">En plazo</span>`]}),"No hay pedidos pendientes.")
+    }
+
+    init();
+  </script>
+</body>
+</html>         

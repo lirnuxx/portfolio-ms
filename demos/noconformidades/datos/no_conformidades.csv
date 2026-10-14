@@ -1,0 +1,15 @@
+﻿id;fecha;area;causa;descripcion;responsable;plazo_dias;estado;fecha_cierre;accion_correctiva
+1;2026-08-30;Recibo;Método;Temperatura fuera de rango en cámara;Resp. A;30;Cerrada;2026-09-11;Se recalibró el termostato y se agregó control cada 2 horas
+2;2026-10-04;Laboratorio;Medio ambiente;Rotulado incorrecto en lote;Resp. B;7;Cerrada;2026-10-07;Se reimprimió el rotulado y se capacitó al turno
+3;2026-08-30;Producción;Personal;Sello defectuoso en envase;Resp. C;30;Cerrada;2026-09-03;Se ajustó la selladora y se verificó con muestreo
+4;2026-09-23;Recibo;Materia prima;Falta de registro de limpieza;Resp. D;15;Cerrada;2026-10-05;Se reforzó la planilla de limpieza
+5;2026-09-10;Almacén;Medio ambiente;Materia prima con humedad alta;Resp. A;7;Cerrada;2026-09-16;Se rechazó el lote y se reclamó al proveedor
+6;2026-09-03;Almacén;Método;Desvío de peso en producto terminado;Resp. B;15;En acción;;
+7;2026-09-12;Laboratorio;Medio ambiente;Hisopado positivo en sala de envasado;Resp. C;15;En acción;;
+8;2026-10-06;Laboratorio;Medio ambiente;Balanza con calibración vencida;Resp. D;30;En acción;;
+9;2026-09-30;Producción;Materia prima;Mezcla fuera de especificación;Resp. A;30;En acción;;
+10;2026-09-27;Recibo;Medio ambiente;Pallet con embalaje dañado;Resp. B;30;Abierta;;
+11;2026-09-06;Envasado;Materia prima;Demora en liberación de lote;Resp. C;30;Abierta;;
+12;2026-09-28;Recibo;Medio ambiente;Medición sin registrar en turno noche;Resp. D;15;Abierta;;
+13;2026-09-01;Almacén;Método;Etiqueta ilegible en cajas;Resp. A;30;Abierta;;
+14;2026-10-03;Laboratorio;Personal;Proveedor entregó fuera de plazo;Resp. B;30;Abierta;;

@@ -1,0 +1,1198 @@
+﻿fecha;linea;turno;causa;minutos
+2026-07-16;Envasado;Mañana;Falla mecánica;32
+2026-07-16;Envasado;Noche;Falta de insumo;8
+2026-07-16;Envasado;Noche;Falla mecánica;7
+2026-07-16;Envasado;Noche;Ajuste de calidad;27
+2026-07-17;Envasado;Noche;Cambio de formato;23
+2026-07-18;Envasado;Mañana;Falta de insumo;39
+2026-07-18;Envasado;Mañana;Ajuste de calidad;29
+2026-07-18;Envasado;Tarde;Falta de insumo;19
+2026-07-18;Envasado;Noche;Falta de insumo;12
+2026-07-18;Envasado;Noche;Falla mecánica;63
+2026-07-18;Envasado;Noche;Falta de insumo;27
+2026-07-19;Envasado;Tarde;Falta de insumo;8
+2026-07-19;Envasado;Tarde;Falta de insumo;11
+2026-07-19;Envasado;Tarde;Cambio de formato;11
+2026-07-19;Envasado;Noche;Falta de insumo;12
+2026-07-19;Envasado;Noche;Cambio de formato;33
+2026-07-20;Envasado;Tarde;Falta de insumo;12
+2026-07-20;Envasado;Tarde;Falta de insumo;16
+2026-07-21;Envasado;Mañana;Falta de insumo;38
+2026-07-21;Envasado;Mañana;Cambio de formato;35
+2026-07-21;Envasado;Tarde;Cambio de formato;11
+2026-07-21;Envasado;Tarde;Limpieza no planificada;11
+2026-07-21;Envasado;Tarde;Ajuste de calidad;26
+2026-07-22;Envasado;Mañana;Cambio de formato;25
+2026-07-22;Envasado;Mañana;Falta de insumo;30
+2026-07-22;Envasado;Tarde;Falla mecánica;21
+2026-07-22;Envasado;Tarde;Falta de insumo;5
+2026-07-23;Envasado;Mañana;Falta de insumo;36
+2026-07-23;Envasado;Mañana;Limpieza no planificada;29
+2026-07-23;Envasado;Noche;Falta de insumo;27
+2026-07-23;Envasado;Noche;Cambio de formato;16
+2026-07-24;Envasado;Mañana;Limpieza no planificada;30
+2026-07-24;Envasado;Mañana;Falla mecánica;59
+2026-07-24;Envasado;Tarde;Cambio de formato;32
+2026-07-24;Envasado;Tarde;Falla mecánica;42
+2026-07-24;Envasado;Tarde;Cambio de formato;26
+2026-07-24;Envasado;Noche;Limpieza no planificada;18
+2026-07-24;Envasado;Noche;Falla mecánica;31
+2026-07-24;Envasado;Noche;Falta de insumo;31
+2026-07-25;Envasado;Mañana;Falta de insumo;22
+2026-07-25;Envasado;Tarde;Falta de insumo;28
+2026-07-25;Envasado;Noche;Cambio de formato;36
+2026-07-25;Envasado;Noche;Cambio de formato;11
+2026-07-25;Envasado;Noche;Cambio de formato;36
+2026-07-26;Envasado;Mañana;Falta de insumo;22
+2026-07-26;Envasado;Mañana;Limpieza no planificada;29
+2026-07-27;Envasado;Mañana;Cambio de formato;39
+2026-07-27;Envasado;Noche;Falta de insumo;32
+2026-07-27;Envasado;Noche;Falta de insumo;20
+2026-07-28;Envasado;Tarde;Cambio de formato;27
+2026-07-28;Envasado;Tarde;Limpieza no planificada;28
+2026-07-29;Envasado;Mañana;Falta de insumo;17
+2026-07-29;Envasado;Mañana;Cambio de formato;26
+2026-07-29;Envasado;Tarde;Falta de insumo;37
+2026-07-29;Envasado;Tarde;Falta de insumo;20
+2026-07-29;Envasado;Tarde;Falla mecánica;27
+2026-07-29;Envasado;Noche;Falla mecánica;44
+2026-07-29;Envasado;Noche;Falta de insumo;33
+2026-07-29;Envasado;Noche;Falla mecánica;17
+2026-07-30;Envasado;Mañana;Falla mecánica;24
+2026-07-30;Envasado;Mañana;Limpieza no planificada;17
+2026-07-30;Envasado;Mañana;Falta de insumo;24
+2026-07-30;Envasado;Noche;Falta de insumo;32
+2026-07-30;Envasado;Noche;Falta de insumo;23
+2026-07-30;Envasado;Noche;Limpieza no planificada;29
+2026-07-31;Envasado;Mañana;Falta de insumo;23
+2026-07-31;Envasado;Mañana;Cambio de formato;27
+2026-07-31;Envasado;Mañana;Falla mecánica;38
+2026-07-31;Envasado;Tarde;Falta de insumo;34
+2026-07-31;Envasado;Tarde;Falla mecánica;39
+2026-07-31;Envasado;Tarde;Falta de insumo;22
+2026-07-31;Envasado;Noche;Cambio de formato;33
+2026-07-31;Envasado;Noche;Cambio de formato;29
+2026-07-31;Envasado;Noche;Falta de insumo;19
+2026-08-01;Envasado;Mañana;Falta de insumo;20
+2026-08-01;Envasado;Tarde;Falta de insumo;26
+2026-08-01;Envasado;Noche;Falta de insumo;12
+2026-08-01;Envasado;Noche;Cambio de formato;17
+2026-08-01;Envasado;Noche;Falta de insumo;30
+2026-08-02;Envasado;Mañana;Falta de insumo;20
+2026-08-02;Envasado;Tarde;Falta de insumo;27
+2026-08-02;Envasado;Tarde;Cambio de formato;34
+2026-08-03;Envasado;Mañana;Falta de insumo;37
+2026-08-03;Envasado;Mañana;Cambio de formato;36
+2026-08-03;Envasado;Mañana;Falta de insumo;30
+2026-08-03;Envasado;Tarde;Cambio de formato;9
+2026-08-03;Envasado;Tarde;Cambio de formato;5
+2026-08-03;Envasado;Tarde;Falta de insumo;36
+2026-08-03;Envasado;Noche;Cambio de formato;28
+2026-08-03;Envasado;Noche;Falta de insumo;8
+2026-08-04;Envasado;Mañana;Falta de insumo;11
+2026-08-04;Envasado;Mañana;Falta de insumo;39
+2026-08-04;Envasado;Noche;Falta de insumo;23
+2026-08-04;Envasado;Noche;Cambio de formato;5
+2026-08-04;Envasado;Noche;Falla mecánica;15
+2026-08-05;Envasado;Mañana;Falta de insumo;22
+2026-08-05;Envasado;Tarde;Limpieza no planificada;27
+2026-08-05;Envasado;Tarde;Cambio de formato;22
+2026-08-05;Envasado;Tarde;Limpieza no planificada;14
+2026-08-05;Envasado;Noche;Cambio de formato;36
+2026-08-05;Envasado;Noche;Limpieza no planificada;31
+2026-08-05;Envasado;Noche;Cambio de formato;30
+2026-08-06;Envasado;Mañana;Falta de insumo;27
+2026-08-06;Envasado;Tarde;Cambio de formato;28
+2026-08-06;Envasado;Tarde;Cambio de formato;18
+2026-08-06;Envasado;Tarde;Limpieza no planificada;29
+2026-08-07;Envasado;Mañana;Falta de insumo;11
+2026-08-07;Envasado;Tarde;Falla mecánica;35
+2026-08-07;Envasado;Noche;Falla mecánica;9
+2026-08-07;Envasado;Noche;Falla mecánica;7
+2026-08-07;Envasado;Noche;Falta de insumo;21
+2026-08-08;Envasado;Mañana;Falta de insumo;19
+2026-08-08;Envasado;Mañana;Cambio de formato;17
+2026-08-08;Envasado;Tarde;Cambio de formato;15
+2026-08-08;Envasado;Tarde;Falta de insumo;6
+2026-08-08;Envasado;Noche;Limpieza no planificada;6
+2026-08-09;Envasado;Tarde;Cambio de formato;23
+2026-08-09;Envasado;Noche;Limpieza no planificada;26
+2026-08-10;Envasado;Mañana;Falta de insumo;23
+2026-08-10;Envasado;Tarde;Falta de insumo;25
+2026-08-10;Envasado;Tarde;Cambio de formato;23
+2026-08-10;Envasado;Noche;Falta de insumo;36
+2026-08-10;Envasado;Noche;Falla mecánica;26
+2026-08-11;Envasado;Mañana;Cambio de formato;31
+2026-08-11;Envasado;Mañana;Falta de insumo;39
+2026-08-11;Envasado;Noche;Falta de insumo;23
+2026-08-12;Envasado;Mañana;Cambio de formato;18
+2026-08-12;Envasado;Mañana;Falta de insumo;17
+2026-08-12;Envasado;Noche;Falta de insumo;19
+2026-08-12;Envasado;Noche;Cambio de formato;17
+2026-08-13;Envasado;Mañana;Falla mecánica;60
+2026-08-14;Envasado;Mañana;Cambio de formato;7
+2026-08-14;Envasado;Mañana;Falta de insumo;7
+2026-08-14;Envasado;Tarde;Falta de insumo;17
+2026-08-14;Envasado;Tarde;Cambio de formato;9
+2026-08-14;Envasado;Noche;Ajuste de calidad;20
+2026-08-14;Envasado;Noche;Cambio de formato;16
+2026-08-14;Envasado;Noche;Cambio de formato;36
+2026-08-15;Envasado;Mañana;Falta de insumo;18
+2026-08-15;Envasado;Tarde;Falla mecánica;38
+2026-08-15;Envasado;Tarde;Falta de insumo;35
+2026-08-15;Envasado;Tarde;Falta de insumo;23
+2026-08-15;Envasado;Noche;Falla mecánica;8
+2026-08-15;Envasado;Noche;Falla mecánica;10
+2026-08-15;Envasado;Noche;Falta de insumo;36
+2026-08-16;Envasado;Noche;Cambio de formato;16
+2026-08-16;Envasado;Noche;Limpieza no planificada;22
+2026-08-17;Envasado;Mañana;Cambio de formato;33
+2026-08-17;Envasado;Mañana;Falla mecánica;53
+2026-08-17;Envasado;Tarde;Cambio de formato;29
+2026-08-17;Envasado;Tarde;Cambio de formato;19
+2026-08-17;Envasado;Tarde;Falta de insumo;39
+2026-08-18;Envasado;Mañana;Falta de insumo;9
+2026-08-18;Envasado;Mañana;Falla mecánica;15
+2026-08-18;Envasado;Mañana;Falta de insumo;25
+2026-08-19;Envasado;Noche;Cambio de formato;14
+2026-08-19;Envasado;Noche;Ajuste de calidad;16
+2026-08-20;Envasado;Mañana;Falta de insumo;38
+2026-08-20;Envasado;Tarde;Falta de insumo;39
+2026-08-20;Envasado;Tarde;Falta de insumo;5
+2026-08-20;Envasado;Noche;Falla mecánica;14
+2026-08-20;Envasado;Noche;Falta de insumo;14
+2026-08-20;Envasado;Noche;Falla mecánica;43
+2026-08-21;Envasado;Mañana;Falta de insumo;5
+2026-08-21;Envasado;Mañana;Limpieza no planificada;33
+2026-08-21;Envasado;Tarde;Falta de insumo;21
+2026-08-21;Envasado;Tarde;Falla mecánica;56
+2026-08-21;Envasado;Noche;Falta de insumo;33
+2026-08-22;Envasado;Mañana;Falta de insumo;15
+2026-08-22;Envasado;Mañana;Falta de insumo;15
+2026-08-22;Envasado;Tarde;Falta de insumo;18
+2026-08-22;Envasado;Noche;Falta de insumo;18
+2026-08-22;Envasado;Noche;Falta de insumo;24
+2026-08-22;Envasado;Noche;Falta de insumo;39
+2026-08-23;Envasado;Mañana;Falta de insumo;23
+2026-08-23;Envasado;Mañana;Falta de insumo;18
+2026-08-23;Envasado;Noche;Falla mecánica;24
+2026-08-23;Envasado;Noche;Falta de insumo;9
+2026-08-23;Envasado;Noche;Falta de insumo;29
+2026-08-24;Envasado;Mañana;Falta de insumo;12
+2026-08-24;Envasado;Mañana;Falta de insumo;19
+2026-08-24;Envasado;Mañana;Falta de insumo;19
+2026-08-24;Envasado;Tarde;Cambio de formato;16
+2026-08-24;Envasado;Tarde;Falta de insumo;19
+2026-08-24;Envasado;Tarde;Limpieza no planificada;32
+2026-08-25;Envasado;Mañana;Falta de insumo;22
+2026-08-25;Envasado;Mañana;Limpieza no planificada;26
+2026-08-25;Envasado;Tarde;Falta de insumo;22
+2026-08-25;Envasado;Tarde;Falta de insumo;39
+2026-08-25;Envasado;Tarde;Cambio de formato;34
+2026-08-25;Envasado;Noche;Falta de insumo;13
+2026-08-25;Envasado;Noche;Falla mecánica;24
+2026-08-26;Envasado;Mañana;Falta de insumo;9
+2026-08-26;Envasado;Tarde;Falta de insumo;36
+2026-08-26;Envasado;Tarde;Ajuste de calidad;26
+2026-08-26;Envasado;Noche;Cambio de formato;25
+2026-08-27;Envasado;Mañana;Falta de insumo;11
+2026-08-27;Envasado;Mañana;Ajuste de calidad;28
+2026-08-27;Envasado;Tarde;Cambio de formato;33
+2026-08-27;Envasado;Tarde;Falta de insumo;21
+2026-08-27;Envasado;Noche;Falta de insumo;14
+2026-08-27;Envasado;Noche;Falta de insumo;27
+2026-08-28;Envasado;Tarde;Cambio de formato;29
+2026-08-28;Envasado;Noche;Ajuste de calidad;34
+2026-08-29;Envasado;Mañana;Falla mecánica;36
+2026-08-29;Envasado;Mañana;Cambio de formato;16
+2026-08-29;Envasado;Tarde;Falla mecánica;50
+2026-08-29;Envasado;Tarde;Falta de insumo;7
+2026-08-29;Envasado;Tarde;Falta de insumo;22
+2026-08-29;Envasado;Noche;Falta de insumo;15
+2026-08-29;Envasado;Noche;Falta de insumo;7
+2026-08-30;Envasado;Mañana;Cambio de formato;33
+2026-08-30;Envasado;Mañana;Falta de insumo;24
+2026-08-30;Envasado;Tarde;Falta de insumo;38
+2026-08-30;Envasado;Tarde;Falta de insumo;15
+2026-08-30;Envasado;Tarde;Falta de insumo;36
+2026-08-30;Envasado;Noche;Falta de insumo;6
+2026-08-31;Envasado;Mañana;Ajuste de calidad;21
+2026-08-31;Envasado;Tarde;Falta de insumo;34
+2026-08-31;Envasado;Tarde;Falta de insumo;11
+2026-08-31;Envasado;Tarde;Ajuste de calidad;12
+2026-08-31;Envasado;Noche;Falta de insumo;30
+2026-08-31;Envasado;Noche;Cambio de formato;35
+2026-08-31;Envasado;Noche;Falta de insumo;29
+2026-09-01;Envasado;Tarde;Falta de insumo;13
+2026-09-01;Envasado;Tarde;Falla mecánica;27
+2026-09-01;Envasado;Noche;Falta de insumo;37
+2026-09-01;Envasado;Noche;Falta de insumo;27
+2026-09-02;Envasado;Mañana;Cambio de formato;6
+2026-09-02;Envasado;Tarde;Falta de insumo;14
+2026-09-02;Envasado;Noche;Falta de insumo;36
+2026-09-03;Envasado;Mañana;Cambio de formato;37
+2026-09-03;Envasado;Tarde;Cambio de formato;28
+2026-09-03;Envasado;Tarde;Falla mecánica;35
+2026-09-03;Envasado;Noche;Falta de insumo;32
+2026-09-03;Envasado;Noche;Falta de insumo;13
+2026-09-04;Envasado;Mañana;Falta de insumo;22
+2026-09-04;Envasado;Mañana;Falta de insumo;22
+2026-09-04;Envasado;Mañana;Falta de insumo;30
+2026-09-04;Envasado;Noche;Falta de insumo;14
+2026-09-05;Envasado;Mañana;Cambio de formato;32
+2026-09-05;Envasado;Mañana;Falta de insumo;15
+2026-09-05;Envasado;Mañana;Falta de insumo;26
+2026-09-05;Envasado;Tarde;Falta de insumo;11
+2026-09-05;Envasado;Tarde;Falta de insumo;29
+2026-09-06;Envasado;Tarde;Limpieza no planificada;10
+2026-09-07;Envasado;Tarde;Falta de insumo;39
+2026-09-08;Envasado;Tarde;Cambio de formato;26
+2026-09-08;Envasado;Noche;Falta de insumo;29
+2026-09-08;Envasado;Noche;Falla mecánica;58
+2026-09-09;Envasado;Mañana;Cambio de formato;12
+2026-09-09;Envasado;Mañana;Falta de insumo;24
+2026-09-09;Envasado;Mañana;Falta de insumo;12
+2026-09-09;Envasado;Tarde;Limpieza no planificada;35
+2026-09-10;Envasado;Mañana;Falta de insumo;14
+2026-09-10;Envasado;Tarde;Falta de insumo;10
+2026-09-10;Envasado;Tarde;Cambio de formato;31
+2026-09-11;Envasado;Tarde;Falta de insumo;18
+2026-09-11;Envasado;Tarde;Falta de insumo;10
+2026-09-11;Envasado;Tarde;Falta de insumo;15
+2026-09-12;Envasado;Mañana;Falta de insumo;12
+2026-09-12;Envasado;Mañana;Falta de insumo;19
+2026-09-13;Envasado;Mañana;Falla mecánica;63
+2026-09-13;Envasado;Mañana;Falta de insumo;37
+2026-09-13;Envasado;Tarde;Ajuste de calidad;13
+2026-09-13;Envasado;Tarde;Falta de insumo;19
+2026-09-13;Envasado;Noche;Falta de insumo;14
+2026-09-14;Envasado;Mañana;Falta de insumo;13
+2026-09-14;Envasado;Tarde;Falta de insumo;29
+2026-09-15;Envasado;Tarde;Cambio de formato;16
+2026-09-15;Envasado;Noche;Falla mecánica;20
+2026-09-16;Envasado;Mañana;Falla mecánica;26
+2026-09-16;Envasado;Tarde;Cambio de formato;19
+2026-09-16;Envasado;Tarde;Falta de insumo;34
+2026-09-16;Envasado;Tarde;Cambio de formato;36
+2026-09-16;Envasado;Noche;Falta de insumo;39
+2026-09-16;Envasado;Noche;Falta de insumo;12
+2026-09-17;Envasado;Noche;Cambio de formato;34
+2026-09-17;Envasado;Noche;Cambio de formato;17
+2026-09-18;Envasado;Mañana;Falla mecánica;62
+2026-09-18;Envasado;Mañana;Falta de insumo;26
+2026-09-18;Envasado;Tarde;Cambio de formato;23
+2026-09-18;Envasado;Noche;Falta de insumo;9
+2026-09-19;Envasado;Tarde;Cambio de formato;10
+2026-09-20;Envasado;Mañana;Cambio de formato;13
+2026-09-20;Envasado;Mañana;Cambio de formato;16
+2026-09-20;Envasado;Mañana;Limpieza no planificada;33
+2026-09-20;Envasado;Tarde;Falla mecánica;53
+2026-09-20;Envasado;Tarde;Falta de insumo;28
+2026-09-21;Envasado;Mañana;Falta de insumo;19
+2026-09-21;Envasado;Mañana;Cambio de formato;37
+2026-09-21;Envasado;Mañana;Falta de insumo;29
+2026-09-21;Envasado;Tarde;Limpieza no planificada;9
+2026-09-21;Envasado;Noche;Falta de insumo;15
+2026-09-21;Envasado;Noche;Limpieza no planificada;14
+2026-09-22;Envasado;Mañana;Cambio de formato;29
+2026-09-22;Envasado;Mañana;Falla mecánica;13
+2026-09-22;Envasado;Mañana;Falta de insumo;37
+2026-09-22;Envasado;Noche;Falta de insumo;14
+2026-09-22;Envasado;Noche;Falta de insumo;17
+2026-09-23;Envasado;Noche;Falta de insumo;21
+2026-09-23;Envasado;Noche;Cambio de formato;18
+2026-09-23;Envasado;Noche;Falta de insumo;27
+2026-09-24;Envasado;Mañana;Ajuste de calidad;20
+2026-09-24;Envasado;Mañana;Limpieza no planificada;11
+2026-09-24;Envasado;Mañana;Falta de insumo;9
+2026-09-24;Envasado;Tarde;Falta de insumo;5
+2026-09-24;Envasado;Tarde;Cambio de formato;5
+2026-09-24;Envasado;Tarde;Falla mecánica;52
+2026-09-24;Envasado;Noche;Limpieza no planificada;39
+2026-09-24;Envasado;Noche;Falta de insumo;19
+2026-09-24;Envasado;Noche;Falta de insumo;36
+2026-09-25;Envasado;Tarde;Cambio de formato;27
+2026-09-25;Envasado;Tarde;Falta de insumo;36
+2026-09-25;Envasado;Noche;Falta de insumo;31
+2026-09-26;Envasado;Tarde;Falta de insumo;22
+2026-09-26;Envasado;Noche;Falta de insumo;35
+2026-09-26;Envasado;Noche;Cambio de formato;8
+2026-09-27;Envasado;Mañana;Falta de insumo;29
+2026-09-27;Envasado;Mañana;Falta de insumo;28
+2026-09-27;Envasado;Mañana;Cambio de formato;11
+2026-09-27;Envasado;Noche;Falta de insumo;36
+2026-09-27;Envasado;Noche;Falla mecánica;35
+2026-09-28;Envasado;Mañana;Cambio de formato;28
+2026-09-28;Envasado;Mañana;Falta de insumo;13
+2026-09-28;Envasado;Mañana;Cambio de formato;23
+2026-09-28;Envasado;Tarde;Cambio de formato;37
+2026-09-28;Envasado;Noche;Cambio de formato;30
+2026-09-28;Envasado;Noche;Cambio de formato;35
+2026-09-28;Envasado;Noche;Falta de insumo;22
+2026-09-29;Envasado;Mañana;Limpieza no planificada;32
+2026-09-29;Envasado;Mañana;Falla mecánica;8
+2026-09-29;Envasado;Tarde;Cambio de formato;23
+2026-09-29;Envasado;Noche;Falta de insumo;24
+2026-09-30;Envasado;Tarde;Falla mecánica;52
+2026-09-30;Envasado;Tarde;Falta de insumo;8
+2026-09-30;Envasado;Tarde;Falta de insumo;35
+2026-10-01;Envasado;Mañana;Falta de insumo;39
+2026-10-01;Envasado;Mañana;Falta de insumo;35
+2026-10-01;Envasado;Tarde;Falta de insumo;16
+2026-10-01;Envasado;Tarde;Falta de insumo;14
+2026-10-02;Envasado;Mañana;Falta de insumo;37
+2026-10-02;Envasado;Noche;Falta de insumo;19
+2026-10-02;Envasado;Noche;Falta de insumo;19
+2026-10-03;Envasado;Mañana;Falla mecánica;25
+2026-10-03;Envasado;Tarde;Cambio de formato;15
+2026-10-03;Envasado;Tarde;Falla mecánica;32
+2026-10-03;Envasado;Noche;Cambio de formato;7
+2026-10-03;Envasado;Noche;Falta de insumo;20
+2026-10-04;Envasado;Mañana;Falta de insumo;19
+2026-10-04;Envasado;Mañana;Falta de insumo;13
+2026-10-04;Envasado;Tarde;Falla mecánica;37
+2026-10-04;Envasado;Tarde;Falta de insumo;8
+2026-10-04;Envasado;Tarde;Falta de insumo;30
+2026-10-04;Envasado;Noche;Falta de insumo;27
+2026-10-04;Envasado;Noche;Falta de insumo;21
+2026-10-04;Envasado;Noche;Cambio de formato;26
+2026-10-05;Envasado;Mañana;Cambio de formato;27
+2026-10-05;Envasado;Mañana;Limpieza no planificada;7
+2026-10-05;Envasado;Mañana;Falta de insumo;27
+2026-10-05;Envasado;Noche;Falta de insumo;10
+2026-10-06;Envasado;Mañana;Cambio de formato;30
+2026-10-06;Envasado;Mañana;Falta de insumo;21
+2026-10-06;Envasado;Tarde;Falta de insumo;17
+2026-10-06;Envasado;Tarde;Cambio de formato;8
+2026-10-06;Envasado;Tarde;Cambio de formato;22
+2026-10-07;Envasado;Mañana;Falta de insumo;19
+2026-10-07;Envasado;Tarde;Cambio de formato;34
+2026-10-08;Envasado;Mañana;Falla mecánica;62
+2026-10-08;Envasado;Noche;Falta de insumo;5
+2026-10-08;Envasado;Noche;Falta de insumo;38
+2026-10-09;Envasado;Tarde;Falta de insumo;16
+2026-10-09;Envasado;Noche;Falla mecánica;35
+2026-10-09;Envasado;Noche;Cambio de formato;15
+2026-10-09;Envasado;Noche;Falta de insumo;17
+2026-10-10;Envasado;Mañana;Falta de insumo;6
+2026-10-10;Envasado;Tarde;Cambio de formato;12
+2026-10-10;Envasado;Tarde;Falta de insumo;16
+2026-10-10;Envasado;Noche;Falta de insumo;19
+2026-10-10;Envasado;Noche;Falta de insumo;25
+2026-10-11;Envasado;Mañana;Falta de insumo;26
+2026-10-11;Envasado;Mañana;Falta de insumo;22
+2026-10-11;Envasado;Noche;Cambio de formato;35
+2026-10-12;Envasado;Mañana;Falta de insumo;34
+2026-10-12;Envasado;Mañana;Falta de insumo;33
+2026-10-12;Envasado;Noche;Falla mecánica;43
+2026-10-12;Envasado;Noche;Falta de insumo;31
+2026-10-13;Envasado;Mañana;Cambio de formato;39
+2026-10-13;Envasado;Mañana;Falta de insumo;32
+2026-10-13;Envasado;Tarde;Falta de insumo;9
+2026-07-16;Cuajado;Mañana;Falta de insumo;9
+2026-07-16;Cuajado;Mañana;Cambio de formato;24
+2026-07-16;Cuajado;Tarde;Falla mecánica;12
+2026-07-17;Cuajado;Mañana;Falla mecánica;46
+2026-07-17;Cuajado;Mañana;Cambio de formato;8
+2026-07-17;Cuajado;Tarde;Falta de insumo;10
+2026-07-17;Cuajado;Tarde;Cambio de formato;23
+2026-07-17;Cuajado;Noche;Cambio de formato;21
+2026-07-17;Cuajado;Noche;Cambio de formato;29
+2026-07-17;Cuajado;Noche;Falta de insumo;30
+2026-07-18;Cuajado;Tarde;Cambio de formato;24
+2026-07-18;Cuajado;Tarde;Ajuste de calidad;20
+2026-07-18;Cuajado;Noche;Falta de insumo;34
+2026-07-18;Cuajado;Noche;Falta de insumo;24
+2026-07-18;Cuajado;Noche;Falta de insumo;10
+2026-07-19;Cuajado;Mañana;Falta de insumo;12
+2026-07-19;Cuajado;Mañana;Falta de insumo;26
+2026-07-19;Cuajado;Mañana;Falta de insumo;25
+2026-07-19;Cuajado;Tarde;Cambio de formato;30
+2026-07-19;Cuajado;Tarde;Cambio de formato;30
+2026-07-20;Cuajado;Mañana;Falta de insumo;21
+2026-07-20;Cuajado;Tarde;Falla mecánica;14
+2026-07-20;Cuajado;Noche;Cambio de formato;23
+2026-07-20;Cuajado;Noche;Limpieza no planificada;32
+2026-07-21;Cuajado;Mañana;Cambio de formato;13
+2026-07-21;Cuajado;Mañana;Falta de insumo;30
+2026-07-21;Cuajado;Mañana;Falla mecánica;38
+2026-07-21;Cuajado;Tarde;Falta de insumo;28
+2026-07-21;Cuajado;Tarde;Falta de insumo;8
+2026-07-21;Cuajado;Tarde;Falta de insumo;39
+2026-07-22;Cuajado;Tarde;Limpieza no planificada;23
+2026-07-22;Cuajado;Tarde;Falta de insumo;11
+2026-07-22;Cuajado;Noche;Falta de insumo;19
+2026-07-23;Cuajado;Mañana;Falla mecánica;38
+2026-07-23;Cuajado;Tarde;Limpieza no planificada;39
+2026-07-23;Cuajado;Noche;Falta de insumo;22
+2026-07-23;Cuajado;Noche;Falla mecánica;41
+2026-07-23;Cuajado;Noche;Falla mecánica;10
+2026-07-24;Cuajado;Tarde;Falta de insumo;34
+2026-07-24;Cuajado;Tarde;Cambio de formato;25
+2026-07-24;Cuajado;Tarde;Limpieza no planificada;5
+2026-07-24;Cuajado;Noche;Cambio de formato;16
+2026-07-24;Cuajado;Noche;Falta de insumo;31
+2026-07-24;Cuajado;Noche;Falta de insumo;23
+2026-07-25;Cuajado;Mañana;Cambio de formato;11
+2026-07-25;Cuajado;Tarde;Cambio de formato;13
+2026-07-25;Cuajado;Noche;Cambio de formato;11
+2026-07-25;Cuajado;Noche;Falta de insumo;16
+2026-07-26;Cuajado;Mañana;Falta de insumo;31
+2026-07-26;Cuajado;Mañana;Falta de insumo;19
+2026-07-26;Cuajado;Mañana;Cambio de formato;17
+2026-07-26;Cuajado;Tarde;Falta de insumo;32
+2026-07-26;Cuajado;Noche;Falta de insumo;30
+2026-07-28;Cuajado;Mañana;Cambio de formato;9
+2026-07-28;Cuajado;Mañana;Limpieza no planificada;11
+2026-07-28;Cuajado;Mañana;Falta de insumo;35
+2026-07-28;Cuajado;Tarde;Falta de insumo;14
+2026-07-29;Cuajado;Mañana;Falta de insumo;23
+2026-07-29;Cuajado;Tarde;Falla mecánica;9
+2026-07-29;Cuajado;Tarde;Falta de insumo;15
+2026-07-29;Cuajado;Tarde;Limpieza no planificada;22
+2026-07-29;Cuajado;Noche;Cambio de formato;39
+2026-07-29;Cuajado;Noche;Cambio de formato;34
+2026-07-30;Cuajado;Mañana;Falta de insumo;31
+2026-07-30;Cuajado;Mañana;Falta de insumo;10
+2026-07-30;Cuajado;Mañana;Falta de insumo;12
+2026-07-30;Cuajado;Tarde;Cambio de formato;21
+2026-07-30;Cuajado;Tarde;Falta de insumo;15
+2026-07-30;Cuajado;Tarde;Falta de insumo;26
+2026-07-30;Cuajado;Noche;Falta de insumo;35
+2026-07-30;Cuajado;Noche;Cambio de formato;23
+2026-07-31;Cuajado;Mañana;Cambio de formato;34
+2026-07-31;Cuajado;Mañana;Falta de insumo;22
+2026-07-31;Cuajado;Mañana;Cambio de formato;10
+2026-07-31;Cuajado;Tarde;Falta de insumo;14
+2026-07-31;Cuajado;Tarde;Falta de insumo;17
+2026-07-31;Cuajado;Noche;Falta de insumo;5
+2026-07-31;Cuajado;Noche;Falta de insumo;25
+2026-07-31;Cuajado;Noche;Cambio de formato;8
+2026-08-01;Cuajado;Mañana;Cambio de formato;20
+2026-08-01;Cuajado;Mañana;Falta de insumo;13
+2026-08-01;Cuajado;Tarde;Falla mecánica;30
+2026-08-01;Cuajado;Noche;Falta de insumo;34
+2026-08-02;Cuajado;Tarde;Ajuste de calidad;28
+2026-08-02;Cuajado;Tarde;Falla mecánica;53
+2026-08-02;Cuajado;Tarde;Falta de insumo;33
+2026-08-02;Cuajado;Noche;Falta de insumo;17
+2026-08-02;Cuajado;Noche;Falla mecánica;59
+2026-08-02;Cuajado;Noche;Falla mecánica;8
+2026-08-03;Cuajado;Mañana;Cambio de formato;11
+2026-08-03;Cuajado;Mañana;Falla mecánica;64
+2026-08-03;Cuajado;Mañana;Falta de insumo;30
+2026-08-03;Cuajado;Tarde;Limpieza no planificada;24
+2026-08-03;Cuajado;Tarde;Limpieza no planificada;22
+2026-08-03;Cuajado;Tarde;Falta de insumo;5
+2026-08-04;Cuajado;Mañana;Falta de insumo;14
+2026-08-04;Cuajado;Mañana;Falta de insumo;29
+2026-08-04;Cuajado;Tarde;Cambio de formato;38
+2026-08-04;Cuajado;Tarde;Falla mecánica;51
+2026-08-04;Cuajado;Tarde;Falta de insumo;23
+2026-08-04;Cuajado;Noche;Cambio de formato;31
+2026-08-04;Cuajado;Noche;Falta de insumo;25
+2026-08-04;Cuajado;Noche;Falta de insumo;7
+2026-08-05;Cuajado;Mañana;Limpieza no planificada;19
+2026-08-05;Cuajado;Mañana;Falta de insumo;21
+2026-08-05;Cuajado;Tarde;Falla mecánica;38
+2026-08-05;Cuajado;Noche;Falta de insumo;39
+2026-08-05;Cuajado;Noche;Falta de insumo;31
+2026-08-05;Cuajado;Noche;Falta de insumo;24
+2026-08-06;Cuajado;Mañana;Cambio de formato;27
+2026-08-06;Cuajado;Mañana;Cambio de formato;20
+2026-08-06;Cuajado;Tarde;Falta de insumo;7
+2026-08-06;Cuajado;Tarde;Falta de insumo;20
+2026-08-06;Cuajado;Tarde;Falta de insumo;25
+2026-08-06;Cuajado;Noche;Falla mecánica;7
+2026-08-06;Cuajado;Noche;Falta de insumo;6
+2026-08-07;Cuajado;Noche;Falta de insumo;39
+2026-08-08;Cuajado;Tarde;Cambio de formato;14
+2026-08-08;Cuajado;Noche;Falta de insumo;20
+2026-08-09;Cuajado;Mañana;Cambio de formato;20
+2026-08-09;Cuajado;Tarde;Cambio de formato;39
+2026-08-09;Cuajado;Noche;Cambio de formato;30
+2026-08-09;Cuajado;Noche;Limpieza no planificada;28
+2026-08-10;Cuajado;Tarde;Cambio de formato;5
+2026-08-10;Cuajado;Tarde;Cambio de formato;14
+2026-08-10;Cuajado;Tarde;Falta de insumo;18
+2026-08-10;Cuajado;Noche;Falta de insumo;33
+2026-08-10;Cuajado;Noche;Cambio de formato;25
+2026-08-10;Cuajado;Noche;Falla mecánica;49
+2026-08-11;Cuajado;Mañana;Cambio de formato;39
+2026-08-11;Cuajado;Mañana;Falta de insumo;16
+2026-08-11;Cuajado;Tarde;Cambio de formato;22
+2026-08-11;Cuajado;Noche;Falta de insumo;33
+2026-08-11;Cuajado;Noche;Falta de insumo;26
+2026-08-11;Cuajado;Noche;Cambio de formato;39
+2026-08-12;Cuajado;Mañana;Falta de insumo;15
+2026-08-12;Cuajado;Tarde;Falta de insumo;17
+2026-08-12;Cuajado;Tarde;Falta de insumo;18
+2026-08-12;Cuajado;Tarde;Falta de insumo;15
+2026-08-13;Cuajado;Tarde;Cambio de formato;5
+2026-08-14;Cuajado;Mañana;Falta de insumo;21
+2026-08-14;Cuajado;Tarde;Cambio de formato;39
+2026-08-14;Cuajado;Tarde;Falta de insumo;26
+2026-08-14;Cuajado;Tarde;Falta de insumo;16
+2026-08-14;Cuajado;Noche;Limpieza no planificada;10
+2026-08-14;Cuajado;Noche;Cambio de formato;12
+2026-08-14;Cuajado;Noche;Limpieza no planificada;12
+2026-08-15;Cuajado;Mañana;Falta de insumo;7
+2026-08-15;Cuajado;Mañana;Falla mecánica;39
+2026-08-15;Cuajado;Tarde;Falla mecánica;56
+2026-08-16;Cuajado;Mañana;Falla mecánica;24
+2026-08-16;Cuajado;Tarde;Falta de insumo;13
+2026-08-16;Cuajado;Tarde;Falta de insumo;5
+2026-08-16;Cuajado;Noche;Falta de insumo;21
+2026-08-17;Cuajado;Mañana;Falla mecánica;44
+2026-08-17;Cuajado;Mañana;Cambio de formato;19
+2026-08-17;Cuajado;Mañana;Falta de insumo;21
+2026-08-17;Cuajado;Tarde;Falta de insumo;5
+2026-08-17;Cuajado;Tarde;Falta de insumo;32
+2026-08-17;Cuajado;Tarde;Falta de insumo;11
+2026-08-17;Cuajado;Noche;Falla mecánica;32
+2026-08-17;Cuajado;Noche;Cambio de formato;35
+2026-08-18;Cuajado;Mañana;Falta de insumo;38
+2026-08-18;Cuajado;Mañana;Cambio de formato;15
+2026-08-18;Cuajado;Mañana;Falla mecánica;64
+2026-08-18;Cuajado;Noche;Falta de insumo;37
+2026-08-18;Cuajado;Noche;Cambio de formato;25
+2026-08-19;Cuajado;Mañana;Limpieza no planificada;12
+2026-08-19;Cuajado;Tarde;Cambio de formato;5
+2026-08-20;Cuajado;Mañana;Falla mecánica;11
+2026-08-20;Cuajado;Tarde;Falla mecánica;8
+2026-08-20;Cuajado;Tarde;Falta de insumo;9
+2026-08-20;Cuajado;Tarde;Falta de insumo;10
+2026-08-20;Cuajado;Noche;Cambio de formato;11
+2026-08-21;Cuajado;Mañana;Falta de insumo;18
+2026-08-21;Cuajado;Mañana;Cambio de formato;30
+2026-08-21;Cuajado;Mañana;Falta de insumo;38
+2026-08-21;Cuajado;Tarde;Falta de insumo;11
+2026-08-21;Cuajado;Tarde;Falta de insumo;34
+2026-08-21;Cuajado;Tarde;Limpieza no planificada;28
+2026-08-21;Cuajado;Noche;Falta de insumo;22
+2026-08-21;Cuajado;Noche;Cambio de formato;6
+2026-08-22;Cuajado;Mañana;Falta de insumo;25
+2026-08-22;Cuajado;Tarde;Cambio de formato;24
+2026-08-22;Cuajado;Tarde;Falta de insumo;30
+2026-08-23;Cuajado;Mañana;Falla mecánica;50
+2026-08-23;Cuajado;Mañana;Falta de insumo;33
+2026-08-23;Cuajado;Mañana;Falta de insumo;6
+2026-08-23;Cuajado;Tarde;Falta de insumo;34
+2026-08-24;Cuajado;Tarde;Falta de insumo;23
+2026-08-24;Cuajado;Tarde;Falta de insumo;24
+2026-08-24;Cuajado;Noche;Falta de insumo;11
+2026-08-25;Cuajado;Mañana;Cambio de formato;23
+2026-08-25;Cuajado;Mañana;Falta de insumo;18
+2026-08-25;Cuajado;Mañana;Cambio de formato;29
+2026-08-25;Cuajado;Tarde;Cambio de formato;32
+2026-08-26;Cuajado;Mañana;Falta de insumo;30
+2026-08-26;Cuajado;Mañana;Cambio de formato;26
+2026-08-26;Cuajado;Mañana;Ajuste de calidad;25
+2026-08-26;Cuajado;Tarde;Limpieza no planificada;10
+2026-08-26;Cuajado;Tarde;Cambio de formato;9
+2026-08-26;Cuajado;Tarde;Falta de insumo;27
+2026-08-26;Cuajado;Noche;Falta de insumo;35
+2026-08-26;Cuajado;Noche;Cambio de formato;17
+2026-08-27;Cuajado;Mañana;Falta de insumo;16
+2026-08-27;Cuajado;Mañana;Falta de insumo;5
+2026-08-27;Cuajado;Mañana;Falta de insumo;39
+2026-08-27;Cuajado;Tarde;Falta de insumo;30
+2026-08-27;Cuajado;Tarde;Limpieza no planificada;19
+2026-08-27;Cuajado;Noche;Cambio de formato;28
+2026-08-28;Cuajado;Mañana;Falta de insumo;10
+2026-08-28;Cuajado;Mañana;Falta de insumo;11
+2026-08-28;Cuajado;Mañana;Falla mecánica;45
+2026-08-28;Cuajado;Noche;Cambio de formato;34
+2026-08-28;Cuajado;Noche;Falta de insumo;27
+2026-08-28;Cuajado;Noche;Falta de insumo;6
+2026-08-29;Cuajado;Mañana;Falta de insumo;33
+2026-08-29;Cuajado;Mañana;Falta de insumo;28
+2026-08-29;Cuajado;Tarde;Falla mecánica;45
+2026-08-29;Cuajado;Tarde;Cambio de formato;32
+2026-08-30;Cuajado;Mañana;Cambio de formato;7
+2026-08-30;Cuajado;Mañana;Falta de insumo;28
+2026-08-30;Cuajado;Tarde;Cambio de formato;33
+2026-08-30;Cuajado;Noche;Falta de insumo;17
+2026-08-31;Cuajado;Mañana;Falta de insumo;10
+2026-08-31;Cuajado;Tarde;Cambio de formato;15
+2026-08-31;Cuajado;Tarde;Cambio de formato;12
+2026-08-31;Cuajado;Noche;Falta de insumo;36
+2026-09-01;Cuajado;Mañana;Falta de insumo;26
+2026-09-01;Cuajado;Mañana;Falta de insumo;16
+2026-09-01;Cuajado;Noche;Limpieza no planificada;12
+2026-09-02;Cuajado;Mañana;Cambio de formato;12
+2026-09-02;Cuajado;Tarde;Falla mecánica;24
+2026-09-02;Cuajado;Tarde;Limpieza no planificada;32
+2026-09-02;Cuajado;Tarde;Falta de insumo;9
+2026-09-02;Cuajado;Noche;Falta de insumo;16
+2026-09-02;Cuajado;Noche;Falta de insumo;31
+2026-09-02;Cuajado;Noche;Falta de insumo;29
+2026-09-03;Cuajado;Tarde;Cambio de formato;17
+2026-09-03;Cuajado;Tarde;Falta de insumo;39
+2026-09-03;Cuajado;Tarde;Falta de insumo;29
+2026-09-03;Cuajado;Noche;Falla mecánica;63
+2026-09-03;Cuajado;Noche;Cambio de formato;18
+2026-09-03;Cuajado;Noche;Falta de insumo;27
+2026-09-04;Cuajado;Mañana;Falla mecánica;55
+2026-09-04;Cuajado;Mañana;Cambio de formato;13
+2026-09-04;Cuajado;Mañana;Falta de insumo;32
+2026-09-04;Cuajado;Tarde;Falta de insumo;27
+2026-09-04;Cuajado;Noche;Falta de insumo;35
+2026-09-05;Cuajado;Tarde;Falta de insumo;27
+2026-09-06;Cuajado;Mañana;Falta de insumo;20
+2026-09-06;Cuajado;Mañana;Falta de insumo;6
+2026-09-06;Cuajado;Mañana;Falta de insumo;39
+2026-09-06;Cuajado;Tarde;Falta de insumo;33
+2026-09-06;Cuajado;Tarde;Falta de insumo;8
+2026-09-06;Cuajado;Tarde;Falta de insumo;10
+2026-09-06;Cuajado;Noche;Limpieza no planificada;27
+2026-09-06;Cuajado;Noche;Cambio de formato;28
+2026-09-06;Cuajado;Noche;Falta de insumo;19
+2026-09-07;Cuajado;Mañana;Falla mecánica;54
+2026-09-07;Cuajado;Mañana;Falta de insumo;6
+2026-09-07;Cuajado;Tarde;Cambio de formato;24
+2026-09-07;Cuajado;Noche;Limpieza no planificada;5
+2026-09-08;Cuajado;Mañana;Falta de insumo;31
+2026-09-08;Cuajado;Mañana;Cambio de formato;19
+2026-09-08;Cuajado;Mañana;Falta de insumo;21
+2026-09-08;Cuajado;Noche;Falta de insumo;39
+2026-09-08;Cuajado;Noche;Cambio de formato;10
+2026-09-09;Cuajado;Tarde;Falta de insumo;10
+2026-09-09;Cuajado;Tarde;Cambio de formato;36
+2026-09-09;Cuajado;Tarde;Falta de insumo;17
+2026-09-09;Cuajado;Noche;Cambio de formato;20
+2026-09-09;Cuajado;Noche;Falta de insumo;20
+2026-09-10;Cuajado;Mañana;Falta de insumo;6
+2026-09-10;Cuajado;Noche;Falta de insumo;16
+2026-09-10;Cuajado;Noche;Falta de insumo;9
+2026-09-10;Cuajado;Noche;Falla mecánica;27
+2026-09-11;Cuajado;Tarde;Falta de insumo;11
+2026-09-11;Cuajado;Tarde;Cambio de formato;30
+2026-09-11;Cuajado;Noche;Cambio de formato;14
+2026-09-12;Cuajado;Mañana;Ajuste de calidad;10
+2026-09-12;Cuajado;Mañana;Falta de insumo;33
+2026-09-12;Cuajado;Tarde;Falla mecánica;17
+2026-09-12;Cuajado;Noche;Falta de insumo;15
+2026-09-12;Cuajado;Noche;Cambio de formato;25
+2026-09-13;Cuajado;Noche;Cambio de formato;24
+2026-09-14;Cuajado;Mañana;Falta de insumo;18
+2026-09-14;Cuajado;Mañana;Falta de insumo;15
+2026-09-14;Cuajado;Noche;Falta de insumo;23
+2026-09-14;Cuajado;Noche;Falta de insumo;32
+2026-09-14;Cuajado;Noche;Cambio de formato;17
+2026-09-15;Cuajado;Mañana;Limpieza no planificada;30
+2026-09-15;Cuajado;Mañana;Cambio de formato;23
+2026-09-15;Cuajado;Mañana;Cambio de formato;33
+2026-09-15;Cuajado;Tarde;Cambio de formato;36
+2026-09-15;Cuajado;Tarde;Falta de insumo;18
+2026-09-15;Cuajado;Tarde;Falta de insumo;24
+2026-09-15;Cuajado;Noche;Cambio de formato;35
+2026-09-16;Cuajado;Mañana;Limpieza no planificada;14
+2026-09-16;Cuajado;Mañana;Falta de insumo;30
+2026-09-16;Cuajado;Tarde;Falta de insumo;16
+2026-09-16;Cuajado;Tarde;Falta de insumo;37
+2026-09-16;Cuajado;Noche;Falta de insumo;16
+2026-09-17;Cuajado;Mañana;Falla mecánica;60
+2026-09-17;Cuajado;Noche;Cambio de formato;39
+2026-09-17;Cuajado;Noche;Falta de insumo;8
+2026-09-18;Cuajado;Mañana;Falta de insumo;13
+2026-09-18;Cuajado;Mañana;Limpieza no planificada;14
+2026-09-18;Cuajado;Mañana;Falta de insumo;39
+2026-09-18;Cuajado;Tarde;Cambio de formato;14
+2026-09-18;Cuajado;Tarde;Cambio de formato;16
+2026-09-18;Cuajado;Noche;Falta de insumo;38
+2026-09-18;Cuajado;Noche;Ajuste de calidad;34
+2026-09-18;Cuajado;Noche;Limpieza no planificada;24
+2026-09-19;Cuajado;Mañana;Falta de insumo;7
+2026-09-19;Cuajado;Mañana;Cambio de formato;36
+2026-09-19;Cuajado;Mañana;Falla mecánica;45
+2026-09-19;Cuajado;Tarde;Falta de insumo;36
+2026-09-19;Cuajado;Noche;Falta de insumo;28
+2026-09-20;Cuajado;Noche;Limpieza no planificada;5
+2026-09-20;Cuajado;Noche;Falla mecánica;48
+2026-09-21;Cuajado;Mañana;Falta de insumo;6
+2026-09-21;Cuajado;Tarde;Falla mecánica;62
+2026-09-21;Cuajado;Tarde;Ajuste de calidad;21
+2026-09-21;Cuajado;Noche;Falla mecánica;26
+2026-09-21;Cuajado;Noche;Falta de insumo;26
+2026-09-22;Cuajado;Mañana;Limpieza no planificada;21
+2026-09-22;Cuajado;Mañana;Cambio de formato;5
+2026-09-22;Cuajado;Mañana;Falta de insumo;39
+2026-09-22;Cuajado;Tarde;Falta de insumo;18
+2026-09-22;Cuajado;Tarde;Falta de insumo;19
+2026-09-22;Cuajado;Noche;Falta de insumo;12
+2026-09-22;Cuajado;Noche;Falta de insumo;36
+2026-09-22;Cuajado;Noche;Falta de insumo;23
+2026-09-23;Cuajado;Tarde;Falla mecánica;40
+2026-09-23;Cuajado;Tarde;Limpieza no planificada;6
+2026-09-23;Cuajado;Tarde;Falta de insumo;34
+2026-09-24;Cuajado;Mañana;Falta de insumo;22
+2026-09-24;Cuajado;Mañana;Cambio de formato;18
+2026-09-24;Cuajado;Tarde;Falta de insumo;26
+2026-09-24;Cuajado;Noche;Ajuste de calidad;37
+2026-09-24;Cuajado;Noche;Cambio de formato;8
+2026-09-24;Cuajado;Noche;Falta de insumo;8
+2026-09-25;Cuajado;Mañana;Falta de insumo;32
+2026-09-25;Cuajado;Mañana;Falta de insumo;33
+2026-09-25;Cuajado;Noche;Limpieza no planificada;9
+2026-09-25;Cuajado;Noche;Falla mecánica;24
+2026-09-26;Cuajado;Mañana;Falta de insumo;15
+2026-09-26;Cuajado;Tarde;Falta de insumo;5
+2026-09-26;Cuajado;Tarde;Limpieza no planificada;39
+2026-09-26;Cuajado;Tarde;Falta de insumo;10
+2026-09-26;Cuajado;Noche;Cambio de formato;13
+2026-09-26;Cuajado;Noche;Falta de insumo;6
+2026-09-27;Cuajado;Mañana;Cambio de formato;33
+2026-09-28;Cuajado;Mañana;Limpieza no planificada;13
+2026-09-28;Cuajado;Mañana;Falta de insumo;37
+2026-09-29;Cuajado;Mañana;Falta de insumo;17
+2026-09-29;Cuajado;Mañana;Falta de insumo;26
+2026-09-29;Cuajado;Mañana;Falta de insumo;23
+2026-09-29;Cuajado;Tarde;Cambio de formato;13
+2026-09-29;Cuajado;Tarde;Cambio de formato;5
+2026-09-29;Cuajado;Tarde;Cambio de formato;30
+2026-09-30;Cuajado;Mañana;Falta de insumo;29
+2026-09-30;Cuajado;Noche;Cambio de formato;10
+2026-09-30;Cuajado;Noche;Limpieza no planificada;12
+2026-09-30;Cuajado;Noche;Falta de insumo;7
+2026-10-01;Cuajado;Mañana;Falta de insumo;9
+2026-10-01;Cuajado;Tarde;Limpieza no planificada;9
+2026-10-01;Cuajado;Tarde;Falta de insumo;22
+2026-10-01;Cuajado;Noche;Cambio de formato;36
+2026-10-01;Cuajado;Noche;Limpieza no planificada;33
+2026-10-02;Cuajado;Tarde;Falta de insumo;35
+2026-10-02;Cuajado;Tarde;Limpieza no planificada;35
+2026-10-02;Cuajado;Tarde;Cambio de formato;26
+2026-10-02;Cuajado;Noche;Falta de insumo;24
+2026-10-02;Cuajado;Noche;Falta de insumo;7
+2026-10-02;Cuajado;Noche;Cambio de formato;30
+2026-10-03;Cuajado;Mañana;Falta de insumo;24
+2026-10-03;Cuajado;Tarde;Falta de insumo;7
+2026-10-03;Cuajado;Noche;Falla mecánica;38
+2026-10-03;Cuajado;Noche;Falta de insumo;34
+2026-10-03;Cuajado;Noche;Cambio de formato;27
+2026-10-04;Cuajado;Mañana;Limpieza no planificada;25
+2026-10-04;Cuajado;Tarde;Cambio de formato;12
+2026-10-04;Cuajado;Tarde;Falta de insumo;6
+2026-10-05;Cuajado;Tarde;Falta de insumo;15
+2026-10-05;Cuajado;Tarde;Falta de insumo;35
+2026-10-05;Cuajado;Noche;Falla mecánica;20
+2026-10-07;Cuajado;Mañana;Limpieza no planificada;34
+2026-10-07;Cuajado;Tarde;Cambio de formato;16
+2026-10-07;Cuajado;Tarde;Cambio de formato;13
+2026-10-07;Cuajado;Tarde;Falla mecánica;48
+2026-10-07;Cuajado;Noche;Cambio de formato;24
+2026-10-08;Cuajado;Mañana;Cambio de formato;24
+2026-10-08;Cuajado;Mañana;Falta de insumo;20
+2026-10-08;Cuajado;Tarde;Cambio de formato;20
+2026-10-09;Cuajado;Tarde;Falta de insumo;26
+2026-10-09;Cuajado;Tarde;Cambio de formato;26
+2026-10-09;Cuajado;Noche;Falta de insumo;25
+2026-10-09;Cuajado;Noche;Falla mecánica;37
+2026-10-10;Cuajado;Mañana;Cambio de formato;30
+2026-10-10;Cuajado;Tarde;Falla mecánica;42
+2026-10-10;Cuajado;Tarde;Falta de insumo;5
+2026-10-10;Cuajado;Tarde;Falla mecánica;41
+2026-10-10;Cuajado;Noche;Cambio de formato;24
+2026-10-10;Cuajado;Noche;Cambio de formato;8
+2026-10-11;Cuajado;Mañana;Falla mecánica;14
+2026-10-11;Cuajado;Noche;Falta de insumo;39
+2026-10-11;Cuajado;Noche;Falta de insumo;5
+2026-10-12;Cuajado;Mañana;Cambio de formato;10
+2026-10-12;Cuajado;Tarde;Falta de insumo;21
+2026-10-12;Cuajado;Tarde;Falla mecánica;40
+2026-10-12;Cuajado;Tarde;Cambio de formato;25
+2026-10-12;Cuajado;Noche;Falta de insumo;22
+2026-10-12;Cuajado;Noche;Falta de insumo;13
+2026-10-12;Cuajado;Noche;Falta de insumo;26
+2026-10-13;Cuajado;Mañana;Limpieza no planificada;13
+2026-10-13;Cuajado;Tarde;Falta de insumo;20
+2026-10-13;Cuajado;Noche;Cambio de formato;20
+2026-10-13;Cuajado;Noche;Cambio de formato;23
+2026-10-13;Cuajado;Noche;Cambio de formato;38
+2026-07-16;Empaque;Mañana;Falta de insumo;33
+2026-07-16;Empaque;Mañana;Falta de insumo;11
+2026-07-16;Empaque;Mañana;Falla mecánica;6
+2026-07-16;Empaque;Noche;Falla mecánica;40
+2026-07-16;Empaque;Noche;Limpieza no planificada;13
+2026-07-16;Empaque;Noche;Falta de insumo;8
+2026-07-17;Empaque;Tarde;Falta de insumo;13
+2026-07-17;Empaque;Noche;Falta de insumo;25
+2026-07-17;Empaque;Noche;Limpieza no planificada;16
+2026-07-18;Empaque;Mañana;Falta de insumo;27
+2026-07-18;Empaque;Mañana;Falta de insumo;7
+2026-07-18;Empaque;Tarde;Cambio de formato;10
+2026-07-18;Empaque;Noche;Cambio de formato;29
+2026-07-18;Empaque;Noche;Limpieza no planificada;13
+2026-07-19;Empaque;Tarde;Cambio de formato;20
+2026-07-19;Empaque;Tarde;Limpieza no planificada;20
+2026-07-19;Empaque;Noche;Falta de insumo;37
+2026-07-20;Empaque;Mañana;Falta de insumo;32
+2026-07-20;Empaque;Mañana;Falta de insumo;22
+2026-07-20;Empaque;Tarde;Falta de insumo;25
+2026-07-20;Empaque;Noche;Falla mecánica;11
+2026-07-21;Empaque;Mañana;Falla mecánica;49
+2026-07-22;Empaque;Mañana;Falta de insumo;28
+2026-07-22;Empaque;Noche;Falta de insumo;33
+2026-07-22;Empaque;Noche;Cambio de formato;11
+2026-07-22;Empaque;Noche;Falta de insumo;23
+2026-07-23;Empaque;Mañana;Cambio de formato;19
+2026-07-23;Empaque;Mañana;Falla mecánica;57
+2026-07-23;Empaque;Tarde;Cambio de formato;13
+2026-07-23;Empaque;Tarde;Falta de insumo;13
+2026-07-23;Empaque;Tarde;Cambio de formato;26
+2026-07-23;Empaque;Noche;Limpieza no planificada;16
+2026-07-24;Empaque;Mañana;Falla mecánica;51
+2026-07-24;Empaque;Tarde;Cambio de formato;27
+2026-07-24;Empaque;Tarde;Cambio de formato;19
+2026-07-24;Empaque;Tarde;Cambio de formato;17
+2026-07-24;Empaque;Noche;Falta de insumo;36
+2026-07-25;Empaque;Mañana;Falta de insumo;7
+2026-07-25;Empaque;Tarde;Limpieza no planificada;11
+2026-07-25;Empaque;Tarde;Falta de insumo;18
+2026-07-25;Empaque;Noche;Falta de insumo;13
+2026-07-26;Empaque;Mañana;Cambio de formato;37
+2026-07-26;Empaque;Mañana;Falla mecánica;57
+2026-07-26;Empaque;Tarde;Falla mecánica;45
+2026-07-26;Empaque;Tarde;Falta de insumo;21
+2026-07-26;Empaque;Noche;Falla mecánica;20
+2026-07-26;Empaque;Noche;Cambio de formato;17
+2026-07-27;Empaque;Mañana;Falta de insumo;23
+2026-07-27;Empaque;Tarde;Cambio de formato;15
+2026-07-27;Empaque;Tarde;Cambio de formato;34
+2026-07-27;Empaque;Tarde;Cambio de formato;28
+2026-07-28;Empaque;Mañana;Falta de insumo;19
+2026-07-28;Empaque;Tarde;Cambio de formato;39
+2026-07-28;Empaque;Noche;Ajuste de calidad;19
+2026-07-28;Empaque;Noche;Falta de insumo;17
+2026-07-28;Empaque;Noche;Cambio de formato;5
+2026-07-29;Empaque;Mañana;Falla mecánica;42
+2026-07-29;Empaque;Noche;Falta de insumo;15
+2026-07-29;Empaque;Noche;Cambio de formato;13
+2026-07-29;Empaque;Noche;Cambio de formato;37
+2026-07-30;Empaque;Mañana;Cambio de formato;28
+2026-07-30;Empaque;Mañana;Falta de insumo;11
+2026-07-30;Empaque;Tarde;Falta de insumo;23
+2026-07-31;Empaque;Tarde;Cambio de formato;18
+2026-07-31;Empaque;Tarde;Falta de insumo;18
+2026-07-31;Empaque;Tarde;Falta de insumo;20
+2026-08-01;Empaque;Mañana;Cambio de formato;26
+2026-08-01;Empaque;Mañana;Falta de insumo;27
+2026-08-01;Empaque;Mañana;Cambio de formato;6
+2026-08-01;Empaque;Tarde;Falta de insumo;32
+2026-08-01;Empaque;Tarde;Falta de insumo;18
+2026-08-01;Empaque;Tarde;Falta de insumo;6
+2026-08-01;Empaque;Noche;Falla mecánica;45
+2026-08-01;Empaque;Noche;Falta de insumo;26
+2026-08-02;Empaque;Mañana;Falta de insumo;22
+2026-08-03;Empaque;Mañana;Falla mecánica;63
+2026-08-03;Empaque;Mañana;Falta de insumo;31
+2026-08-03;Empaque;Tarde;Falla mecánica;56
+2026-08-04;Empaque;Mañana;Cambio de formato;19
+2026-08-04;Empaque;Mañana;Falta de insumo;32
+2026-08-04;Empaque;Tarde;Falla mecánica;15
+2026-08-04;Empaque;Tarde;Falta de insumo;22
+2026-08-04;Empaque;Noche;Falta de insumo;6
+2026-08-05;Empaque;Mañana;Falla mecánica;32
+2026-08-05;Empaque;Tarde;Falla mecánica;23
+2026-08-05;Empaque;Noche;Falta de insumo;31
+2026-08-05;Empaque;Noche;Falta de insumo;26
+2026-08-06;Empaque;Mañana;Falta de insumo;6
+2026-08-06;Empaque;Tarde;Falta de insumo;34
+2026-08-06;Empaque;Tarde;Falla mecánica;17
+2026-08-07;Empaque;Tarde;Falta de insumo;34
+2026-08-07;Empaque;Tarde;Ajuste de calidad;24
+2026-08-07;Empaque;Tarde;Falta de insumo;27
+2026-08-07;Empaque;Noche;Falla mecánica;31
+2026-08-07;Empaque;Noche;Falla mecánica;40
+2026-08-08;Empaque;Mañana;Cambio de formato;6
+2026-08-08;Empaque;Mañana;Cambio de formato;38
+2026-08-08;Empaque;Mañana;Falla mecánica;50
+2026-08-08;Empaque;Tarde;Falta de insumo;17
+2026-08-08;Empaque;Noche;Falta de insumo;31
+2026-08-09;Empaque;Tarde;Falta de insumo;5
+2026-08-10;Empaque;Mañana;Falta de insumo;23
+2026-08-10;Empaque;Mañana;Falta de insumo;10
+2026-08-10;Empaque;Tarde;Falta de insumo;26
+2026-08-10;Empaque;Tarde;Falta de insumo;12
+2026-08-10;Empaque;Noche;Falla mecánica;64
+2026-08-10;Empaque;Noche;Cambio de formato;14
+2026-08-10;Empaque;Noche;Falta de insumo;11
+2026-08-11;Empaque;Mañana;Limpieza no planificada;23
+2026-08-11;Empaque;Noche;Falta de insumo;18
+2026-08-12;Empaque;Mañana;Falta de insumo;27
+2026-08-12;Empaque;Mañana;Falta de insumo;16
+2026-08-12;Empaque;Mañana;Falta de insumo;7
+2026-08-12;Empaque;Tarde;Falla mecánica;10
+2026-08-12;Empaque;Tarde;Cambio de formato;32
+2026-08-12;Empaque;Tarde;Cambio de formato;10
+2026-08-12;Empaque;Noche;Cambio de formato;6
+2026-08-13;Empaque;Tarde;Cambio de formato;17
+2026-08-13;Empaque;Tarde;Falta de insumo;18
+2026-08-14;Empaque;Mañana;Falta de insumo;21
+2026-08-14;Empaque;Mañana;Falta de insumo;7
+2026-08-14;Empaque;Mañana;Falta de insumo;23
+2026-08-14;Empaque;Tarde;Falta de insumo;34
+2026-08-14;Empaque;Noche;Falta de insumo;36
+2026-08-15;Empaque;Noche;Falta de insumo;26
+2026-08-15;Empaque;Noche;Falta de insumo;29
+2026-08-16;Empaque;Mañana;Falta de insumo;26
+2026-08-16;Empaque;Mañana;Cambio de formato;24
+2026-08-16;Empaque;Mañana;Falta de insumo;7
+2026-08-17;Empaque;Tarde;Falta de insumo;5
+2026-08-18;Empaque;Mañana;Cambio de formato;31
+2026-08-18;Empaque;Tarde;Falta de insumo;19
+2026-08-18;Empaque;Tarde;Falta de insumo;13
+2026-08-18;Empaque;Noche;Limpieza no planificada;29
+2026-08-18;Empaque;Noche;Falla mecánica;60
+2026-08-19;Empaque;Mañana;Falla mecánica;23
+2026-08-19;Empaque;Mañana;Falta de insumo;15
+2026-08-19;Empaque;Noche;Cambio de formato;8
+2026-08-20;Empaque;Tarde;Cambio de formato;39
+2026-08-20;Empaque;Tarde;Cambio de formato;33
+2026-08-20;Empaque;Noche;Falta de insumo;13
+2026-08-20;Empaque;Noche;Limpieza no planificada;12
+2026-08-20;Empaque;Noche;Falla mecánica;48
+2026-08-21;Empaque;Mañana;Falta de insumo;15
+2026-08-21;Empaque;Mañana;Falla mecánica;22
+2026-08-21;Empaque;Mañana;Cambio de formato;32
+2026-08-21;Empaque;Tarde;Limpieza no planificada;30
+2026-08-21;Empaque;Tarde;Falta de insumo;11
+2026-08-21;Empaque;Noche;Falta de insumo;28
+2026-08-22;Empaque;Mañana;Cambio de formato;23
+2026-08-22;Empaque;Mañana;Falta de insumo;35
+2026-08-22;Empaque;Tarde;Falla mecánica;8
+2026-08-22;Empaque;Noche;Falta de insumo;21
+2026-08-22;Empaque;Noche;Falla mecánica;44
+2026-08-22;Empaque;Noche;Falta de insumo;25
+2026-08-23;Empaque;Tarde;Falta de insumo;27
+2026-08-23;Empaque;Noche;Falta de insumo;17
+2026-08-23;Empaque;Noche;Falla mecánica;41
+2026-08-23;Empaque;Noche;Ajuste de calidad;9
+2026-08-24;Empaque;Mañana;Falta de insumo;17
+2026-08-24;Empaque;Mañana;Falta de insumo;9
+2026-08-25;Empaque;Mañana;Falta de insumo;20
+2026-08-25;Empaque;Mañana;Cambio de formato;37
+2026-08-26;Empaque;Mañana;Cambio de formato;21
+2026-08-26;Empaque;Mañana;Falta de insumo;19
+2026-08-26;Empaque;Mañana;Falta de insumo;20
+2026-08-26;Empaque;Tarde;Falta de insumo;6
+2026-08-27;Empaque;Mañana;Falta de insumo;15
+2026-08-27;Empaque;Mañana;Falla mecánica;55
+2026-08-27;Empaque;Mañana;Falta de insumo;5
+2026-08-27;Empaque;Noche;Falta de insumo;11
+2026-08-27;Empaque;Noche;Falta de insumo;20
+2026-08-27;Empaque;Noche;Falta de insumo;39
+2026-08-28;Empaque;Mañana;Ajuste de calidad;27
+2026-08-28;Empaque;Tarde;Falla mecánica;64
+2026-08-28;Empaque;Tarde;Falta de insumo;39
+2026-08-29;Empaque;Mañana;Falta de insumo;37
+2026-08-29;Empaque;Mañana;Cambio de formato;23
+2026-08-29;Empaque;Tarde;Cambio de formato;34
+2026-08-29;Empaque;Tarde;Falta de insumo;16
+2026-08-29;Empaque;Tarde;Falta de insumo;5
+2026-08-29;Empaque;Noche;Falta de insumo;32
+2026-08-30;Empaque;Mañana;Falta de insumo;18
+2026-08-30;Empaque;Tarde;Cambio de formato;31
+2026-08-30;Empaque;Noche;Falta de insumo;35
+2026-08-30;Empaque;Noche;Falta de insumo;38
+2026-08-31;Empaque;Mañana;Cambio de formato;15
+2026-08-31;Empaque;Mañana;Limpieza no planificada;38
+2026-08-31;Empaque;Tarde;Falta de insumo;36
+2026-08-31;Empaque;Tarde;Falla mecánica;24
+2026-09-01;Empaque;Mañana;Limpieza no planificada;35
+2026-09-01;Empaque;Tarde;Cambio de formato;39
+2026-09-01;Empaque;Noche;Falla mecánica;10
+2026-09-01;Empaque;Noche;Falta de insumo;8
+2026-09-01;Empaque;Noche;Cambio de formato;13
+2026-09-02;Empaque;Mañana;Limpieza no planificada;20
+2026-09-02;Empaque;Tarde;Cambio de formato;22
+2026-09-02;Empaque;Tarde;Cambio de formato;6
+2026-09-02;Empaque;Noche;Falta de insumo;15
+2026-09-03;Empaque;Mañana;Cambio de formato;30
+2026-09-03;Empaque;Mañana;Cambio de formato;8
+2026-09-03;Empaque;Tarde;Falta de insumo;23
+2026-09-03;Empaque;Tarde;Cambio de formato;12
+2026-09-04;Empaque;Mañana;Falla mecánica;57
+2026-09-04;Empaque;Mañana;Cambio de formato;18
+2026-09-04;Empaque;Mañana;Ajuste de calidad;27
+2026-09-04;Empaque;Noche;Falla mecánica;59
+2026-09-04;Empaque;Noche;Falta de insumo;8
+2026-09-05;Empaque;Mañana;Falta de insumo;17
+2026-09-05;Empaque;Tarde;Cambio de formato;6
+2026-09-05;Empaque;Tarde;Cambio de formato;18
+2026-09-05;Empaque;Noche;Cambio de formato;26
+2026-09-05;Empaque;Noche;Falta de insumo;15
+2026-09-06;Empaque;Tarde;Falla mecánica;49
+2026-09-06;Empaque;Tarde;Falta de insumo;5
+2026-09-06;Empaque;Tarde;Falta de insumo;9
+2026-09-06;Empaque;Noche;Falta de insumo;9
+2026-09-07;Empaque;Mañana;Falta de insumo;35
+2026-09-07;Empaque;Mañana;Falta de insumo;27
+2026-09-07;Empaque;Mañana;Ajuste de calidad;34
+2026-09-07;Empaque;Tarde;Ajuste de calidad;31
+2026-09-07;Empaque;Tarde;Falla mecánica;30
+2026-09-07;Empaque;Tarde;Falla mecánica;39
+2026-09-07;Empaque;Noche;Cambio de formato;37
+2026-09-07;Empaque;Noche;Falta de insumo;29
+2026-09-07;Empaque;Noche;Falta de insumo;37
+2026-09-08;Empaque;Noche;Falta de insumo;15
+2026-09-08;Empaque;Noche;Cambio de formato;30
+2026-09-09;Empaque;Mañana;Limpieza no planificada;23
+2026-09-09;Empaque;Mañana;Falla mecánica;54
+2026-09-09;Empaque;Tarde;Falta de insumo;34
+2026-09-09;Empaque;Tarde;Falta de insumo;10
+2026-09-10;Empaque;Mañana;Falta de insumo;29
+2026-09-10;Empaque;Mañana;Falla mecánica;31
+2026-09-10;Empaque;Mañana;Falta de insumo;34
+2026-09-10;Empaque;Noche;Cambio de formato;25
+2026-09-10;Empaque;Noche;Falta de insumo;34
+2026-09-11;Empaque;Tarde;Falta de insumo;18
+2026-09-11;Empaque;Tarde;Cambio de formato;35
+2026-09-11;Empaque;Tarde;Falta de insumo;17
+2026-09-12;Empaque;Mañana;Cambio de formato;19
+2026-09-12;Empaque;Tarde;Falta de insumo;14
+2026-09-12;Empaque;Tarde;Cambio de formato;35
+2026-09-12;Empaque;Noche;Cambio de formato;38
+2026-09-13;Empaque;Mañana;Falta de insumo;24
+2026-09-13;Empaque;Mañana;Cambio de formato;32
+2026-09-13;Empaque;Tarde;Falla mecánica;31
+2026-09-13;Empaque;Noche;Falta de insumo;18
+2026-09-13;Empaque;Noche;Falta de insumo;20
+2026-09-13;Empaque;Noche;Falla mecánica;36
+2026-09-14;Empaque;Mañana;Cambio de formato;22
+2026-09-14;Empaque;Mañana;Cambio de formato;25
+2026-09-14;Empaque;Tarde;Cambio de formato;31
+2026-09-14;Empaque;Noche;Falta de insumo;30
+2026-09-14;Empaque;Noche;Falta de insumo;25
+2026-09-15;Empaque;Mañana;Falta de insumo;21
+2026-09-15;Empaque;Mañana;Falta de insumo;27
+2026-09-15;Empaque;Tarde;Cambio de formato;24
+2026-09-16;Empaque;Mañana;Limpieza no planificada;26
+2026-09-16;Empaque;Mañana;Falta de insumo;10
+2026-09-16;Empaque;Mañana;Cambio de formato;24
+2026-09-16;Empaque;Tarde;Cambio de formato;36
+2026-09-16;Empaque;Tarde;Falta de insumo;36
+2026-09-16;Empaque;Noche;Cambio de formato;22
+2026-09-16;Empaque;Noche;Falla mecánica;58
+2026-09-17;Empaque;Mañana;Falta de insumo;22
+2026-09-17;Empaque;Mañana;Falta de insumo;10
+2026-09-17;Empaque;Tarde;Falla mecánica;43
+2026-09-17;Empaque;Noche;Cambio de formato;12
+2026-09-18;Empaque;Mañana;Falta de insumo;12
+2026-09-18;Empaque;Mañana;Falta de insumo;17
+2026-09-18;Empaque;Mañana;Falta de insumo;23
+2026-09-18;Empaque;Tarde;Falla mecánica;47
+2026-09-18;Empaque;Tarde;Cambio de formato;27
+2026-09-18;Empaque;Noche;Falta de insumo;38
+2026-09-19;Empaque;Mañana;Falta de insumo;13
+2026-09-19;Empaque;Tarde;Falta de insumo;20
+2026-09-19;Empaque;Noche;Falta de insumo;7
+2026-09-19;Empaque;Noche;Falta de insumo;38
+2026-09-19;Empaque;Noche;Cambio de formato;6
+2026-09-20;Empaque;Mañana;Falta de insumo;17
+2026-09-20;Empaque;Tarde;Cambio de formato;11
+2026-09-20;Empaque;Noche;Cambio de formato;12
+2026-09-20;Empaque;Noche;Falta de insumo;15
+2026-09-21;Empaque;Tarde;Falta de insumo;20
+2026-09-21;Empaque;Tarde;Falta de insumo;30
+2026-09-22;Empaque;Mañana;Falla mecánica;57
+2026-09-22;Empaque;Tarde;Falla mecánica;56
+2026-09-22;Empaque;Tarde;Cambio de formato;29
+2026-09-22;Empaque;Noche;Limpieza no planificada;13
+2026-09-22;Empaque;Noche;Falta de insumo;22
+2026-09-22;Empaque;Noche;Falta de insumo;18
+2026-09-23;Empaque;Mañana;Falta de insumo;11
+2026-09-23;Empaque;Mañana;Falta de insumo;19
+2026-09-23;Empaque;Mañana;Cambio de formato;39
+2026-09-23;Empaque;Tarde;Falta de insumo;6
+2026-09-23;Empaque;Tarde;Cambio de formato;18
+2026-09-24;Empaque;Mañana;Cambio de formato;35
+2026-09-24;Empaque;Mañana;Falta de insumo;24
+2026-09-24;Empaque;Tarde;Falla mecánica;46
+2026-09-24;Empaque;Noche;Falta de insumo;16
+2026-09-24;Empaque;Noche;Falta de insumo;31
+2026-09-25;Empaque;Mañana;Falta de insumo;5
+2026-09-25;Empaque;Mañana;Falla mecánica;38
+2026-09-25;Empaque;Tarde;Falla mecánica;49
+2026-09-25;Empaque;Tarde;Falla mecánica;51
+2026-09-25;Empaque;Noche;Limpieza no planificada;7
+2026-09-26;Empaque;Mañana;Cambio de formato;21
+2026-09-26;Empaque;Mañana;Cambio de formato;36
+2026-09-26;Empaque;Tarde;Falla mecánica;37
+2026-09-26;Empaque;Noche;Falta de insumo;7
+2026-09-27;Empaque;Mañana;Falta de insumo;16
+2026-09-27;Empaque;Mañana;Falta de insumo;15
+2026-09-27;Empaque;Tarde;Falta de insumo;35
+2026-09-27;Empaque;Tarde;Falta de insumo;27
+2026-09-27;Empaque;Tarde;Falta de insumo;14
+2026-09-27;Empaque;Noche;Falta de insumo;24
+2026-09-27;Empaque;Noche;Falla mecánica;56
+2026-09-27;Empaque;Noche;Cambio de formato;19
+2026-09-28;Empaque;Mañana;Falla mecánica;36
+2026-09-28;Empaque;Mañana;Falta de insumo;18
+2026-09-28;Empaque;Tarde;Limpieza no planificada;31
+2026-09-28;Empaque;Tarde;Falta de insumo;37
+2026-09-28;Empaque;Tarde;Falta de insumo;32
+2026-09-28;Empaque;Noche;Falta de insumo;23
+2026-09-28;Empaque;Noche;Falta de insumo;23
+2026-09-29;Empaque;Tarde;Falta de insumo;14
+2026-09-29;Empaque;Tarde;Falla mecánica;38
+2026-09-29;Empaque;Noche;Falta de insumo;37
+2026-09-29;Empaque;Noche;Falta de insumo;27
+2026-09-30;Empaque;Mañana;Limpieza no planificada;11
+2026-09-30;Empaque;Noche;Falta de insumo;39
+2026-09-30;Empaque;Noche;Falta de insumo;28
+2026-10-01;Empaque;Tarde;Falla mecánica;29
+2026-10-01;Empaque;Tarde;Falta de insumo;27
+2026-10-01;Empaque;Noche;Falta de insumo;6
+2026-10-02;Empaque;Mañana;Cambio de formato;6
+2026-10-02;Empaque;Tarde;Falta de insumo;26
+2026-10-02;Empaque;Tarde;Falta de insumo;9
+2026-10-02;Empaque;Tarde;Falla mecánica;64
+2026-10-02;Empaque;Noche;Falta de insumo;19
+2026-10-03;Empaque;Mañana;Falla mecánica;53
+2026-10-03;Empaque;Tarde;Cambio de formato;39
+2026-10-03;Empaque;Tarde;Falta de insumo;30
+2026-10-03;Empaque;Noche;Falta de insumo;35
+2026-10-03;Empaque;Noche;Cambio de formato;29
+2026-10-04;Empaque;Mañana;Falta de insumo;31
+2026-10-04;Empaque;Tarde;Falta de insumo;17
+2026-10-04;Empaque;Tarde;Cambio de formato;25
+2026-10-04;Empaque;Tarde;Falta de insumo;19
+2026-10-04;Empaque;Noche;Falla mecánica;59
+2026-10-04;Empaque;Noche;Falta de insumo;34
+2026-10-05;Empaque;Mañana;Falla mecánica;18
+2026-10-05;Empaque;Tarde;Cambio de formato;7
+2026-10-05;Empaque;Tarde;Cambio de formato;15
+2026-10-05;Empaque;Noche;Cambio de formato;16
+2026-10-05;Empaque;Noche;Cambio de formato;36
+2026-10-05;Empaque;Noche;Ajuste de calidad;28
+2026-10-06;Empaque;Noche;Falta de insumo;20
+2026-10-06;Empaque;Noche;Falta de insumo;15
+2026-10-06;Empaque;Noche;Falla mecánica;61
+2026-10-07;Empaque;Mañana;Falta de insumo;31
+2026-10-07;Empaque;Noche;Limpieza no planificada;20
+2026-10-08;Empaque;Tarde;Cambio de formato;16
+2026-10-08;Empaque;Tarde;Limpieza no planificada;33
+2026-10-08;Empaque;Noche;Falla mecánica;62
+2026-10-09;Empaque;Mañana;Falla mecánica;55
+2026-10-09;Empaque;Mañana;Falta de insumo;23
+2026-10-09;Empaque;Tarde;Limpieza no planificada;24
+2026-10-09;Empaque;Tarde;Falta de insumo;16
+2026-10-09;Empaque;Tarde;Falta de insumo;17
+2026-10-10;Empaque;Tarde;Falta de insumo;37
+2026-10-10;Empaque;Noche;Cambio de formato;29
+2026-10-10;Empaque;Noche;Falta de insumo;20
+2026-10-10;Empaque;Noche;Falla mecánica;7
+2026-10-11;Empaque;Mañana;Falta de insumo;13
+2026-10-11;Empaque;Mañana;Falla mecánica;58
+2026-10-12;Empaque;Mañana;Falta de insumo;32
+2026-10-12;Empaque;Mañana;Falta de insumo;6
+2026-10-12;Empaque;Mañana;Falla mecánica;39
+2026-10-12;Empaque;Tarde;Cambio de formato;29
+2026-10-12;Empaque;Tarde;Ajuste de calidad;38
+2026-10-12;Empaque;Noche;Falta de insumo;34
+2026-10-12;Empaque;Noche;Falta de insumo;31
+2026-10-12;Empaque;Noche;Falta de insumo;37
+2026-10-13;Empaque;Mañana;Cambio de formato;24

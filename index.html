@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mateo Scovenna · Portfolio</title>
+<meta name="description" content="Portfolio de Mateo Scovenna, estudiante de Licenciatura en Informática y Desarrollador Full-Stack Junior.">
+<meta name="theme-color" content="#090d11">
+<meta property="og:title" content="Mateo Scovenna · Portfolio">
+<meta property="og:description" content="Convierto planillas en tableros que ayudan a decidir.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2338bdf8'/%3E%3Ctext x='16' y='22' font-size='16' font-weight='800' text-anchor='middle' fill='%23090d11' font-family='sans-serif'%3EMS%3C/text%3E%3C/svg%3E">
+<script>try{var t=localStorage.getItem('ms-theme');if(t==='light'||(!t&&matchMedia('(prefers-color-scheme:light)').matches))document.documentElement.dataset.theme='light'}catch(e){}</script>
+<noscript><style>section{opacity:1!important;transform:none!important}</style></noscript>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="page-transition-enter">
+
+<!-- Barra de progreso de lectura (Scroll Progress Bar) -->
+<div class="scroll-progress-bar" id="scrollProgress"></div>
+
+<a class="skip" href="#proyectos">Saltar al contenido</a>
+
+<div class="w">
+  <header class="sticky-nav">
+    <nav>
+      <a href="#" class="brand">MS</a>
+      
+      <!-- Botón de menú hamburguesa para móviles -->
+      <button class="mobile-toggle" id="mobileMenuBtn" aria-label="Abrir menú">
+        <span></span><span></span>
+      </button>
+
+      <div class="nav-links" id="navLinks">
+        <a href="#proyectos">Proyectos</a>
+        <a href="#habilidades">Habilidades</a>
+        <a href="#sobre-mi">Sobre mí</a>
+        <a href="#contacto" class="btn-cta">Contacto</a>
+        <button id="theme-toggle" aria-label="Cambiar tema">
+          <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path></svg>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero visible">
+      <div class="status-badge">
+        <span class="status-dot"></span>
+        <span>Disponible para nuevos proyectos · <span id="ping-val" class="ping-text">14ms</span></span>
+      </div>
+      
+      <!-- Tipografía cinética / Revelación de texto -->
+      <div class="kinetic-text-wrap">
+        <h1 class="kinetic-text">Mateo Scovenna</h1>
+      </div>
+      <div class="kinetic-text-wrap">
+        <p class="lead kinetic-text">Convierto planillas en tableros que ayudan a decidir.</p>
+      </div>
+      <p class="sublead">
+        Estudiante de Licenciatura en Informática &amp; 
+        <span class="txt-rotate" data-words='["Desarrollador Full-Stack", "Especialista en Datos", "Creador de Dashboards"]'>Desarrollador Full-Stack</span>
+      </p>
+      
+      <div class="hero-cta">
+        <a href="#demos" class="btn solid">Ver demos interactivas</a>
+        <a href="#contacto" class="btn">Contacto</a>
+      </div>
+      
+      <div class="stats">
+        <div><strong data-count="3">0</strong><span>demos interactivas</span></div>
+        <div><strong data-count="18">0</strong><span>vistas de análisis</span></div>
+        <div><strong data-count="0">0</strong><span>instalaciones requeridas</span></div>
+      </div>
+    </section>
+
+    <section id="proyectos" class="scroll-reveal">
+      <h2>Proyecto destacado</h2>
+      <div class="card proy-grid tilt-card">
+        <div>
+          <h3>Panel de control de calidad</h3>
+          <p>Sistema web que procesa libros de Excel de un laboratorio de planta láctea y los transforma en tableros con límites estadísticos, tendencias e historial detallado.</p>
+          <ul class="feature-list">
+            <li>Lanzamiento ejecutable mediante mini servidor en PowerShell sin instalaciones.</li>
+            <li>6 pestañas de control: Recibo de leche, materia prima, procesos, producto final, etc.</li>
+            <li>Generación e integración de informes exportables a PowerPoint y PDF.</li>
+          </ul>
+          <div class="stack-pills">
+            <span class="pill">HTML5</span>
+            <span class="pill">Tailwind CSS</span>
+            <span class="pill">JavaScript</span>
+            <span class="pill">Chart.js</span>
+            <span class="pill">SheetJS</span>
+            <span class="pill">PowerShell</span>
+          </div>
+        </div>
+        <div class="preview-box 3d-graphic">
+          <svg viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="10" y="10" width="110" height="40" rx="8" fill="rgba(255,255,255,0.03)" stroke="var(--border)"/>
+            <rect x="145" y="10" width="110" height="40" rx="8" fill="rgba(255,255,255,0.03)" stroke="var(--border)"/>
+            <rect x="280" y="10" width="110" height="40" rx="8" fill="rgba(255,255,255,0.03)" stroke="var(--border)"/>
+            <line x1="10" y1="80" x2="390" y2="80" stroke="var(--alert)" stroke-dasharray="4 4"/>
+            <line x1="10" y1="180" x2="390" y2="180" stroke="var(--alert)" stroke-dasharray="4 4"/>
+            <path class="ln" pathLength="1" d="M10 140 L40 130 L80 150 L120 110 L160 135 L200 95 L240 145 L280 105 L320 130 L360 115 L390 125" stroke="var(--acc)" stroke-width="2.5" fill="none"/>
+            <circle cx="200" cy="95" r="4" fill="var(--acc)"/>
+            <circle cx="280" cy="105" r="4" fill="var(--acc)"/>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <section id="demos" class="scroll-reveal">
+      <h2>Más proyectos</h2>
+      <div class="bento-grid">
+         <div class="card demo-card tilt-card">
+          <div>
+            <svg class="thumb" viewBox="0 0 200 56" aria-hidden="true"><rect x="3.0" y="6" width="14.0" height="50" rx="2" fill="var(--acc)" style="animation-delay:0.00s"/><rect x="23.0" y="12" width="14.0" height="44" rx="2" fill="var(--acc)" style="animation-delay:0.05s"/><rect x="43.0" y="20" width="14.0" height="36" rx="2" fill="var(--acc)" style="animation-delay:0.10s"/><rect x="63.0" y="28" width="14.0" height="28" rx="2" fill="var(--warn)" style="animation-delay:0.15s"/><rect x="83.0" y="36" width="14.0" height="20" rx="2" fill="var(--warn)" style="animation-delay:0.20s"/><rect x="103.0" y="42" width="14.0" height="14" rx="2" fill="var(--warn)" style="animation-delay:0.25s"/><rect x="123.0" y="46" width="14.0" height="10" rx="2" fill="var(--mute)" style="animation-delay:0.30s"/><rect x="143.0" y="49" width="14.0" height="7" rx="2" fill="var(--mute)" style="animation-delay:0.35s"/><rect x="163.0" y="51" width="14.0" height="5" rx="2" fill="var(--mute)" style="animation-delay:0.40s"/><rect x="183.0" y="52" width="14.0" height="4" rx="2" fill="var(--mute)" style="animation-delay:0.45s"/></svg>
+            <h3>Panel de ventas y stock</h3>
+            <p>Monitoreo de ventas, clasificación de productos ABC y alertas automáticas de reabastecimiento.</p>
+            <div class="stack-pills">
+              <span class="pill">JavaScript</span>
+              <span class="pill">SVG</span>
+              <span class="pill">Análisis ABC</span>
+            </div>
+          </div>
+          <div class="actions">
+            <a href="demos/ventas/index.html" target="_blank" rel="noopener" class="link-btn">Abrir demo →</a>
+            <a href="descargas/ventas.zip" download class="link-btn">Descargar (.zip)</a>
+          </div>
+        </div> 
+        
+        <div class="card demo-card tilt-card">
+          <div>
+            <svg class="thumb" viewBox="0 0 200 56" aria-hidden="true"><rect x="3.0" y="18" width="19.0" height="38" rx="2" fill="var(--acc)" style="animation-delay:0.00s"/><rect x="28.0" y="12" width="19.0" height="44" rx="2" fill="var(--acc)" style="animation-delay:0.05s"/><rect x="53.0" y="26" width="19.0" height="30" rx="2" fill="var(--alert)" style="animation-delay:0.10s"/><rect x="78.0" y="8" width="19.0" height="48" rx="2" fill="var(--acc)" style="animation-delay:0.15s"/><rect x="103.0" y="15" width="19.0" height="41" rx="2" fill="var(--acc)" style="animation-delay:0.20s"/><rect x="128.0" y="28" width="19.0" height="28" rx="2" fill="var(--alert)" style="animation-delay:0.25s"/><rect x="153.0" y="10" width="19.0" height="46" rx="2" fill="var(--acc)" style="animation-delay:0.30s"/><rect x="178.0" y="6" width="19.0" height="50" rx="2" fill="var(--acc)" style="animation-delay:0.35s"/><line x1="0" x2="200" y1="20" y2="20" stroke="var(--alert)" stroke-dasharray="4 4" opacity=".6"/></svg>
+            <h3>Panel de producción y OEE</h3>
+            <p>Calcula disponibilidad, rendimiento y calidad por línea y turno, identificando paradas críticas.</p>
+            <div class="stack-pills">
+              <span class="pill">JavaScript</span>
+              <span class="pill">SVG</span>
+              <span class="pill">Pareto</span>
+            </div>
+          </div>
+          <div class="actions">
+            <a href="demos/produccion/index.html" target="_blank" rel="noopener" class="link-btn">Abrir demo →</a>
+            <a href="descargas/produccion.zip" download class="link-btn">Descargar (.zip)</a>
+          </div>
+        </div>
+
+        <div class="card demo-card tilt-card">
+          <div>
+            <svg class="thumb" viewBox="0 0 200 56" aria-hidden="true"><rect class="h" x="0" y="0" width="120" height="10" rx="2" fill="var(--acc)" style="animation-delay:0.00s"/><rect class="h" x="120" y="0" width="60" height="10" rx="2" fill="var(--mute)" opacity=".5" style="animation-delay:0.10s"/><rect class="h" x="0" y="14" width="90" height="10" rx="2" fill="var(--acc)" style="animation-delay:0.07s"/><rect class="h" x="90" y="14" width="50" height="10" rx="2" fill="var(--mute)" opacity=".5" style="animation-delay:0.17s"/><rect class="h" x="0" y="28" width="64" height="10" rx="2" fill="var(--acc)" style="animation-delay:0.14s"/><rect class="h" x="64" y="28" width="44" height="10" rx="2" fill="var(--mute)" opacity=".5" style="animation-delay:0.24s"/><rect class="h" x="0" y="42" width="40" height="10" rx="2" fill="var(--acc)" style="animation-delay:0.21s"/><rect class="h" x="40" y="42" width="26" height="10" rx="2" fill="var(--mute)" opacity=".5" style="animation-delay:0.31s"/></svg>
+            <h3>No conformidades y CAPA</h3>
+            <p>Registro de desvíos con responsable y plazo. Marca los vencidos y muestra patrones repetitivos.</p>
+            <div class="stack-pills">
+              <span class="pill">JavaScript</span>
+              <span class="pill">SVG</span>
+              <span class="pill">LocalStorage</span>
+            </div>
+          </div>
+          <div class="actions">
+            <a href="demos/noconformidades/index.html" target="_blank" rel="noopener" class="link-btn">Abrir demo →</a>
+            <a href="descargas/noconformidades.zip" download class="link-btn">Descargar (.zip)</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="habilidades" class="scroll-reveal">
+      <h2>Habilidades</h2>
+      <div class="bento-grid">
+        <div class="card tilt-card">
+          <h3>Desarrollo Web Full-Stack</h3>
+          <p class="desc">Especializado en crear interfaces ágiles e intuitivas que interactúan eficientemente con datos.</p>
+          <div class="stack-pills">
+            <span class="pill">JavaScript</span>
+            <span class="pill">Python</span>
+            <span class="pill">React</span>
+            <span class="pill">Next.js</span>
+            <span class="pill">Flask</span>
+            <span class="pill">Tailwind CSS</span>
+          </div>
+        </div>
+
+        <div class="card tilt-card">
+          <h3>Bases de Datos y Backend</h3>
+          <p class="desc">Diseño de modelos relacionales y automatización de procesos backend.</p>
+          <div class="stack-pills">
+            <span class="pill">SQL</span>
+            <span class="pill">PostgreSQL</span>
+            <span class="pill">Prisma</span>
+            <span class="pill">PowerShell</span>
+            <span class="pill">IIS</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="sobre-mi" class="scroll-reveal">
+      <h2>Sobre mí</h2>
+      <div class="card tilt-card">
+        <p class="about-lead">Estudiante de Licenciatura en Informática enfocado en crear soluciones de software eficientes que resuelvan problemas de negocio reales.</p>
+        <p class="about-sub">Mi enfoque se centra en transformar procesos manuales o datos desorganizados en paneles interactivos que faciliten la toma de decisiones.</p>
+      </div>
+    </section>
+
+    <section id="contacto" class="scroll-reveal">
+      <h2>Contacto</h2>
+      <div class="contact-grid">
+        <a href="mailto:mat.scvnna@gmail.com" class="card contact-card tilt-card">
+          <span>Mail</span>
+          <strong>mat.scvnna@gmail.com</strong>
+        </a>
+        <a href="https://www.linkedin.com/in/mat-svn" target="_blank" rel="noopener noreferrer" class="card contact-card tilt-card">
+          <span>LinkedIn</span>
+          <strong>in/mat-svn</strong>
+        </a>
+        <a href="https://github.com/Lirnuxx" target="_blank" rel="noopener noreferrer" class="card contact-card tilt-card">
+          <span>GitHub</span>
+          <strong>Lirnuxx</strong>
+        </a>
+        <a href="https://www.instagram.com/mat.svn" target="_blank" rel="noopener noreferrer" class="card contact-card tilt-card">
+          <span>Instagram</span>
+          <strong>@mat.svn</strong>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>© <span id="year"></span> Mateo Scovenna</span>
+    <span>Argentina</span>
+  </footer>
+</div>
+
+<script>
+// Transición suave de entrada de página
+document.addEventListener('DOMContentLoaded', () => {
+  document.body.classList.remove('page-transition-enter');
+  document.getElementById('year').textContent = new Date().getFullYear();
+});
+
+// Barra de progreso de lectura (Scroll Progress)
+window.addEventListener('scroll', () => {
+  const winScroll = document.documentElement.scrollTop || document.body.scrollTop;
+  const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  const scrolled = (winScroll / height) * 100;
+  document.getElementById('scrollProgress').style.width = scrolled + '%';
+});
+
+// Toggle del Menú Móvil
+const mobileBtn = document.getElementById('mobileMenuBtn');
+const navLinks = document.getElementById('navLinks');
+mobileBtn.onclick = () => {
+  mobileBtn.classList.toggle('open');
+  navLinks.classList.toggle('open');
+};
+
+// Cerrar menú móvil al presionar un enlace
+document.querySelectorAll('.nav-links a').forEach(link => {
+  link.addEventListener('click', () => {
+    mobileBtn.classList.remove('open');
+    navLinks.classList.remove('open');
+  });
+});
+
+// Tema Claro / Oscuro
+const root = document.documentElement;
+const tb = document.getElementById('theme-toggle');
+const MOON = '<svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path></svg>';
+const SUN = '<svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>';
+
+const setIcon = () => { tb.innerHTML = root.dataset.theme === 'light' ? SUN : MOON; };
+tb.onclick = () => {
+  const isLight = root.dataset.theme !== 'light';
+  if (isLight) root.dataset.theme = 'light';
+  else root.removeAttribute('data-theme');
+  try { localStorage.setItem('ms-theme', isLight ? 'light' : 'dark'); } catch (e) {}
+  setIcon();
+};
+setIcon();
+
+// Contador animado
+function count(el) {
+  const to = +el.dataset.count;
+  const t0 = performance.now();
+  (function step(t) {
+    const p = Math.min(1, (t - t0) / 900);
+    el.textContent = Math.round(to * (1 - Math.pow(1 - p, 3)));
+    if (p < 1) requestAnimationFrame(step);
+  })(t0);
+}
+
+// Scroll Triggered Reveal (Intersection Observer)
+const revealObserver = new IntersectionObserver((entries) => {
+  entries.forEach((e) => {
+    if (e.isIntersecting) {
+      e.target.classList.add('visible');
+      e.target.querySelectorAll('[data-count]').forEach(count);
+      revealObserver.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.15 });
+
+document.querySelectorAll('section').forEach((s) => revealObserver.observe(s));
+
+// ScrollSpy Nav
+const spyLinks = [...document.querySelectorAll('.nav-links a[href^="#"]:not(.btn-cta)')];
+const spyObserver = new IntersectionObserver((entries) => {
+  entries.forEach((e) => {
+    if (e.isIntersecting) {
+      spyLinks.forEach((a) => a.classList.toggle('active', a.getAttribute('href') === '#' + e.target.id));
+    }
+  });
+}, { rootMargin: '-40% 0px -55% 0px' });
+
+document.querySelectorAll('section[id]').forEach((s) => spyObserver.observe(s));
+
+// Copiar Email con Toast
+const emailCard = document.querySelector('a.contact-card[href^="mailto:"]');
+if (emailCard) {
+  emailCard.addEventListener('click', (e) => {
+    if (!navigator.clipboard) return;
+    navigator.clipboard.writeText('mat.scvnna@gmail.com').then(() => {
+      const t = document.createElement('div');
+      t.className = 'toast';
+      t.textContent = 'Email copiado al portapapeles';
+      document.body.appendChild(t);
+      setTimeout(() => t.remove(), 2200);
+    }).catch(() => {});
+  });
+}
+
+// Interacción 3D Tilt sutil en Tarjetas y Spotlight
+document.querySelectorAll('.tilt-card').forEach((card) => {
+  card.addEventListener('mousemove', (e) => {
+    const rect = card.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    card.style.setProperty('--mouse-x', `${x}px`);
+    card.style.setProperty('--mouse-y', `${y}px`);
+
+    const centerX = rect.width / 2;
+    const centerY = rect.height / 2;
+    const rotateX = ((y - centerY) / centerY) * -4;
+    const rotateY = ((x - centerX) / centerX) * 4;
+    card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-4px)`;
+  });
+
+  card.addEventListener('mouseleave', () => {
+    card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0px)`;
+  });
+});
+
+// Efecto Typing / Rotación de rol profesional
+const rotateEl = document.querySelector('.txt-rotate');
+if (rotateEl) {
+  const words = JSON.parse(rotateEl.dataset.words);
+  let wordIdx = 0, charIdx = 0, isDeleting = false;
+
+  function type() {
+    const currentWord = words[wordIdx];
+    rotateEl.textContent = isDeleting 
+      ? currentWord.substring(0, charIdx--) 
+      : currentWord.substring(0, charIdx++);
+
+    let speed = isDeleting ? 35 : 75;
+
+    if (!isDeleting && charIdx === currentWord.length + 1) {
+      speed = 2200;
+      isDeleting = true;
+    } else if (isDeleting && charIdx === 0) {
+      isDeleting = false;
+      wordIdx = (wordIdx + 1) % words.length;
+      speed = 400;
+    }
+
+    setTimeout(type, speed);
+  }
+  type();
+}
+
+// Actualización simulada de latencia en el badge
+setInterval(() => {
+  const ping = Math.floor(Math.random() * (20 - 10 + 1)) + 10;
+  const pingEl = document.getElementById('ping-val');
+  if (pingEl) pingEl.textContent = `${ping}ms`;
+}, 4500);
+</script>
+
+</body>
+</html>

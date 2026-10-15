@@ -115,7 +115,7 @@ function init(){
   document.head.appendChild(st);
   a?a.parentNode.insertBefore(b,a):document.body.appendChild(b);
   btnState(b);
-  b.onclick=()=>{lang=lang==="es"?"en":"es";try{localStorage.setItem(K,lang)}catch(e){}mo.disconnect();meta();apply(document.body);btnState(b);observe()};
+  b.onclick=()=>{lang=lang==="es"?"en":"es";try{localStorage.setItem(K,lang)}catch(e){}mo.disconnect();meta();apply(document.body);btnState(b);observe();dispatchEvent(new CustomEvent("ms-lang",{detail:lang}))};
   meta();if(lang==="en")apply(document.body);observe();
 }
 document.readyState==="loading"?document.addEventListener("DOMContentLoaded",init):init();

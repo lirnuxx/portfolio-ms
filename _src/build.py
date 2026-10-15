@@ -3,6 +3,7 @@ import pathlib,zipfile
 P=pathlib.Path(__file__).resolve().parent.parent;D=P/'demos';S=P/'_src'/'shared'
 (P/'descargas').mkdir(exist_ok=True)
 (P/'i18n.js').write_bytes((S/'i18n.js').read_bytes())
+(P/'asistente.js').write_bytes((S/'asistente.js').read_bytes())
 for d in ('produccion','noconformidades','ventas'):
     for n in ('comun.css','comun.js','fx.css','fx.js','i18n.js','servidor.ps1'):
         (D/d/n).write_bytes((S/n).read_bytes())

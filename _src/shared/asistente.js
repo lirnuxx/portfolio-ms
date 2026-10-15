@@ -25,7 +25,7 @@ qa:[
 ["Is he available for work?","Yes, he is listed as available for new projects. Write to him from "+A+"contacto"+L+"Contact</a>."],
 ["How can I contact him?","By email at <a href=\"mailto:mat.scvnna@gmail.com\">mat.scvnna@gmail.com</a>, on <a href=\"https://www.linkedin.com/in/mat-svn\" target=\"_blank\" rel=\"noopener\">LinkedIn</a>, or check his code on <a href=\"https://github.com/Lirnuxx\" target=\"_blank\" rel=\"noopener\">GitHub</a>."]]}
 };
-const css=`#as-fab{position:fixed;right:20px;bottom:20px;z-index:90;width:56px;height:56px;border-radius:50%;border:0;cursor:pointer;background:var(--acc);color:#04202e;display:grid;place-items:center;box-shadow:0 8px 24px rgba(0,0,0,.35),0 0 0 6px var(--acc-glow);transition:transform .2s}
+const css=`#as-fab{position:fixed;right:20px;bottom:20px;z-index:90;width:56px;height:56px;border-radius:50%;border:0;cursor:pointer;background:var(--acc);color:var(--on-acc,#04202e);display:grid;place-items:center;box-shadow:0 8px 24px rgba(0,0,0,.35),0 0 0 6px var(--acc-glow);transition:transform .2s}
 #as-fab:hover{transform:scale(1.07)}#as-fab svg{width:26px;height:26px}
 #as-panel{position:fixed;right:20px;bottom:90px;z-index:91;width:360px;max-width:calc(100vw - 32px);height:min(540px,calc(100vh - 120px));display:none;flex-direction:column;background:var(--bg-card);color:var(--ink);border:1px solid var(--border-hover);border-radius:16px;box-shadow:0 20px 50px rgba(0,0,0,.45);overflow:hidden;font-family:var(--font-sans);font-size:14px;line-height:1.5}
 #as-panel.on{display:flex;animation:as-in .22s ease-out}@keyframes as-in{from{opacity:0;transform:translateY(10px) scale(.97)}}
@@ -36,7 +36,7 @@ const css=`#as-fab{position:fixed;right:20px;bottom:20px;z-index:90;width:56px;h
 #as-msgs{flex:1;min-height:0;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:10px}
 .as-m{max-width:88%;padding:9px 12px;border-radius:14px;animation:as-in .2s ease-out;word-wrap:break-word}
 .as-b{background:var(--pill-bg);border:1px solid var(--border);align-self:flex-start;border-bottom-left-radius:4px}
-.as-u{background:var(--acc);color:#04202e;font-weight:600;align-self:flex-end;border-bottom-right-radius:4px}
+.as-u{background:var(--acc);color:var(--on-acc,#04202e);font-weight:600;align-self:flex-end;border-bottom-right-radius:4px}
 .as-m a{color:var(--acc);text-decoration:underline}.as-u a{color:inherit}
 .as-t{display:flex;gap:4px;padding:12px}.as-t i{width:6px;height:6px;border-radius:50%;background:var(--mute);animation:as-d 1s infinite}.as-t i:nth-child(2){animation-delay:.15s}.as-t i:nth-child(3){animation-delay:.3s}@keyframes as-d{50%{transform:translateY(-4px);opacity:.4}}
 #as-q{flex:none;padding:10px 12px 12px;border-top:1px solid var(--border);display:flex;flex-wrap:wrap;gap:6px;max-height:42%;overflow-y:auto}

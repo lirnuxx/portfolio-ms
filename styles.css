@@ -6,11 +6,12 @@
   --border-hover: rgba(255, 255, 255, 0.18);
   --ink: #f0f4f8;
   --mute: #8a99ad;
-  --acc: #38bdf8;
-  --acc-glow: rgba(56, 189, 248, 0.15);
-  --alert: #fb7185;
+  --acc: #ffffff;
+  --acc-glow: rgba(250, 253, 252, 0.15);
+  --on-acc: #04231a;    
+  --alert: #fb7185; 
   --warn: #f59e0b;
-  --success: #34d399;
+  --success:  #34d399;
   --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
   --pill-bg: rgba(255, 255, 255, 0.05);
@@ -24,8 +25,9 @@
   --border-hover: rgba(0, 0, 0, 0.16);
   --ink: #0f172a;
   --mute: #64748b;
-  --acc: #0284c7;
-  --acc-glow: rgba(2, 132, 199, 0.1);
+  --acc: #000806;
+  --acc-glow: rgba(0, 3, 2, 0.1);
+  --on-acc: #ffffff;
   --alert: #e11d48;
   --warn: #d97706;
   --success: #10b981;

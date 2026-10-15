@@ -29,17 +29,17 @@ const css=`#as-fab{position:fixed;right:20px;bottom:20px;z-index:90;width:56px;h
 #as-fab:hover{transform:scale(1.07)}#as-fab svg{width:26px;height:26px}
 #as-panel{position:fixed;right:20px;bottom:90px;z-index:91;width:360px;max-width:calc(100vw - 32px);height:min(540px,calc(100vh - 120px));display:none;flex-direction:column;background:var(--bg-card);color:var(--ink);border:1px solid var(--border-hover);border-radius:16px;box-shadow:0 20px 50px rgba(0,0,0,.45);overflow:hidden;font-family:var(--font-sans);font-size:14px;line-height:1.5}
 #as-panel.on{display:flex;animation:as-in .22s ease-out}@keyframes as-in{from{opacity:0;transform:translateY(10px) scale(.97)}}
-#as-panel header{display:flex;align-items:center;gap:10px;padding:14px 16px;border-bottom:1px solid var(--border)}
+#as-panel .as-h{flex:none;display:flex;align-items:center;gap:10px;padding:14px 16px;border-bottom:1px solid var(--border)}
 #as-panel .av{width:34px;height:34px;border-radius:50%;background:var(--acc-glow);color:var(--acc);display:grid;place-items:center;font-size:16px;flex:none}
-#as-panel header div{flex:1}#as-panel header b{display:block;font-size:14px}#as-panel header small{color:var(--mute);font-size:12px}
-#as-panel header button{background:none;border:0;color:var(--mute);cursor:pointer;font-size:22px;line-height:1;padding:4px}
-#as-msgs{flex:1;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:10px}
+#as-panel .as-h div{flex:1}#as-panel .as-h b{display:block;font-size:14px}#as-panel .as-h small{color:var(--mute);font-size:12px}
+#as-panel .as-h button{background:none;border:0;color:var(--mute);cursor:pointer;font-size:22px;line-height:1;padding:4px}
+#as-msgs{flex:1;min-height:0;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:10px}
 .as-m{max-width:88%;padding:9px 12px;border-radius:14px;animation:as-in .2s ease-out;word-wrap:break-word}
 .as-b{background:var(--pill-bg);border:1px solid var(--border);align-self:flex-start;border-bottom-left-radius:4px}
 .as-u{background:var(--acc);color:#04202e;font-weight:600;align-self:flex-end;border-bottom-right-radius:4px}
 .as-m a{color:var(--acc);text-decoration:underline}.as-u a{color:inherit}
 .as-t{display:flex;gap:4px;padding:12px}.as-t i{width:6px;height:6px;border-radius:50%;background:var(--mute);animation:as-d 1s infinite}.as-t i:nth-child(2){animation-delay:.15s}.as-t i:nth-child(3){animation-delay:.3s}@keyframes as-d{50%{transform:translateY(-4px);opacity:.4}}
-#as-q{padding:10px 12px 12px;border-top:1px solid var(--border);display:flex;flex-wrap:wrap;gap:6px;max-height:42%;overflow-y:auto}
+#as-q{flex:none;padding:10px 12px 12px;border-top:1px solid var(--border);display:flex;flex-wrap:wrap;gap:6px;max-height:42%;overflow-y:auto}
 #as-q button{font:inherit;font-size:12.5px;color:var(--ink);background:transparent;border:1px solid var(--border-hover);border-radius:999px;padding:6px 11px;cursor:pointer;text-align:left;transition:.15s}
 #as-q button:hover,#as-q button:focus-visible{border-color:var(--acc);color:var(--acc);background:var(--acc-glow)}#as-q button[disabled]{opacity:.45}
 @media(max-width:480px){#as-fab{right:14px;bottom:14px}#as-panel{right:16px;bottom:82px}}
@@ -50,8 +50,8 @@ function init(){
   const $=(t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e};
   const fab=$("button","","<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' aria-hidden='true'><path d='M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z'/><path d='M9 11h.01M12 11h.01M15 11h.01'/></svg>");
   fab.id="as-fab";fab.type="button";fab.setAttribute("aria-expanded","false");
-  const p=$("section");p.id="as-panel";p.setAttribute("role","dialog");
-  const hd=$("header","",'<span class="av" aria-hidden="true">✦</span><div><b></b><small></small></div>');
+  const p=$("div");p.id="as-panel";p.setAttribute("role","dialog");
+  const hd=$("div","as-h",'<span class="av" aria-hidden="true">✦</span><div><b></b><small></small></div>');
   const x=$("button","","&times;");x.type="button";hd.appendChild(x);
   const msgs=$("div");msgs.id="as-msgs";msgs.setAttribute("aria-live","polite");
   const q=$("div");q.id="as-q";

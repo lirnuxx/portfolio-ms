@@ -26,7 +26,7 @@ const D={
 "Bases de Datos y Backend":"Databases and Backend","Diseño de modelos relacionales y automatización de procesos backend.":"Relational model design and backend process automation.",
 "Estudiante de Licenciatura en Informática enfocado en crear soluciones de software eficientes que resuelvan problemas de negocio reales.":"Computer Science student focused on building efficient software solutions that solve real business problems.",
 "Mi enfoque se centra en transformar procesos manuales o datos desorganizados en paneles interactivos que faciliten la toma de decisiones.":"My focus is on turning manual processes or messy data into interactive dashboards that make decision-making easier.",
-"Mail":"Email","Argentina":"Argentina",
+"Mail":"Email","Video de demostración del panel de control de calidad":"Demo video of the quality control dashboard","Argentina":"Argentina",
 // Demos: comunes
 "← Volver al portfolio":"← Back to portfolio","Tema":"Theme","Desarrollado por Mateo Scovenna":"Developed by Mateo Scovenna",
 "Registro":"Log","Indicadores":"Indicators","Auditorías":"Audits","Proveedores":"Suppliers","Fecha":"Date","Área":"Area","Tipo":"Type","Estado":"Status","Detalle":"Detail",

@@ -818,3 +818,6 @@ footer {
   .kinetic-text { transform: none; opacity: 1; }
   .txt-rotate { border-right: none; }
 }
+/* Video de demostración */
+.preview-box.has-video{padding:0;overflow:hidden;align-self:center}
+.preview-box video{display:block;width:100%;height:auto;aspect-ratio:2/1;background:#000;border-radius:12px}

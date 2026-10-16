@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build artifacts (optional - keeping analytics.bundle.js tracked for deployment)
+# analytics.bundle.js
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

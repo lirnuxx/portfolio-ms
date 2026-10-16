@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-ms",
+  "version": "1.0.0",
+  "description": "Portfolio de Mateo Scovenna",
+  "scripts": {
+    "build:analytics": "esbuild analytics.js --bundle --outfile=analytics.bundle.js --format=iife"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lirnuxx/portfolio-ms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lirnuxx/portfolio-ms/issues"
+  },
+  "homepage": "https://github.com/lirnuxx/portfolio-ms#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
